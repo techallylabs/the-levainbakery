@@ -1,0 +1,35 @@
+.insight-popup .insight-popup-never-show {
+	margin-left: 15px;
+	margin-bottom: 5px;
+}
+
+.insight-popup button.mfp-close {
+	background-color: #ffffff;
+}
+
+.insight-popup button.mfp-close:before {
+	font-size: 40px;
+
+	@include pe-icon('\e680');
+}
+
+.insight-popup {
+	padding: 0 !important;
+
+	.mfp-close {
+		top: 10px;
+		right: 0;
+		width: 40px;
+		height: 40px;
+	}
+
+	@include media-breakpoint-down(sm) {
+		.vc_row {
+			background: none !important;
+		}
+
+		.vc_column-inner {
+			padding: 35px;
+		}
+	}
+}

@@ -1,0 +1,98 @@
+button,
+input[type="submit"],
+input[type="button"],
+a.button,
+.search-view-all {
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: 400;
+	color: #ffffff;
+	border: 1px solid $color__primary;
+	background-color: $color__primary;
+	padding: 12px 40px;
+	border-radius: 52px;
+	letter-spacing: 1.5px;
+
+	@extend %transit;
+
+	&:hover,
+	&:focus {
+		color: #333333;
+		background-color: transparent;
+	}
+
+	&:focus {
+		outline: none;
+	}
+
+	&.button-grey {
+		background-color: #ededed;
+		border-color: #ededed;
+		color: #333333;
+
+		&:hover,
+		&:focus {
+			background-color: transparent;
+			border-color: #333333;
+		}
+	}
+}
+
+button.alt,
+button.alt-button,
+input[type="submit"].alt,
+input[type="submit"].alt-button,
+input[type="button"].alt,
+input[type="button"].alt-button,
+a.button.alt,
+a.button.alt-button {
+	color: #333333;
+	background-color: transparent !important;
+
+	@extend %transit;
+
+	&:hover,
+	&:focus {
+		color: #ffffff !important;
+		background-color: #333333 !important;
+	}
+}
+
+.minicart-dropdown-wrapper a.button.wc-forward:hover {
+	color: #ffffff;
+}
+
+.button.btn-view-wishlist:hover {
+	color: #ffffff;
+}
+
+button.grey,
+button.grey-button,
+input[type="submit"].grey,
+input[type="submit"].grey-button,
+input[type="button"].grey,
+input[type="button"].grey-button,
+a.button.grey,
+a.button.grey-button {
+	color: #333333;
+	background-color: #dedede !important;
+	border-color: #dedede !important;
+
+	@extend %transit;
+
+	&:hover,
+	&:focus {
+		color: #ffffff !important;
+		background-color: #333333 !important;
+		border-color: #333333 !important;
+	}
+}
+
+.minicart-dropdown-wrapper a.button.wc-forward:hover {
+	color: #ffffff;
+}
+
+.button.btn-view-wishlist:hover {
+	color: #ffffff;
+}

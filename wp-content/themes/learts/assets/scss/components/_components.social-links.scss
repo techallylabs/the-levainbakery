@@ -1,0 +1,164 @@
+.social-links {
+	font-size: 0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+	li {
+		display: inline-block;
+		vertical-align: middle;
+
+		a {
+			position: relative;
+			display: inline-block;
+			font-size: 0;
+
+			.site-footer & {
+				vertical-align: middle;
+			}
+
+			&:hover {
+				&:after {
+					display: none;
+				}
+			}
+		}
+
+		i {
+			vertical-align: middle;
+			text-align: center;
+			font-size: 16px;
+			width: 20px;
+
+			@extend %transit;
+			@extend %fa-icon;
+		}
+	}
+
+	.title {
+		font-size: 16px;
+		text-align: left;
+		display: inline-block;
+		vertical-align: middle;
+		padding-left: 15px;
+	}
+
+	.topbar & {
+
+		li {
+			padding: 0 5px;
+			@extend %transit;
+
+			&:first-child {
+				padding-left: 0;
+			}
+
+			&:last-child {
+				padding-right: 0;
+			}
+
+			&:before,
+			&:after,
+			span.title {
+				display: none;
+			}
+
+			&:hover {
+				transform: translateY(-5px);
+			}
+		}
+	}
+
+	.topbar.topbar-switchers-right & {
+
+		li:last-child:after {
+			display: block;
+		}
+	}
+
+	.site-mobile-menu & {
+		padding: 0 20px;
+		margin-top: 40px;
+
+		li {
+			margin-right: 15px;
+
+			&:last-of-type {
+				margin-right: 0;
+			}
+
+			span.title {
+				line-height: 30px;
+				margin-left: 5px;
+				margin-right: 0;
+				padding-right: 0;
+			}
+		}
+
+		.title {
+			display: none;
+		}
+	}
+
+	.site-header .content-social & {
+
+		li {
+			margin-right: 20px;
+
+			i {
+				font-size: 14px;
+			}
+
+			&:before,
+			&:after,
+			span.title {
+				display: none;
+			}
+		}
+	}
+
+	.site-footer & {
+
+		li {
+			display: block;
+			vertical-align: top;
+
+			&:before,
+			&:after {
+				display: none;
+			}
+		}
+
+		li > a:after {
+			display: none;
+		}
+	}
+
+	@include media-breakpoint-down(lg) {
+		.topbar & {
+			display: none;
+		}
+	}
+}
+
+.social-links--large {
+
+	li i {
+		font-size: 18px;
+	}
+
+	li + li {
+		margin-left: 18px;
+	}
+
+}
+
+.post .post-share-buttons {
+	display: inline-block;
+
+	a{
+		padding: 0 5px;
+	}
+}
+
+

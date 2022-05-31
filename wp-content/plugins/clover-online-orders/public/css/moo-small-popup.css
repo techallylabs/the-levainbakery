@@ -1,0 +1,79 @@
+
+@media only screen and (max-width: 767px) {
+    #mooModal {
+        margin: 0px;
+        width: 100vw;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #mooModal {
+        margin: 0px 20vw;
+        width: 60vw;
+    }
+}
+
+#mooModalWindow {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: 1053;
+    left: 0;
+    animation-name: modalopen;
+    animation-duration: 1s;
+    position: fixed;
+    background-color: #f8f9fa0d;
+    -webkit-transition: 0.5s;
+    overflow: auto;
+    transition: all 0.3s linear;
+    background-color: rgba(0,0,0,.7);
+}
+#mooModal {
+    color: #516278;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transition: all 0.5s;
+    display: grid;
+    grid-template-rows: 50px auto;
+    position: absolute;
+    overflow: hidden;
+    top: 40px;
+    background-color: #fff;
+    border-radius: 12px;
+    -webkit-box-shadow: 0 0 230px rgba(58,91,125,0.79);
+    -moz-box-shadow: 0 0 230px rgba(58,91,125,0.79);
+    box-shadow: 0 0 230px rgba(58,91,125,0.79);
+}
+#mooModalWindow .mooModalHeader {
+    background-color: #0097e6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    color: #fff;
+}
+#mooModalWindow .mooModalHeader h4 {
+    font-weight: 700;
+    margin: 0;
+    font-size: 19px;
+    line-height: 30px;
+    color: #fff;
+}
+#mooModalWindow .mooModalHeader span {
+    height: 29px;
+    width: 34px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#mooModalWindow .mooModalContent {
+   overflow-y: scroll;
+}
+.mooModalBlurBackground {
+    overflow: hidden;
+}

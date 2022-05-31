@@ -1,0 +1,3622 @@
+# Copyright (C) 2022 learts
+# This file is distributed under the same license as the learts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: learts\n"
+"Report-Msgid-Bugs-To: http://thememove.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Language-Team: ThemeMove <thememovedotcom@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/learts/404.php:35
+msgid "Oops!"
+msgstr ""
+
+#: src/learts/404.php:36
+msgid "Page not found!"
+msgstr ""
+
+#: src/learts/404.php:37
+msgid "You could either go back or go to homepage"
+msgstr ""
+
+#: src/learts/404.php:40
+msgid "Go back"
+msgstr ""
+
+#: src/learts/404.php:41
+msgid "Homepage"
+msgstr ""
+
+#: src/learts/author-bio.php:39, src/learts/framework/class-extras.php:264, src/learts/includes/theme-options/blog/blog_single.php:81, src/learts/includes/theme-options/woo/woo_product.php:172, src/learts/woocommerce/single-product/share.php:43
+msgid "Facebook"
+msgstr ""
+
+#: src/learts/author-bio.php:46, src/learts/framework/class-extras.php:268, src/learts/includes/theme-options/blog/blog_single.php:82, src/learts/includes/theme-options/woo/woo_product.php:173, src/learts/woocommerce/single-product/share.php:52
+msgid "Twitter"
+msgstr ""
+
+#: src/learts/author-bio.php:53
+msgid "Linkedin"
+msgstr ""
+
+#: src/learts/author-bio.php:60, src/learts/framework/class-extras.php:276
+msgid "Instagram"
+msgstr ""
+
+#: src/learts/comments.php:32
+msgid "Comments"
+msgstr ""
+
+#: src/learts/comments.php:35
+msgid "Comment"
+msgstr ""
+
+#: src/learts/comments.php:43, src/learts/comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: src/learts/comments.php:46, src/learts/comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: src/learts/comments.php:48, src/learts/comments.php:73
+msgid "Newer Comments"
+msgstr ""
+
+#: src/learts/comments.php:86
+msgid "Comments are closed."
+msgstr ""
+
+#: src/learts/comments.php:94
+msgid "Your name (*)"
+msgstr ""
+
+#: src/learts/comments.php:96
+msgid "Mail (*)"
+msgstr ""
+
+#: src/learts/comments.php:102, src/learts/woocommerce/single-product-reviews.php:90
+msgid "Submit"
+msgstr ""
+
+#: src/learts/comments.php:104
+msgid "Leave your thought here"
+msgstr ""
+
+#: src/learts/comments.php:110, src/learts/includes/theme-options/cookie/_cookie.php:34
+msgid "Message"
+msgstr ""
+
+#: src/learts/comments.php:113
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: src/learts/comments.php:117
+msgid "<a href=\"%1$s\" aria-label=\"Logged in as %2$s. Edit your profile.\">Logged in as %2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: src/learts/components/page/content-page.php:17, src/learts/components/portfolio/content-portfolio.php:53, src/learts/components/portfolio/content-single-portfolio.php:32, src/learts/components/post/content-fullwidth.php:70, src/learts/components/post/content-single.php:106, src/learts/components/post/content.php:115
+msgid "Pages:"
+msgstr ""
+
+#: src/learts/components/portfolio/content-portfolio.php:58, src/learts/components/portfolio/content-single-portfolio.php:37, src/learts/components/post/content-fullwidth.php:75, src/learts/components/post/content-single.php:111, src/learts/components/post/content.php:120
+msgid "Page"
+msgstr ""
+
+#: src/learts/components/portfolio/content-portfolio.php:64, src/learts/components/post/content-fullwidth.php:81, src/learts/components/post/content.php:126
+msgid "Read more"
+msgstr ""
+
+#: src/learts/components/portfolio/content-related-portfolio.php:23
+msgid "Relate Portfolio"
+msgstr ""
+
+#: src/learts/components/portfolio/content-single-portfolio.php:42
+msgid "Date: "
+msgstr ""
+
+#: src/learts/components/portfolio/content-single-portfolio.php:50
+msgid "Categories:  "
+msgstr ""
+
+#: src/learts/components/portfolio/content-single-portfolio.php:57
+msgid "Tags:  "
+msgstr ""
+
+#: src/learts/components/portfolio/content-single-portfolio.php:63
+msgid "Links:  "
+msgstr ""
+
+#: src/learts/components/portfolio/content-single-portfolio.php:70
+msgid "Share:  "
+msgstr ""
+
+#: src/learts/components/post/content-fullwidth.php:100
+msgid "Share this post:"
+msgstr ""
+
+#: src/learts/components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: src/learts/components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: src/learts/components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: src/learts/components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: src/learts/components/post/content-single.php:130
+msgid "Share this post"
+msgstr ""
+
+#: src/learts/components/topbar/topbar-menu-text-switchers.php:59, src/learts/components/topbar/topbar-only-text.php:33, src/learts/components/topbar/topbar-text-menu-switchers.php:58
+msgid "Close"
+msgstr ""
+
+#: src/learts/components/topbar/topbar-menu-text-switchers.php:64, src/learts/components/topbar/topbar-menu-text-switchers.php:65, src/learts/components/topbar/topbar-only-text.php:37, src/learts/components/topbar/topbar-only-text.php:37, src/learts/components/topbar/topbar-text-menu-switchers.php:62, src/learts/components/topbar/topbar-text-menu-switchers.php:62
+msgid "Open the top bar"
+msgstr ""
+
+#: src/learts/framework/class-compatible.php:58, src/learts/framework/class-compatible.php:70, src/learts/framework/class-compatible.php:84
+msgid " requires at least WordPress version 4.3. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: src/learts/framework/class-enqueue.php:316, src/learts/woocommerce/quick-view.php:12
+msgid "Adding to cart..."
+msgstr ""
+
+#: src/learts/framework/class-enqueue.php:318
+msgid "Product has been added to cart!"
+msgstr ""
+
+#: src/learts/framework/class-enqueue.php:326
+msgid "has been added to cart!"
+msgstr ""
+
+#: src/learts/framework/class-enqueue.php:328, src/learts/woocommerce/cart/mini-cart.php:146, src/learts/woocommerce/wishlist-view.php:280
+msgid "View Cart"
+msgstr ""
+
+#: src/learts/framework/class-enqueue.php:331
+msgid "Product has been added to wishlist!"
+msgstr ""
+
+#: src/learts/framework/class-enqueue.php:333
+msgid "Browse Wishlist"
+msgstr ""
+
+#: src/learts/framework/class-enqueue.php:340, src/learts/framework/class-templates.php:959, src/learts/includes/theme-options/features/_features.php:52
+msgid "Back to top"
+msgstr ""
+
+#: src/learts/framework/class-extras.php:130
+msgid "Enabled"
+msgstr ""
+
+#: src/learts/framework/class-extras.php:131
+msgid "Disabled"
+msgstr ""
+
+#: src/learts/framework/class-extras.php:131
+msgid "Not Set"
+msgstr ""
+
+#: src/learts/framework/class-extras.php:133, src/learts/framework/class-extras.php:134, src/learts/framework/class-extras.php:136
+msgid "n/a"
+msgstr ""
+
+#: src/learts/framework/class-extras.php:207
+msgid "Quote"
+msgstr ""
+
+#: src/learts/framework/class-extras.php:272
+msgid "Behance"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:63
+msgid "-- Select a menu --"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:92, src/learts/framework/class-metabox.php:1124, src/learts/framework/class-metabox.php:1144, src/learts/framework/class-metabox.php:1160, src/learts/framework/class-metabox.php:1177, src/learts/framework/class-walker-nav-menu-edit.php:454, src/learts/includes/theme-options/blog/blog_archive.php:95, src/learts/includes/theme-options/portfolio/_portfolio.php:80, src/learts/includes/theme-options/woo/woo_general.php:16, src/learts/includes/theme-options/woo/woo_shop.php:85
+msgid "Default"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:96, src/learts/framework/class-metabox.php:158, src/learts/framework/class-metabox.php:567, src/learts/includes/theme-options/blog/blog_archive.php:21, src/learts/includes/theme-options/blog/blog_single.php:21, src/learts/includes/theme-options/pages/_pages.php:21, src/learts/includes/theme-options/pages/_pages.php:44, src/learts/includes/theme-options/woo/woo_product.php:19, src/learts/includes/theme-options/woo/woo_shop.php:21
+msgid "Disable"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:165
+msgid "Email Address"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:204, src/learts/framework/class-walker-nav-menu-edit.php:348, src/learts/framework/class-walker-nav-menu-edit.php:464, src/learts/includes/theme-options/footer/_footer.php:59, src/learts/includes/theme-options/header/header_topbar.php:143
+msgid "Custom"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:286, src/learts/framework/class-helper.php:349
+msgid "Our Blog"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:297
+msgid "Search Result Found"
+msgid_plural "Search Results Found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-helper.php:314
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:317
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:318
+msgctxt "Page title monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:321
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:322
+msgctxt "Page title yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:339
+msgid "404: Page Not Found"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:380, src/learts/includes/theme-options/woo/_woo.php:4
+msgid "Shop"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:600, src/learts/framework/class-helper.php:701
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:690
+msgid "View All"
+msgstr ""
+
+#: src/learts/framework/class-helper.php:1086
+msgid "Choose a slider"
+msgstr ""
+
+#: src/learts/framework/class-import.php:37
+msgid " - Full Demo"
+msgstr ""
+
+#: src/learts/framework/class-import.php:38
+msgid "This version will import the full demo including all images into your site. Once installed, your site would look exactly like our demo. However, this version is large in size and will take more time."
+msgstr ""
+
+#: src/learts/framework/class-import.php:44
+msgid " - Dummy"
+msgstr ""
+
+#: src/learts/framework/class-import.php:45
+msgid "This is the miniature version of Learts demo where images are replaced by placeholders. If you encounter problems installing the full demo, try this one. It’s lightweight and much faster."
+msgstr ""
+
+#: src/learts/framework/class-init.php:59
+msgid "Primary"
+msgstr ""
+
+#: src/learts/framework/class-init.php:63
+msgid "Top Bar Menu"
+msgstr ""
+
+#: src/learts/framework/class-init.php:67
+msgid "Full-screen Menu"
+msgstr ""
+
+#: src/learts/framework/class-init.php:71, src/learts/includes/theme-options/menu/mobile_menu.php:4
+msgid "Mobile Menu"
+msgstr ""
+
+#: src/learts/framework/class-init.php:75, src/learts/includes/theme-options/header/header_topbar.php:173
+msgid "Language Switcher"
+msgstr ""
+
+#: src/learts/framework/class-init.php:79, src/learts/includes/theme-options/header/header_topbar.php:194
+msgid "Currency Switcher"
+msgstr ""
+
+#: src/learts/framework/class-init.php:241
+msgid "Black"
+msgstr ""
+
+#: src/learts/framework/class-init.php:246
+msgid "White"
+msgstr ""
+
+#: src/learts/framework/class-init.php:251
+msgid "Gray"
+msgstr ""
+
+#: src/learts/framework/class-init.php:256, src/learts/framework/class-init.php:261, src/learts/framework/class-init.php:266, src/learts/framework/class-init.php:271, src/learts/framework/class-init.php:276, src/learts/framework/class-init.php:281
+msgid "Yellow"
+msgstr ""
+
+#: src/learts/framework/class-init.php:286
+msgid "Green"
+msgstr ""
+
+#: src/learts/framework/class-init.php:291
+msgid "Brown"
+msgstr ""
+
+#: src/learts/framework/class-init.php:309
+msgid "Sidebar"
+msgstr ""
+
+#: src/learts/framework/class-init.php:310, src/learts/framework/class-init.php:321, src/learts/framework/class-init.php:333, src/learts/framework/class-init.php:357, src/learts/framework/class-init.php:380
+msgid "Add widgets here."
+msgstr ""
+
+#: src/learts/framework/class-init.php:320
+msgid "Off-canvas Sidebar"
+msgstr ""
+
+#: src/learts/framework/class-init.php:332
+msgid "Sidebar for Shop"
+msgstr ""
+
+#: src/learts/framework/class-init.php:342
+msgid "Shop filters"
+msgstr ""
+
+#: src/learts/framework/class-init.php:344
+msgid "Widget Area for shop filters on the top of shop pages"
+msgstr ""
+
+#: src/learts/framework/class-init.php:356
+msgid "Header Widget Area"
+msgstr ""
+
+#: src/learts/framework/class-init.php:367
+msgid "Sub Menu Widget Area"
+msgstr ""
+
+#: src/learts/framework/class-init.php:368
+msgid "Add widgets here. You can use shortcode vertical menu in here."
+msgstr ""
+
+#: src/learts/framework/class-init.php:379
+msgid "Search Widget Area"
+msgstr ""
+
+#: src/learts/framework/class-init.php:390
+msgid "Footer | #1"
+msgstr ""
+
+#: src/learts/framework/class-init.php:391
+msgid "This is footer area column 1."
+msgstr ""
+
+#: src/learts/framework/class-init.php:401
+msgid "Footer | #2"
+msgstr ""
+
+#: src/learts/framework/class-init.php:402
+msgid "This footer area column 2."
+msgstr ""
+
+#: src/learts/framework/class-init.php:412
+msgid "Footer | #3"
+msgstr ""
+
+#: src/learts/framework/class-init.php:413
+msgid "This footer area column 3."
+msgstr ""
+
+#: src/learts/framework/class-init.php:423
+msgid "Footer | #4"
+msgstr ""
+
+#: src/learts/framework/class-init.php:424
+msgid "This is footer area column 4."
+msgstr ""
+
+#: src/learts/framework/class-instagram.php:43, src/learts/framework/class-instagram.php:232
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: src/learts/framework/class-instagram.php:47, src/learts/framework/class-instagram.php:236
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: src/learts/framework/class-instagram.php:54, src/learts/framework/class-instagram.php:62, src/learts/framework/class-instagram.php:66, src/learts/framework/class-instagram.php:163, src/learts/framework/class-instagram.php:181, src/learts/framework/class-instagram.php:188, src/learts/framework/class-instagram.php:204
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: src/learts/framework/class-instagram.php:112, src/learts/framework/class-instagram.php:218
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:54, src/learts/framework/class-metabox.php:221, src/learts/framework/class-metabox.php:463, src/learts/framework/class-metabox.php:630
+msgid "Custom Logo"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:57, src/learts/framework/class-metabox.php:466
+msgid "Use custom logo on this page."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:59, src/learts/framework/class-metabox.php:468
+msgid "Yes"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:60, src/learts/framework/class-metabox.php:469
+msgid "No"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:65, src/learts/framework/class-metabox.php:474, src/learts/includes/theme-options/logo/_logo.php:14
+msgid "Logo Image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:71, src/learts/framework/class-metabox.php:480, src/learts/includes/theme-options/logo/_logo.php:23
+msgid "Logo Retina Image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:77, src/learts/framework/class-metabox.php:486
+msgid "Alternative Logo Image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:79, src/learts/framework/class-metabox.php:488, src/learts/includes/theme-options/logo/_logo.php:32
+msgid "for the header above the content"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:84, src/learts/framework/class-metabox.php:90, src/learts/framework/class-metabox.php:493, src/learts/framework/class-metabox.php:499, src/learts/includes/theme-options/logo/_logo.php:42
+msgid "Logo in mobile devices"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:122, src/learts/framework/class-metabox.php:351, src/learts/framework/class-metabox.php:531, src/learts/framework/class-metabox.php:819
+msgid "Custom Page Title"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:128, src/learts/framework/class-metabox.php:357, src/learts/framework/class-metabox.php:537, src/learts/framework/class-metabox.php:825
+msgid "Sub Title"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:152, src/learts/framework/class-metabox.php:561
+msgid "Footer Visibility"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:155, src/learts/framework/class-metabox.php:564
+msgid "Enable or disable footer on this page."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:157, src/learts/framework/class-metabox.php:566
+msgid "Enable"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:178, src/learts/framework/class-metabox.php:587
+msgid "Top slider"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:179, src/learts/framework/class-metabox.php:588
+msgid "Display slive on top page"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:191, src/learts/framework/class-metabox.php:600
+msgid "Disable Menu"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:192, src/learts/framework/class-metabox.php:601
+msgid "Disable Menu on this page"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:207, src/learts/framework/class-metabox.php:616
+msgid "Page Settings (custom metabox from theme)"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:228, src/learts/framework/class-metabox.php:637, src/learts/includes/theme-options/header/_header.php:4
+msgid "Header"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:236, src/learts/framework/class-metabox.php:645
+msgid "Custom off-canvas sidebar"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:245, src/learts/framework/class-metabox.php:654, src/learts/includes/theme-options/header/offcanvas_button.php:5
+msgid "Off-Canvas Sidebar"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:252, src/learts/framework/class-metabox.php:661, src/learts/includes/theme-options/header/header_topbar.php:116
+msgid "Menu"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:259, src/learts/framework/class-metabox.php:402, src/learts/framework/class-metabox.php:668, src/learts/framework/class-metabox.php:956, src/learts/includes/theme-options/page-title/_page-title.php:5, src/learts/includes/theme-options/page-title/_page-title.php:13
+msgid "Page Title"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:266, src/learts/framework/class-metabox.php:408, src/learts/framework/class-metabox.php:675, src/learts/framework/class-metabox.php:962, src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:4, src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:12
+msgid "Breadcrumbs"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:273, src/learts/framework/class-metabox.php:682
+msgid "Page Sidebar Options"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:279, src/learts/framework/class-metabox.php:688
+msgid "Custom sidebar for this page"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:291, src/learts/framework/class-metabox.php:700, src/learts/includes/theme-options/footer/_footer.php:5
+msgid "Footer"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:298, src/learts/framework/class-metabox.php:707, src/learts/includes/theme-options/page-title/_page-title.php:21
+msgid "Page Meta"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:302, src/learts/framework/class-metabox.php:711
+msgid "Page extra class name"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:305, src/learts/framework/class-metabox.php:714
+msgid "If you wish to add extra classes to the body class of the page (for custom css use), then please add the class(es) here."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:343
+msgid "Display the Post title on top"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:346
+msgid "Enabling this option will display the title of this post on top"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:389
+msgid "Post Settings (custom metabox from theme)"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:414, src/learts/framework/class-metabox.php:968
+msgid "Sidebar Options"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:420
+msgid "Custom sidebar for this post"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:719
+msgid "Link project"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:722
+msgid "Show link URL in the description of project."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:757
+msgid "Testimonial Settings (custom metabox from theme)"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:761
+msgid "Testimonial Cite"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:763
+msgid "Enter the cite name for the testimonial."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:768
+msgid "Testimonial Cite Subtext"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:770
+msgid "Enter the cite subtext for the testimonial (optional)."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:775
+msgid "Testimonial Cite Image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:776
+msgid "Enter the cite image for the testimonial (optional)."
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:782
+msgid "Testimonial Rating Star"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:784
+msgid "Enter the star for the testimonial rating"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:790
+msgid "Testimonial Rating Title"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:792
+msgid "Enter the title for the testimonial rating"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:811
+msgid "Display the Product title on top"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:814
+msgid "Enabling this option will display the title of this product on top"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:835
+msgid "Hide Related Products"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:838
+msgid "Check to hide related products on this page"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:844
+msgid "Instagram Hashtag"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:847
+msgid "Enter hashtag will be used to display images from Instagram. (For example: <strong>#women</strong>)"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:855
+msgid "Enable 360 product"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:858
+msgid "Enable 360 product displaying"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:863
+msgid "Frames"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:868
+msgid "8 frames"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:869
+msgid "16 frames"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:870
+msgid "24 frames"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:872
+msgid "Choose number of product’s frames. Eg: Select 16 frames if your product has 16 images"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:878
+msgid "Upload product review image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:881
+msgid "Upload product’s review image which is shown at the beginning"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:885
+msgid "Upload product 360 image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:888
+msgid "Upload your 360 product’s image. You can read  <a href=\"%s\" target=\"_blank\">this blog</a> to know how to create a 360 product’s image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:937
+msgid "Product Settings (custom metabox from theme)"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:950, src/learts/includes/theme-options/blog/blog_general.php:4, src/learts/includes/theme-options/woo/woo_general.php:4
+msgid "General"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:974
+msgid "Custom sidebar for this product"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:986
+msgid "360 Product"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:1033
+msgid "Category Meta Box"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:1050
+msgid "Thumbnail for Masonry layout"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:1051
+msgid "Use for 'Product Categories' shortcode (WPBakery Page Builder)"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:1075
+msgid "Product Category Meta Box"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:1178
+msgid "On"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:1179
+msgid "Off"
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:62
+msgid "WPBakery Page Builder (Visual Composer) Clipboard"
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:175, src/learts/framework/class-tgm-plugin-activation.php:336
+msgid "Install Required Plugins"
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:176, src/learts/framework/class-tgm-plugin-activation.php:337
+msgid "Install Plugins"
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:177, src/learts/framework/class-tgm-plugin-activation.php:339
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:179, src/learts/framework/class-tgm-plugin-activation.php:342
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:181
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:185
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:189
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:193
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:197
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:201
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:205
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:209
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:213
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:217, src/learts/framework/class-tgm-plugin-activation.php:355
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:220, src/learts/framework/class-tgm-plugin-activation.php:356
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:223, src/learts/framework/class-tgm-plugin-activation.php:357
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:226, src/learts/framework/class-tgm-plugin-activation.php:358
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:227, src/learts/framework/class-tgm-plugin-activation.php:360, src/learts/framework/class-tgm-plugin-activation.php:3151
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:228, src/learts/framework/class-tgm-plugin-activation.php:361, src/learts/framework/class-tgm-plugin-activation.php:2937
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-plugins.php:230, src/learts/framework/class-tgm-plugin-activation.php:363
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:233, src/learts/framework/class-tgm-plugin-activation.php:365
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:236, src/learts/framework/class-tgm-plugin-activation.php:367
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: src/learts/framework/class-plugins.php:239, src/learts/framework/class-tgm-plugin-activation.php:370
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: src/learts/framework/class-redux.php:59, src/learts/framework/class-redux.php:60
+msgid "Theme Options"
+msgstr ""
+
+#: src/learts/framework/class-redux.php:61
+msgid "Thank you for using our theme, please reward it a full five-star &#9733;&#9733;&#9733;&#9733;&#9733; rating. <br/> <a href=\"%s\" target=\"_blank\">Need support?</a> | <a href=\"%s\" target=\"_blank\">Check Update</a> "
+msgstr ""
+
+#: src/learts/framework/class-templates.php:135
+msgid "Featured"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:145
+msgid "By"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:173
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-templates.php:837, src/learts/woocommerce/loop/pagination.php:93
+msgid "more"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:845
+msgid "at"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:863
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:876
+msgid "Reply"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:878, src/learts/framework/class-walker-nav-menu-edit.php:170
+msgid "Edit"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:919, src/learts/searchform.php:4
+msgid "Search&hellip;"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:922, src/learts/framework/class-templates.php:1236, src/learts/framework/class-templates.php:1337, src/learts/framework/class-templates.php:1337, src/learts/framework/class-templates.php:1388, src/learts/framework/class-templates.php:1388, src/learts/includes/theme-options/header/header_search.php:13, src/learts/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1264
+msgid "Search Products..."
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1267
+msgid "Search Posts..."
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1282
+msgid "# Type at least %s %s to search"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1284
+msgid "character"
+msgid_plural "characters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-templates.php:1285
+msgid "# Hit enter to search or ESC to close"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1313, src/learts/framework/class-templates.php:1360
+msgid "All Categories"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1413, src/learts/framework/class-woo.php:386, src/learts/includes/theme-options/header/header_wishlist.php:9
+msgid "Wishlist"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1439, src/learts/includes/theme-options/header/header_cart.php:9
+msgid "Shopping Cart"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1443
+msgid "My Cart"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1489, src/learts/framework/class-templates.php:1493
+msgid "My Account"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1489, src/learts/woocommerce/myaccount/form-login.php:58, src/learts/woocommerce/myaccount/form-login.php:58
+msgid "Log in"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1493
+msgid "Log in / Register"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1591, src/learts/includes/theme-options/portfolio/_portfolio.php:6
+msgid "Portfolio"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1640
+msgid "You searched for:"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1646
+msgid "This author has written"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1647
+msgid "articles"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:341
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:343
+msgid "/*translators:1:pluginnames.*/This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:345
+msgid "/*translators:1:pluginnames.*/This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:347
+msgid "/*translators:1:pluginnames.*/The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:349
+msgid "/*translators:1:pluginnames.*/There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:351
+msgid "/*translators:1:pluginnames.*/The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:353
+msgid "/*translators:1:pluginnames.*/The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:359, src/learts/framework/class-tgm-plugin-activation.php:864, src/learts/framework/class-tgm-plugin-activation.php:2536, src/learts/framework/class-tgm-plugin-activation.php:3574
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:368
+msgid "Dismiss this notice"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:369
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:558
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:558
+msgid "Update Required"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:677
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:972
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:972, src/learts/framework/class-tgm-plugin-activation.php:978
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:978
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:1155, src/learts/framework/class-tgm-plugin-activation.php:2934
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2007
+msgid "TGMPA v%s"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2298
+msgid "Required"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2301
+msgid "Recommended"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2318
+msgid "WordPress Repository"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2321
+msgid "External Source"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2324
+msgid "Pre-Packaged"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2342
+msgid "Not Installed"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2346
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2348
+msgid "Active"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2354
+msgid "Required Update not Available"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2357
+msgid "Requires Update"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2360
+msgid "Update recommended"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2368
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2412
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2416
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2420
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2424
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2496
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2503
+msgid "Installed version:"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2507
+msgid "Minimum required version:"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2516
+msgid "Available version:"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2536
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2550
+msgid "Plugin"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2551
+msgid "Source"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2552
+msgid "Type"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2556
+msgid "Version"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2557
+msgid "Status"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2607
+msgid "Install %2$s"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2612
+msgid "Update %2$s"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2618
+msgid "Activate %2$s"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2679
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2711
+msgid "Install"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2717
+msgid "Update"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2720
+msgid "Activate"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2894
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2920
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3150
+msgid "Plugin activation failed."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3494
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3497
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3499
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3503
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3505
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3508
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3511
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3513
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3516
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:121
+msgid "%s (Invalid)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:125
+msgid "%s (Pending)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:140
+msgid "sub item"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:153
+msgid "Move up"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:162
+msgid "Move down"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:170
+msgid "Edit menu item"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:180
+msgid "URL"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:190
+msgid "Navigation Label"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:199
+msgid "Title Attribute"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:212
+msgid "Open link in a new tab"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:217
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:226
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:235
+msgid "Description"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:240
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:253, src/learts/woocommerce/wishlist-view.php:187
+msgid "Move"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:255
+msgid "Up one"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:257
+msgid "Down one"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:261
+msgid "To the top"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:268
+msgid "Original: %s"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:279
+msgid "Remove"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:287, src/learts/woocommerce/wishlist-view.php:45
+msgid "Cancel"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:323
+msgid "Custom Fields (from theme)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:327
+msgid "Item Tag (Optional)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:331
+msgid "Tag Type"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:336
+msgid "-- Select label type --"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:339, src/learts/woocommerce/loop/sale-flash.php:58, src/learts/woocommerce/single-product/sale-flash.php:41
+msgid "Hot"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:342, src/learts/woocommerce/loop/sale-flash.php:41, src/learts/woocommerce/single-product/sale-flash.php:36
+msgid "New"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:345, src/learts/woocommerce/loop/sale-flash.php:47, src/learts/woocommerce/single-product/sale-flash.php:47
+msgid "Sale"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:353
+msgid "You can change the colors for menu item tags <strong><a href=\"%s\" target=\"_blank\">here</a></strong>"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:371
+msgid "Normal State Colors"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:374, src/learts/framework/class-walker-nav-menu-edit.php:392
+msgid "Text Color: "
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:381, src/learts/framework/class-walker-nav-menu-edit.php:400
+msgid "Background Color: "
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:389
+msgid "Hover State Colors"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:410
+msgid "Tag Text"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:416
+msgid "If you leave it empty, text will be put in by default from Tag Type."
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:422
+msgid "Icon Classes (optional)"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:431
+msgid "Our theme supports <a target=\"_blank\" href=\"%s\">FontAwesome</a>, <a target=\"_blank\" href=\"%s\">Pe Icon 7 Stroke</a>, <a target=\"_blank\" href=\"%s\">Themify Icons</a>, <a target=\"_blank\" href=\"%s\">Ion Icons</a>. Please select and copy icon's class, then paste it here."
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:448
+msgid "Mega Menu Layout"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:458, src/learts/includes/theme-options/footer/_footer.php:46, src/learts/includes/theme-options/header/header_layout.php:80, src/learts/includes/theme-options/header/header_topbar.php:96
+msgid "Wide"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:462, src/learts/includes/theme-options/header/header_topbar.php:97, src/learts/includes/theme-options/woo/woo_shop.php:52
+msgid "Full width"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:468
+msgid "Select the mega menu layout"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:472
+msgid "Mega Menu width"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:362, src/learts/woocommerce/cart/cart.php:35, src/learts/woocommerce/cart/cart.php:109
+msgid "Quantity"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:389, src/learts/woocommerce/cart/mini-cart.php:34
+msgid "Item removed."
+msgstr ""
+
+#: src/learts/framework/class-woo.php:390, src/learts/woocommerce/cart/mini-cart.php:35
+msgid "Undo"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:394
+msgid "No products in the wishlist."
+msgstr ""
+
+#: src/learts/framework/class-woo.php:423, src/learts/woocommerce/wishlist-view.php:221
+msgid "Remove this product"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:448, src/learts/woocommerce/loop/sale-flash.php:37
+msgid "Out of stock"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:474
+msgid "View Wishlist"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:702
+msgid "All"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:752, src/learts/includes/theme-options/woo/woo_shop_toolbar.php:51
+msgid "Hot Products"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:757, src/learts/includes/theme-options/woo/woo_shop_toolbar.php:52
+msgid "New Products"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:762
+msgid "Sales Products"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:816
+msgid "Filters"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:935, src/learts/framework/class-woo.php:964, src/learts/includes/theme-options/woo/woo_shop_toolbar.php:36, src/learts/includes/theme-options/woo/woo_shop_toolbar.php:70
+msgid "Categories"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:939, src/learts/framework/class-woo.php:969
+msgid "Back"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1099, src/learts/framework/class-woo.php:1102, src/learts/framework/class-woo.php:1103, src/learts/includes/theme-options/woo/woo_general.php:90, src/learts/includes/theme-options/woo/woo_general.php:98
+msgid "Quick View"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1121, src/learts/framework/class-woo.php:1130
+msgid "Compare"
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1219
+msgid "Please choose the quantity of items you wish to add to your cart."
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1235
+msgid "Sorry, that item can only be added once."
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1240
+msgid "Sorry, something went wrong. Please try again."
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1278
+msgid "Tag your photos with <a href=\"%s\" target=\"%s\">%s</a> on Instagram."
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1297, src/learts/framework/class-woo.php:1308
+msgid "View on Instagram"
+msgstr ""
+
+#: src/learts/includes/extensions/repeater/repeater/field_repeater.php:186, src/learts/includes/extensions/repeater/repeater/field_repeater.php:229
+msgid "Delete"
+msgstr ""
+
+#: src/learts/includes/extensions/repeater/repeater/field_repeater.php:251
+msgid "Add"
+msgstr ""
+
+#: src/learts/includes/extensions/search/extension_search.php:102
+msgid "Search for option(s)"
+msgstr ""
+
+#: src/learts/includes/theme-options/api/_api.php:6
+msgid "API Integrations"
+msgstr ""
+
+#: src/learts/includes/theme-options/api/_api.php:14
+msgid "MailChimp API Key"
+msgstr ""
+
+#: src/learts/includes/theme-options/api/_api.php:15
+msgid "The API key for connecting with your MailChimp account. <a href=\"%s\" target=\"_blank\">Get your API key here</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/api/_api.php:29
+msgid "Google Maps API Key"
+msgstr ""
+
+#: src/learts/includes/theme-options/api/_api.php:30
+msgid "Follow <a href=\"%s\" target=\"_blank\">this link</a> and click <strong>GET A KEY</strong> button."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/_blog.php:4
+msgid "Blog"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:5
+msgid "Blog Archive"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:13
+msgid "Archive Sidebar Position"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:14
+msgid "Controls the position of sidebars for the archive pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:17, src/learts/includes/theme-options/blog/blog_single.php:17, src/learts/includes/theme-options/header/header_right_column.php:61, src/learts/includes/theme-options/header/offcanvas_button.php:62, src/learts/includes/theme-options/menu/site_menu.php:16, src/learts/includes/theme-options/pages/_pages.php:17, src/learts/includes/theme-options/pages/_pages.php:40, src/learts/includes/theme-options/woo/woo_product.php:15, src/learts/includes/theme-options/woo/woo_product.php:63, src/learts/includes/theme-options/woo/woo_shop.php:17
+msgid "Left"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:25, src/learts/includes/theme-options/blog/blog_single.php:25, src/learts/includes/theme-options/header/offcanvas_button.php:63, src/learts/includes/theme-options/menu/site_menu.php:18, src/learts/includes/theme-options/pages/_pages.php:25, src/learts/includes/theme-options/pages/_pages.php:48, src/learts/includes/theme-options/woo/woo_product.php:23, src/learts/includes/theme-options/woo/woo_shop.php:25
+msgid "Right"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:35
+msgid "Archive Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:36, src/learts/includes/theme-options/woo/woo_shop.php:36
+msgid "Choose the sidebar for archive pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:48
+msgid "Archive Display Type"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:49
+msgid "Select the display type."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:51, src/learts/includes/theme-options/footer/_footer.php:45, src/learts/includes/theme-options/header/header_layout.php:79, src/learts/includes/theme-options/header/header_topbar.php:95
+msgid "Standard"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:52
+msgid "Grid"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:53
+msgid "List"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:54
+msgid "Masonry"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:62, src/learts/includes/theme-options/portfolio/_portfolio.php:47
+msgid "Archive Content Output"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:63
+msgid "Select if you'd like to output the content or excerpt on archive pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:66, src/learts/includes/theme-options/portfolio/_portfolio.php:51
+msgid "Excerpt"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:67, src/learts/includes/theme-options/portfolio/_portfolio.php:52
+msgid "Content"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:75, src/learts/includes/theme-options/portfolio/_portfolio.php:60
+msgid "Excerpt Length"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:76, src/learts/includes/theme-options/portfolio/_portfolio.php:61
+msgid "Controls the number of words of the post excerpt (from 0 to %s words)"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:92, src/learts/includes/theme-options/portfolio/_portfolio.php:77, src/learts/includes/theme-options/woo/woo_shop.php:82
+msgid "Pagination Type"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:93, src/learts/includes/theme-options/portfolio/_portfolio.php:78, src/learts/includes/theme-options/woo/woo_shop.php:83
+msgid "Select pagination type"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:96, src/learts/includes/theme-options/portfolio/_portfolio.php:81, src/learts/includes/theme-options/woo/woo_shop.php:86
+msgid "Load More Button"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:97, src/learts/includes/theme-options/portfolio/_portfolio.php:82, src/learts/includes/theme-options/woo/woo_shop.php:87
+msgid "Infinite Scroll"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:114
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:121
+msgid "The excerpt length must be from 0 to %s words."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_general.php:11
+msgid "Post Meta"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_general.php:12
+msgid "Turn on to display post meta on blog posts"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_general.php:19
+msgid "Display Author"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_general.php:20
+msgid "Display author on blog posts"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_general.php:32
+msgid "Display Categories"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_general.php:33
+msgid "Display categories on blog posts"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:5
+msgid "Blog Single Post"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:13
+msgid "Post Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:14
+msgid "Controls the position of sidebars for the single post pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:35
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:36
+msgid "Choose the sidebar for single post pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:47, src/learts/includes/theme-options/woo/woo_shop_toolbar.php:37, src/learts/includes/theme-options/woo/woo_shop_toolbar.php:84
+msgid "Tags"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:48
+msgid "Turn on to display the tags."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:55
+msgid "Author Info Box"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:56
+msgid "Turn on to display the author info box below posts."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:63
+msgid "Related Posts"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:64
+msgid "Turn on to display related posts."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:71, src/learts/includes/theme-options/woo/woo_product.php:162
+msgid "Social Sharing Box"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:72, src/learts/includes/theme-options/woo/woo_product.php:163
+msgid "Turn on to display the social sharing box."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:79
+msgid "Share the post on "
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:83, src/learts/includes/theme-options/woo/woo_product.php:174, src/learts/woocommerce/single-product/share.php:61
+msgid "Google+"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:84, src/learts/includes/theme-options/woo/woo_product.php:176, src/learts/woocommerce/single-product/share.php:70
+msgid "Pinterest"
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/blog_single.php:85, src/learts/includes/theme-options/woo/woo_product.php:178, src/learts/woocommerce/single-product/share.php:78
+msgid "Email"
+msgstr ""
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:13
+msgid "Displays a full chain of links to the current page."
+msgstr ""
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:21
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:30
+msgid "Breadcrumbs Separator Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:39
+msgid "Breadcrumbs Link Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:48
+msgid "Breadcrumbs Link Color: Hover"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:4
+msgid "Cookie Notice"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:11
+msgid "Enable Cookie Notice"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:12
+msgid "Cookie Notice allows you to elegantly inform users that your site uses cookies and to comply with the EU cookie law regulations. Turn on this option and user will see info box at the bottom of the page that your web-site is using cookies."
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:18
+msgid "Cookie expiry"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:19
+msgid "The ammount of time that cookie should be stored for"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:21
+msgid "1 day"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:22
+msgid "1 week"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:23
+msgid "1 month"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:24
+msgid "3 months"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:25
+msgid "6 months"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:26
+msgid "1 year"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:27
+msgid "Infinity"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:35
+msgid "Place here some information about cookies usage that will be shown in the notice"
+msgstr ""
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:36
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr ""
+
+#: src/learts/includes/theme-options/custom/_custom.php:4
+msgid "Custom Code"
+msgstr ""
+
+#: src/learts/includes/theme-options/custom/custom_css.php:4
+msgid "Custom CSS"
+msgstr ""
+
+#: src/learts/includes/theme-options/custom/custom_js.php:4
+msgid "Custom JS"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:5
+msgid "Theme Features"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:13
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:14
+msgid "Work on your site in private while visitors see a “Coming Soon” or “Maintenance Mode” page. After enabling this feature, please select a page and choose Page Template as Coming Soon, like <a href=\"%s\" target=\"_blank\">this image</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:29
+msgid "Box Mode"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:30
+msgid "Enabling this option then your site will switch to box mode"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:37
+msgid "Site Background"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:38
+msgid "Set background image or color for body. Only for boxed layout"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:53
+msgid "Activating the back to top anchor will output a link that appears in the bottom corner of your site for users to click on that will return them to the top of your website."
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:61
+msgid "Falling Snow Effect"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:62
+msgid "Let it snow on your website. Enjoy this holy season with a wonderful falling snow effect"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:69
+msgid "Snow image"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:70
+msgid "Upload image for snow falling: png, jpg or gif file."
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:82
+msgid "Single Post / Product Navigation"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:83
+msgid "Enabling this option will display the post navigation on single post or single product page."
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:95
+msgid "Load Minified Scripts"
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:96
+msgid "Loading *.css & *.js files that have been minified will help you speed up the page load."
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:13
+msgid "Footer columns"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:14
+msgid "Choose number of columns to display in footer area"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:15
+msgid "Note: Each column represents one Footer Sidebar in <a href=\"%s\">Appearance -> Widgets</a> settings."
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:21
+msgid "1 Column"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:25
+msgid "2 Columns"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:29
+msgid "3 Columns"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:33
+msgid "4 Columns"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:43
+msgid "Footer Width"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:55
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:57, src/learts/includes/theme-options/header/header_appearance.php:48, src/learts/includes/theme-options/header/header_topbar.php:142
+msgid "Light"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:58, src/learts/includes/theme-options/header/header_appearance.php:47, src/learts/includes/theme-options/header/header_topbar.php:141
+msgid "Dark"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:67
+msgid "Background color"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:5, src/learts/includes/theme-options/footer/footer_copyright.php:20
+msgid "Copyright"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:12
+msgid "Display copyright"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:13
+msgid "Check if you want to display the copyright"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:21
+msgid "Specify the copyright text to show at the bottom of the website"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:23
+msgid "<p>Copyright &copy; 2018. Created by <a href=\"%s\" target=\"_blank\">ThemeMove</a>. Powered by <a href=\"%s\" target=\"_blank\">WordPress</a></p>"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:42
+msgid "Copyright background color"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:56
+msgid "Copyright text color"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:57
+msgid "This is the standard text color for footer"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:71
+msgid "Copyright link color"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:72
+msgid "This color will apply to buttons, links, etc..."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:5
+msgid "Header Appearance"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:12
+msgid "Header White mode"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:13
+msgid "Make everything (such as text, icon, menu, etc...) on the header to white color. Only works when the \"Header above the content\" option (in Header > Header Layout) is enabled."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:23, src/learts/includes/theme-options/page-title/_page-title.php:53, src/learts/includes/theme-options/page-title/_page-title.php:91, src/learts/includes/theme-options/woo/woo_general.php:245, src/learts/includes/theme-options/woo/woo_general.php:280, src/learts/includes/theme-options/woo/woo_general.php:315, src/learts/includes/theme-options/woo/woo_product.php:90
+msgid "Background Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:24, src/learts/includes/theme-options/woo/woo_product.php:91
+msgid "Pick a background color for the header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:32
+msgid "Border Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:33
+msgid "Pick a border color for the header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:45
+msgid "Header color scheme"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:16
+msgid "Enable Shopping Cart"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:17
+msgid "Enable / Disable the shopping cart"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:23
+msgid "Shopping Cart Message"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:24
+msgid "Insert the text you want to see in the shopping cart here."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:25
+msgid "Free Shipping on All Orders Over $100!"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:30
+msgid "Message Position"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:31
+msgid "Set the position for shopping cart message in the dropdown"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:33
+msgid "Top"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:34, src/learts/includes/theme-options/woo/woo_product.php:64
+msgid "Bottom"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:41
+msgid "Shopping Cart Icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:43, src/learts/woocommerce/cart/mini-cart.php:31
+msgid "Cart"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:45
+msgid "Cart Outline"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:54
+msgid "Cart Icon Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:55
+msgid "Pick a color for the shopping cart icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:63
+msgid "Cart Item Count Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:64
+msgid "Pick a color for the text of shopping cart"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:72
+msgid "Cart Item Count Background Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:73
+msgid "Pick a background color for the item count of shopping cart"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:83
+msgid "Cart Item Count Border Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_cart.php:84
+msgid "Pick a border color for the item count of shopping cart"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:5
+msgid "Header Layout"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:13
+msgid "Header Type"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:14
+msgid "Select your header layout"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:17
+msgid "Basic Menu Header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:21
+msgid "Split Header (logo in center of the menu)"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:25
+msgid "Menu Bottom Header #1"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:29
+msgid "Menu Bottom Header #2 "
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:33
+msgid "Vertical Full Menu Header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:43
+msgid "Sticky Header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:44
+msgid "Enable / Disable sticky header option"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:54
+msgid "Header above the content"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:65, src/learts/includes/theme-options/header/header_right_column.php:9, src/learts/includes/theme-options/header/header_topbar.php:13, src/learts/includes/theme-options/header/offcanvas_button.php:13, src/learts/includes/theme-options/header/offcanvas_button.php:51
+msgid "Note"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:66
+msgid "Note: The width of the Split Header should be Wide or Full width"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:77, src/learts/includes/theme-options/header/header_layout.php:93
+msgid "Header Width"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:81
+msgid "Full-width"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:82
+msgid "Full-width (no paddings)"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:107
+msgid "Header Text"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:108
+msgid "Insert the text you want to see in the vertical header here. You can use HTML or shortcodes"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:122
+msgid "Header Height"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:5
+msgid "Header Left Column"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:19
+msgid "Header Left Column Content"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:20
+msgid "Select the content is displayed in the header left column layout. In menu bottom header #2, they are used as widgets on the right "
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:24, src/learts/includes/theme-options/header/header_right_column.php:57
+msgid "None"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:28
+msgid "Switchers"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:32
+msgid "Social Links"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:36
+msgid "Widget"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:40
+msgid "Search Widget"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:50
+msgid "Header Left Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:10, src/learts/includes/theme-options/header/header_topbar.php:14, src/learts/includes/theme-options/header/offcanvas_button.php:14
+msgid "Does not work with the Vertical Header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:19
+msgid "Header right column width"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:20
+msgid "Set width for icons area in the header (search, wishlist, shopping cart) (in %)"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:39
+msgid "Login link in header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:40
+msgid "Show links to login/register or my accout page in the header. Please set up the My account page <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:52
+msgid "Login link position"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:53
+msgid "Select the header right column layout."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:65
+msgid "Between"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:79
+msgid "Display login as icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:87
+msgid "Login link Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:100
+msgid "Header Right Column"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:4
+msgid "Post"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:8, src/learts/woocommerce/cart/cart.php:33, src/learts/woocommerce/cart/cart.php:83
+msgid "Product"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:20
+msgid "Enable Search"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:21
+msgid "Enable / Disable the search box"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:28
+msgid "Search content type"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:29
+msgid "Select content type you want to use in the search box"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:37
+msgid "Search product by"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:39, src/learts/includes/theme-options/social/_social.php:64, src/learts/includes/theme-options/social/_social.php:66
+msgid "Title"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:40, src/learts/woocommerce/single-product/meta.php:48
+msgid "SKU"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:41
+msgid "Both title & SKU"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:52
+msgid "Categories select box"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:53
+msgid "Turn on this option if you want to show categories select box"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:60
+msgid "Live Search"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:66
+msgid "Minimum number of characters"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:67
+msgid "Minimum number of characters required to trigger autosuggest"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:81
+msgid "Maximum number of results"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:82
+msgid "Maximum number of results showed within the autosuggest box"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:96
+msgid "Show excerpt"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:97
+msgid "Show the excerpt of search result"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:107
+msgid "Search Icon Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_search.php:108
+msgid "Pick a color for the search icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:5
+msgid "Top Bar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:22
+msgid "Top bar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:23
+msgid "Enabling this option will display top area"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:29
+msgid "Topbar Layout"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:30
+msgid "Select your topbar layout"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:33
+msgid "Switchers on the left, social links on the right"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:37
+msgid "Switchers on the right, social links on the left"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:41
+msgid "The topbar has only text"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:46
+msgid "The text align left, the menu topbar and switchers align right"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:51
+msgid "The text align center, the menu topbar align left and switchers align right"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:61
+msgid "Top bar can be close"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:62
+msgid "Enabling this option if you want to show a close button on the top bar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:72
+msgid "Text in the top bar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:73
+msgid "Insert the text you want to see in the top bar here. You can use HTML or shortcodes"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:83
+msgid "Top bar height"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:93
+msgid "Top bar width"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:98
+msgid "Full width (no paddings)"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:106
+msgid "Social links"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:107
+msgid "Enable / Disable the social links on the top bar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:117
+msgid "Enable / Disable the top bar menu"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:126
+msgid "Top bar menu (for logged-in users)"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:127
+msgid "Select a menu to display in the top bar for logged-in users"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:139
+msgid "Top bar color scheme"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:151
+msgid "Top bar Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:152
+msgid "Pick a background color for the top bar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:162, src/learts/includes/theme-options/page-title/_page-title.php:73
+msgid "Text Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:163
+msgid "Pick a color for the text in top bar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:174
+msgid "Enable / Disable the Language Switcher in the top bar instead of the Language Menu. This feature requires <a href=\"%s\" target=\"_blank\">WPML</a> or <a href=\"%s\" target=\"_blank\">Polylang</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:184, src/learts/includes/theme-options/header/header_topbar.php:205
+msgid "The switchers was customized to compatible with our theme"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:195
+msgid "Enable / Disable the Currency Switcher in the top bar instead of the Currency Menu. This feature requires <a href=\"%s\" target=\"_blank\">WooCommerce Multilingual</a> or <a href=\"%s\" target=\"_blank\">WooCommerce Currency Switcher</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:16
+msgid "Enable Wishlist"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:17
+msgid "Enable / Disable the wishlist icon in the header"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:23
+msgid "Wishlist Icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:25
+msgid "Heart"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:27
+msgid "Heart Outline"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:35
+msgid "Show Add To Cart Button"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:41
+msgid "Open Wishlist page in a new tab"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:48
+msgid "Wishlist Icon Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:49
+msgid "Pick a color for the wishlist icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:58
+msgid "Wishlist Item Count Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:59
+msgid "Pick a color for the text of wishlist widget"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:68
+msgid "Wishlist Item Count Background Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:69
+msgid "Pick a background color for the item count of wishlist widget"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:79
+msgid "Wishlist Item Count Border Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:80
+msgid "Pick a border color for the item count of wishlist widget"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:22
+msgid "Off-canvas Button"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:23
+msgid "Turn on / off off-canvas button"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:29
+msgid "Action"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:31
+msgid "Open Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:32
+msgid "Open Full-screen Menu"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:39
+msgid "Select Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:40
+msgid "Choose the custom off-canvas sidebar."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:52
+msgid "Note: Please add a menu to the Full-screen Menu location on Appearance >> Menus page"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:60
+msgid "Position"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:71
+msgid "Off-canvas button color"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:5
+msgid "Logo"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:13, src/learts/includes/theme-options/logo/_logo.php:33, src/learts/includes/theme-options/logo/_logo.php:43, src/learts/includes/theme-options/logo/_logo.php:52
+msgid "Upload image: png, jpg or gif file"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:22
+msgid "Upload image: png, jpg or gif file, display as logo retina"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:34
+msgid "Alternative Logo Image "
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:51
+msgid "Alternative logo in mobile devices"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:60
+msgid "Logo width"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:61
+msgid "Set width for logo area in the header (in %)"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:77
+msgid "Favicon (Site Icon)"
+msgstr ""
+
+#: src/learts/includes/theme-options/logo/_logo.php:78
+msgid "Note: From WordPress 4.3, you can set favicon in your site in <b>Appearance >> Customize >> Site Identify >> Site Icon</b><br/><img src=\"https://codex.wordpress.org/images/3/3b/customizer-siteicon.jpg\"/>"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/_menu.php:4
+msgid "Navigation"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/mobile_menu.php:11
+msgid "Social in the mobile menu"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/mobile_menu.php:12
+msgid "Enable / Disable social in the mobile menu"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/mobile_menu.php:19
+msgid "Mobile Menu button color"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:5
+msgid "Main Menu"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:13
+msgid "Main menu align"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:14
+msgid "Set the text align for the main menu of your site"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:17
+msgid "Center"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:29
+msgid "Menu Style"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:32
+msgid "Base"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:36
+msgid "With separator"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:49
+msgid "Menu Item Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:50
+msgid "Pick color for the menu items"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:63
+msgid "Menu Sub Item Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:64
+msgid "Pick color for the menu sub items"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:77
+msgid "Menu Background Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:78, src/learts/includes/theme-options/menu/site_menu.php:92
+msgid "Only works with Menu Bottom Header"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/site_menu.php:91
+msgid "Menu Border Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:14
+msgid "Enabling this option will display the page title area."
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:22
+msgid "Turn on to display post meta on pages (only works in pages)"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:30
+msgid "Disable Parallax effect"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:37
+msgid "Remove whitespace"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:38
+msgid "Remove the whitespace below the header when the Page Title is turned off"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:51, src/learts/includes/theme-options/style/_style.php:4
+msgid "Style"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:54, src/learts/includes/theme-options/page-title/_page-title.php:120
+msgid "Background Image"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:62
+msgid "Page Title Height (in pixels)"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:82
+msgid "Subtitle Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:104
+msgid "Overlay Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:5
+msgid "Pages"
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:13
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:14
+msgid "Controls the position of sidebars for page."
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:36
+msgid "Search Sidebar Position"
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:37
+msgid "Controls the position of sidebars for search result page."
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:58
+msgid "Search Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:59
+msgid "Choose the sidebar for search result page."
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:70
+msgid "404 Background"
+msgstr ""
+
+#: src/learts/includes/theme-options/pages/_pages.php:71
+msgid "Set background image or color for 404 page."
+msgstr ""
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:14
+msgid "Archive Portfolio Style"
+msgstr ""
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:15
+msgid "Select the display style."
+msgstr ""
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:18
+msgid "Basic Portfolio"
+msgstr ""
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:22
+msgid "Inside Image"
+msgstr ""
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:33
+msgid "Portfolio columns"
+msgstr ""
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:34
+msgid "How many column you want to show per row on the portfolio page?"
+msgstr ""
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:48
+msgid "Select if you'd like to output the content or excerpt on portfolio pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:4
+msgid "Social"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:11
+msgid "Display tooltip"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:12
+msgid "Enabling tooltip for the social icons when hover."
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:19
+msgid "Open link in new tab"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:27
+msgid "Social Items"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:28
+msgid "Items"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:34
+msgid "Icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:36
+msgid "Select a social network to automatically add its icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:43
+msgid "Custom Icon"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:45
+msgid "Font Awesome Class"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:46
+msgid "Use your custom icon. You can find Font Awesome icon class <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:57
+msgid "Link (URL)"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:58
+msgid "https://"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:59
+msgid "Add an URL to your social network"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:67
+msgid "Insert your custom title here"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:72
+msgid "Custom CSS class"
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:74
+msgid "Insert your custom CSS class here"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:4
+msgid "Colors"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:13
+msgid "IMPORTANT NOTE"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:15
+msgid "This tab contains general color options. Additional color options for specific areas, can be found within other tabs. Example: For menu color options go to the menu tab."
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:22
+msgid "Primary Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:32
+msgid "Secondary Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:42
+msgid "Tertiary Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:52
+msgid "Links Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:53
+msgid "Controls the color of all text links."
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:62
+msgid "Links Hover Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:63
+msgid "Controls the color of all text links when hover."
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:72
+msgid "Background Color Menu Full Screen"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_colors.php:73
+msgid "Controls the background color of menu-full-screen"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_typo.php:5
+msgid "Typography"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_typo.php:13
+msgid "Primary Font"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_typo.php:19
+msgid "These settings control the typography for all body text."
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_typo.php:34
+msgid "Secondary Font"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_typo.php:56
+msgid "Tertiary Font"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_typo.php:78
+msgid "Heading Font"
+msgstr ""
+
+#: src/learts/includes/theme-options/style/style_typo.php:79
+msgid "Set you typography options for titles (From h1 to h6 HTML tags)"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:12
+msgid "Product Item Style"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:13
+msgid "Select product item style"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:20
+msgid "Button Hover"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:31
+msgid "Badge"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:32, src/learts/includes/theme-options/woo/woo_general.php:91, src/learts/includes/theme-options/woo/woo_general.php:127, src/learts/includes/theme-options/woo/woo_general.php:182, src/learts/includes/theme-options/woo/woo_general.php:226, src/learts/includes/theme-options/woo/woo_general.php:261, src/learts/includes/theme-options/woo/woo_general.php:296
+msgid ""
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:39
+msgid "Show \"New\" badge"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:46
+msgid "New Product with how many days?"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:56
+msgid "Show \"Hot\" badge"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:63
+msgid "Show \"Sale\" badge"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:70
+msgid "Show saved sale price percentage"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:71
+msgid "Show percentage instead of text on \"Sale\" label. Only available with Simple & External/Affiliate product type. You can see <a href=\"%s\" target=\"_blank\">here</a> for more information about product type."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:105
+msgid "Animated Quick View"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:126
+msgid "Buttons"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:134, src/learts/includes/theme-options/woo/woo_product.php:146
+msgid "Show \"Compare\" button"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:135, src/learts/includes/theme-options/woo/woo_product.php:147
+msgid "This feature requires <a href=\"%s\" target=\"_blank\">YITH WooCommerce Compare</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:147, src/learts/includes/theme-options/woo/woo_product.php:130
+msgid "Show \"Wishlist\" button"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:148, src/learts/includes/theme-options/woo/woo_general.php:205, src/learts/includes/theme-options/woo/woo_product.php:131
+msgid "This feature requires <a href=\"%s\" target=\"_blank\">YITH WooCommerce Wishlist</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:160
+msgid "Animated \"Wishlist\" button"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:181
+msgid "Notification"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:189
+msgid "Enable \"Add to cart\" notification on favicon"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:190
+msgid "Allows you to show number of cart item via favicon like Facebook"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:197
+msgid "Enable \"Add to cart\" notification"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:204
+msgid "Enable \"Add to wishlist\" notification"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:225
+msgid "'Hot' tag"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:232, src/learts/includes/theme-options/woo/woo_general.php:267, src/learts/includes/theme-options/woo/woo_general.php:302
+msgid "Color"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:233
+msgid "Pick color for the 'Hot' tag items"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:246
+msgid "Pick background color for the 'Hot' tag items"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:260
+msgid "'New' tag"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:268
+msgid "Pick color for the 'New' tag items"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:281
+msgid "Pick background color for the 'New' tag items"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:295
+msgid "'Sale' tag"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:303
+msgid "Pick color for the 'Sale' tag items"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:316
+msgid "Pick background color for the 'Sale' tag items"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:4
+msgid "Single Product Page"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:11
+msgid "Single Product Page Sidebar Position"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:12
+msgid "Controls the position of sidebars for the product pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:33
+msgid "Single Product Page Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:34
+msgid "Choose the sidebar for single product pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:45
+msgid "Enable AJAX add to cart on single product page"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:54
+msgid "Show only featured images"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:61
+msgid "Thumbnails Position"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:75
+msgid "Product Page Layout"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:77, src/learts/includes/theme-options/woo/woo_shop.php:51
+msgid "Basic"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:78
+msgid "Fullwidth"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:79
+msgid "Sticky Details"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:80
+msgid "Sticky Details (Full-width)"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:81
+msgid "With Background"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:82
+msgid "With Background (Full-width)"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:103
+msgid "Enable zoom for product image"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:104
+msgid "You have to use images larger than the size of the Single Product Image configured  <a href=\"%s\" target=\"_blank\">here</a>. If you use Product Page Layout as full width, you should use images of 1000px or more in width. Otherwise, this function will not work.  Also, this function does not work with External / Affiliate product."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:119
+msgid "Show \"Zoom image\" button"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:120
+msgid "Click to open image in popup and swipe to zoom"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:170
+msgid "Share the product on "
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:195
+msgid "Up-Sells"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:196
+msgid "Up-sells are products which you recommend instead of the currently viewed product."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:198
+msgid "Also looks great with..."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:204
+msgid "Related Products"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:205
+msgid "Related products is a section on some templates that pulls other products from your store that share the same tags or categories as the current product. Set 0 to hide this section."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:5, src/learts/includes/theme-options/woo/woo_shop_toolbar.php:13
+msgid "Shop Toolbar"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:14
+msgid "Enable shop toolbar on the top of shop pages"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:21
+msgid "Product Tabs"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:22
+msgid "Enable products tabs on the left"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:32
+msgid "Product Tabs Type"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:33
+msgid "Select how to group products in tabs"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:35
+msgid "Groups"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:49
+msgid "Product Tabs Groups"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:53
+msgid "Sale Products"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:71
+msgid "Enter category names, separate by commas. Leave empty to get all categories. Enter a number to get limit number of top categories."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:85
+msgid "Enter tag names. Separate by commas."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:97
+msgid "Product Filter"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:98
+msgid "Show filter widgets"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:108
+msgid "Product Sort"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:109
+msgid "Show the sort options instead of product count"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:119
+msgid "Show column switcher"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:5
+msgid "Shop Page"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:13
+msgid "Shop sidebar position"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:14
+msgid "Controls the position of sidebars for the shop pages."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:35
+msgid "Shop Sidebar"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:48
+msgid "Shop Layout"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:49
+msgid "Set the layout for shop"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:53
+msgid "Full width and no space"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:61
+msgid "Product columns"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:62
+msgid "How many products you want to show per row on the shop page?"
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:75
+msgid "Enable AJAX functionality on shop"
+msgstr ""
+
+#: src/learts/searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: src/learts/woocommerce/add-to-wishlist-button.php:42, src/learts/woocommerce/add-to-wishlist.php:22
+msgid "Add to wishlist"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cart.php:34, src/learts/woocommerce/cart/cart.php:103
+msgid "Price"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cart.php:36, src/learts/woocommerce/cart/cart.php:133
+msgid "Total"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cart.php:98
+msgid "Available on backorder"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cart.php:147, src/learts/woocommerce/cart/mini-cart.php:85
+msgid "Remove this item"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cart.php:169
+msgid "Coupon:"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cart.php:182
+msgid "Continue Shopping"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cart.php:184
+msgid "Update Cart"
+msgstr ""
+
+#: src/learts/woocommerce/cart/cross-sells.php:37
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: src/learts/woocommerce/cart/mini-cart.php:40
+msgid "No products in the cart."
+msgstr ""
+
+#: src/learts/woocommerce/cart/mini-cart.php:139
+msgid "Subtotal"
+msgstr ""
+
+#: src/learts/woocommerce/cart/mini-cart.php:148
+msgid "Checkout"
+msgstr ""
+
+#: src/learts/woocommerce/compare.php:24
+msgid "Compare products"
+msgstr ""
+
+#: src/learts/woocommerce/compare.php:76
+msgid "Product Comparison"
+msgstr ""
+
+#: src/learts/woocommerce/compare.php:318
+msgid "Close window [X]"
+msgstr ""
+
+#: src/learts/woocommerce/content-product.php:146
+msgid "Sold: "
+msgstr ""
+
+#: src/learts/woocommerce/content-product.php:149
+msgid "Available: "
+msgstr ""
+
+#: src/learts/woocommerce/loop/add-to-cart.php:32
+msgid "Select options"
+msgstr ""
+
+#: src/learts/woocommerce/loop/add-to-cart.php:35
+msgid "Add to cart"
+msgstr ""
+
+#: src/learts/woocommerce/loop/add-to-cart.php:39
+msgid "View External Product"
+msgstr ""
+
+#: src/learts/woocommerce/loop/add-to-cart.php:43
+msgid "View Product"
+msgstr ""
+
+#: src/learts/woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/woocommerce/loop/result-count.php:34
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "<span>%d products</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:36
+msgid "Login"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:38
+msgid "Great to have you back!"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:51, src/learts/woocommerce/myaccount/form-login.php:102
+msgid "Password"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:60
+msgid "Remember me"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:64
+msgid "Lost your password?"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:77, src/learts/woocommerce/myaccount/form-login.php:113, src/learts/woocommerce/myaccount/form-login.php:113
+msgid "Register"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:79
+msgid "If you don’t have an account, register now!"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:88
+msgid "Username"
+msgstr ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:95
+msgid "Email address"
+msgstr ""
+
+#: src/learts/woocommerce/quick-view.php:77
+msgid "Placeholder"
+msgstr ""
+
+#: src/learts/woocommerce/quick-view.php:102
+msgid "Please select a rating"
+msgstr ""
+
+#: src/learts/woocommerce/quick-view.php:117
+msgid "Sorry, no products matched your selection. Please choose a different combination."
+msgstr ""
+
+#: src/learts/woocommerce/quick-view.php:119
+msgid "Select product options before adding this product to your cart."
+msgstr ""
+
+#: src/learts/woocommerce/quick-view.php:121
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:34
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:62
+msgid "There are no reviews yet."
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:78
+msgid "Add a review"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:78
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:80
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:85
+msgid "Name *"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:87
+msgid "Email *"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:98
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:102
+msgid "Your rating"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:104
+msgid "Rate&hellip;"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:105
+msgid "Perfect"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:106
+msgid "Good"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:107
+msgid "Average"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:108
+msgid "Not that bad"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:109
+msgid "Very poor"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:113
+msgid "Your review *"
+msgstr ""
+
+#: src/learts/woocommerce/single-product-reviews.php:123
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: src/learts/woocommerce/single-product/meta.php:50
+msgid "N/A"
+msgstr ""
+
+#: src/learts/woocommerce/single-product/meta.php:55
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/woocommerce/single-product/meta.php:57
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/learts/woocommerce/single-product/product-image.php:127, src/learts/woocommerce/single-product/product-image.php:128
+msgid "Click to enlarge"
+msgstr ""
+
+#: src/learts/woocommerce/single-product/product-image.php:136
+msgid "Click to see video"
+msgstr ""
+
+#: src/learts/woocommerce/single-product/product-image.php:142
+msgid "360 product"
+msgstr ""
+
+#: src/learts/woocommerce/single-product/product-image.php:167
+msgid "Awaiting product image"
+msgstr ""
+
+#: src/learts/woocommerce/single-product/related.php:31
+msgid "You Might Also Like"
+msgstr ""
+
+#: src/learts/woocommerce/single-product/share.php:35
+msgid "Share on"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:32
+msgid "Edit title"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:41
+msgid "Save"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:73
+msgid "Product Name"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:80
+msgid "Unit Price"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:93
+msgid "Stock Status"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:160
+msgid "Free!"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:166
+msgid "Out of Stock"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:166
+msgid "In Stock"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:175
+msgid "Added on : %s"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:199
+msgid "Shared"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:202
+msgid "Private"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:205
+msgid "Public"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:232
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:249
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:257, src/learts/woocommerce/wishlist-view.php:297
+msgid "Ask for an estimate"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:279
+msgid "Continue shoping"
+msgstr ""
+
+#: src/learts/woocommerce/wishlist-view.php:287
+msgid "Your email"
+msgstr ""

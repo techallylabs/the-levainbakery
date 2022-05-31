@@ -1,0 +1,26 @@
+.wpb_single_image.image-border-inline {
+	position: relative;
+	overflow: hidden;
+
+	img {
+		transition: all 1s;
+	}
+
+	&:before {
+		display: block;
+		position: absolute;
+		content: '';
+		top: 15px;
+		left: 15px;
+		width: calc(100% - 30px);
+		height: calc(100% - 30px);
+		border: 1px solid #ffffff;
+		z-index: 1;
+	}
+
+	&:hover {
+		img {
+			transform: scale(1.1);
+		}
+	}
+}

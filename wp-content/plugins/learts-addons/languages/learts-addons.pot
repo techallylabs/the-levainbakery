@@ -1,0 +1,2393 @@
+# Copyright (C) 2019 learts-addons
+# This file is distributed under the same license as the learts-addons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: learts-addons\n"
+"Report-Msgid-Bugs-To: http://thememove.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Language-Team: ThemeMove <thememovedotcom@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/learts-addons/includes/class-learts-portfolio.php:28
+msgid "Portfolio"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:29
+msgid "Portfolio Item"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:30
+msgid "View Portfolios"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:31
+msgid "Add New Portfolio"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:32, src/learts-addons/includes/class-learts-testimonial.php:31
+msgid "Add New"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:33
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:34
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:35
+msgid "Update Portfolio"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:36
+msgid "All Portfolios"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:37
+msgid "Parent Portfolio Item:"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:38
+msgid "Search Portfolio"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:39
+msgid "No portfolio items found"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:40
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:66
+msgid "Categories Portfolio"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-portfolio.php:76
+msgid "Tags Portfolio"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:30
+msgid "Testimonial"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:32
+msgid "Add New Testimonial"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:33
+msgid "Edit Testimonial"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:34
+msgid "New Testimonial"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:35
+msgid "View Testimonial"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:36
+msgid "Search Testimonials"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:37
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:38
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-testimonial.php:63
+msgid "Testimonial Categories"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:608, src/learts-addons/includes/class-learts-vc.php:621, src/learts-addons/includes/class-learts-vc.php:728
+msgid "Font Awesome 5 Pro"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:609, src/learts-addons/includes/class-learts-vc.php:622, src/learts-addons/includes/class-learts-vc.php:729
+msgid "Open Iconic"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:610, src/learts-addons/includes/class-learts-vc.php:623, src/learts-addons/includes/class-learts-vc.php:730
+msgid "Typicons"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:611, src/learts-addons/includes/class-learts-vc.php:624, src/learts-addons/includes/class-learts-vc.php:731
+msgid "Entypo"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:612, src/learts-addons/includes/class-learts-vc.php:625, src/learts-addons/includes/class-learts-vc.php:732
+msgid "Linecons"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:613, src/learts-addons/includes/class-learts-vc.php:626, src/learts-addons/includes/class-learts-vc.php:733
+msgid "Mono Social"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:614, src/learts-addons/includes/class-learts-vc.php:627, src/learts-addons/includes/class-learts-vc.php:734
+msgid "Material"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:615, src/learts-addons/includes/class-learts-vc.php:629, src/learts-addons/includes/class-learts-vc.php:735
+msgid "Themify Icons"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:616, src/learts-addons/includes/class-learts-vc.php:630, src/learts-addons/includes/class-learts-vc.php:736
+msgid "Ionicons"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:628
+msgid "Pixel"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:657, src/learts-addons/includes/class-learts-vc.php:675, src/learts-addons/includes/class-learts-vc.php:693, src/learts-addons/includes/class-learts-vc.php:745, src/learts-addons/includes/class-learts-vc.php:755, src/learts-addons/includes/class-learts-vc.php:757, src/learts-addons/includes/class-learts-vc.php:772, src/learts-addons/includes/class-learts-vc.php:774, src/learts-addons/includes/class-learts-vc.php:789, src/learts-addons/includes/class-learts-vc.php:791, src/learts-addons/includes/class-learts-vc.php:806, src/learts-addons/includes/class-learts-vc.php:808, src/learts-addons/includes/class-learts-vc.php:823, src/learts-addons/includes/class-learts-vc.php:825, src/learts-addons/includes/class-learts-vc.php:840, src/learts-addons/includes/class-learts-vc.php:842, src/learts-addons/includes/class-learts-vc.php:857, src/learts-addons/includes/class-learts-vc.php:859, src/learts-addons/includes/class-learts-vc.php:874, src/learts-addons/includes/class-learts-vc.php:876, src/learts-addons/includes/class-learts-vc.php:892, src/learts-addons/includes/class-learts-vc.php:894, src/learts-addons/includes/shortcodes/learts-button.php:113, src/learts-addons/includes/shortcodes/learts-icon-box.php:165, src/learts-addons/includes/shortcodes/learts-icon-box.php:176, src/learts-addons/includes/shortcodes/learts-icon-box.php:182
+msgid "Icon"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:669, src/learts-addons/includes/class-learts-vc.php:687, src/learts-addons/includes/class-learts-vc.php:705, src/learts-addons/includes/class-learts-vc.php:769, src/learts-addons/includes/class-learts-vc.php:786, src/learts-addons/includes/class-learts-vc.php:803, src/learts-addons/includes/class-learts-vc.php:820, src/learts-addons/includes/class-learts-vc.php:837, src/learts-addons/includes/class-learts-vc.php:854, src/learts-addons/includes/class-learts-vc.php:871, src/learts-addons/includes/class-learts-vc.php:888, src/learts-addons/includes/class-learts-vc.php:906
+msgid "Select icon from library."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:740, src/learts-addons/includes/class-learts-vc.php:1005, src/learts-addons/includes/class-learts-vc.php:1947, src/learts-addons/includes/shortcodes/learts-blog.php:191, src/learts-addons/includes/shortcodes/learts-blog.php:227, src/learts-addons/includes/shortcodes/learts-brands-carousel.php:98, src/learts-addons/includes/shortcodes/learts-image-carousel.php:78, src/learts-addons/includes/shortcodes/learts-instagram.php:96, src/learts-addons/includes/shortcodes/learts-menu-grid.php:77, src/learts-addons/includes/shortcodes/learts-product-carousel.php:172, src/learts-addons/includes/shortcodes/learts-product-categories.php:256, src/learts-addons/includes/shortcodes/learts-product-grid.php:154, src/learts-addons/includes/shortcodes/learts-product-grid.php:189, src/learts-addons/includes/shortcodes/learts-product-tabs.php:151, src/learts-addons/includes/shortcodes/learts-product-tabs.php:313, src/learts-addons/includes/shortcodes/learts-product-widget.php:178, src/learts-addons/includes/shortcodes/learts-simple-banner.php:143, src/learts-addons/includes/shortcodes/learts-social.php:87, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:114
+msgid "None"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:747
+msgid "Icon library"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:751, src/learts-addons/includes/shortcodes/learts-button.php:121
+msgid "Select icon library."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:927
+msgid "Design Options"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:929
+msgid "CSS box"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:936
+msgid "Number of columns"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:937
+msgid "Select number of columns in a row"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:953
+msgid "Extra class name"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:955
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:974, src/learts-addons/includes/class-learts-vc.php:1003, src/learts-addons/includes/shortcodes/learts-product-categories.php:118
+msgid "Order by"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:977, src/learts-addons/includes/class-learts-vc.php:1006
+msgid "Date"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:978, src/learts-addons/includes/class-learts-vc.php:1010
+msgid "Post ID"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:979
+msgid "Author"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:980, src/learts-addons/includes/class-learts-vc.php:1011, src/learts-addons/includes/shortcodes/learts-icon-box.php:95, src/learts-addons/includes/shortcodes/learts-megamenu.php:23, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:23, src/learts-addons/includes/shortcodes/learts-product-widget.php:57
+msgid "Title"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:981, src/learts-addons/includes/class-learts-vc.php:1012
+msgid "Last modified date"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:982
+msgid "Number of comments"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:983
+msgid "Menu order/Page Order"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:984, src/learts-addons/includes/class-learts-vc.php:1013
+msgid "Random order"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:986
+msgid "Select how to sort retrieved posts. More at <a href=\"%s\" target=\"_blank\">WordPress codex page</a>."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1007
+msgid "Price"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1008
+msgid "Sales"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1009
+msgid "Rating"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1023
+msgid "Sort order"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1026
+msgid "Descending"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1027
+msgid "Ascending"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1029
+msgid "Designates the ascending or descending order. More at <a href=\"%s\" target=\"_blank\">WordPress codex page</a>."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1044
+msgid "Products"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1046
+msgid "List of product"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1057, src/learts-addons/includes/shortcodes/learts-blog.php:249, src/learts-addons/includes/shortcodes/learts-product-carousel.php:69, src/learts-addons/includes/shortcodes/learts-product-grid.php:75
+msgid "Categories"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1065
+msgid "Select what categories you want to use. Leave it empty to use all categories."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1091
+msgid "Select category"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1107, src/learts-addons/includes/shortcodes/learts-product-widget.php:74
+msgid "Category"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1110
+msgid "Select a product category"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1125
+msgid "Attribute"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1129
+msgid "List of product taxonomy attribute"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1139, src/learts-addons/includes/shortcodes/learts-product-tabs.php:130
+msgid "Filter"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1143
+msgid "Taxonomy values"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1319
+msgid "Email Address"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1358, src/learts-addons/includes/shortcodes/learts-button.php:51, src/learts-addons/includes/shortcodes/learts-mailchimp.php:169, src/learts-addons/includes/shortcodes/learts-social.php:101
+msgid "Custom"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1458, src/learts-addons/includes/class-mailchimp.php:229
+msgid "Select a list"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1496, src/learts-addons/includes/class-mailchimp.php:198
+msgid "Oops! Enter a valid Email address"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1503, src/learts-addons/includes/class-mailchimp.php:205
+msgid "This email already subscribed to the list."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1510, src/learts-addons/includes/class-mailchimp.php:212
+msgid "Curl is disabled. Please enable curl in server php.ini settings."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1518, src/learts-addons/includes/class-mailchimp.php:220
+msgid " has been subscribed."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1942, src/learts-addons/includes/shortcodes/learts-product-grid.php:184, src/learts-addons/includes/shortcodes/learts-simple-banner.php:138
+msgid "CSS Animation"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1943, src/learts-addons/includes/shortcodes/learts-product-grid.php:185, src/learts-addons/includes/shortcodes/learts-simple-banner.php:139
+msgid "Select type of animation for element to be animated when it \"enters\" the browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1948, src/learts-addons/includes/shortcodes/learts-product-grid.php:190, src/learts-addons/includes/shortcodes/learts-simple-banner.php:144
+msgid "Fade In"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1949, src/learts-addons/includes/shortcodes/learts-product-grid.php:191, src/learts-addons/includes/shortcodes/learts-simple-banner.php:145
+msgid "Move Up"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1950, src/learts-addons/includes/shortcodes/learts-product-grid.php:192, src/learts-addons/includes/shortcodes/learts-simple-banner.php:146
+msgid "Move Down"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1951, src/learts-addons/includes/shortcodes/learts-product-grid.php:193, src/learts-addons/includes/shortcodes/learts-simple-banner.php:147
+msgid "Move Left"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1952, src/learts-addons/includes/shortcodes/learts-product-grid.php:194, src/learts-addons/includes/shortcodes/learts-simple-banner.php:148
+msgid "Move Right"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1953, src/learts-addons/includes/shortcodes/learts-product-grid.php:195, src/learts-addons/includes/shortcodes/learts-simple-banner.php:149
+msgid "Scale Up"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1954, src/learts-addons/includes/shortcodes/learts-product-grid.php:196, src/learts-addons/includes/shortcodes/learts-simple-banner.php:150
+msgid "Fall Perspective"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1955, src/learts-addons/includes/shortcodes/learts-product-grid.php:197, src/learts-addons/includes/shortcodes/learts-simple-banner.php:151
+msgid "Fly"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1956, src/learts-addons/includes/shortcodes/learts-product-grid.php:198, src/learts-addons/includes/shortcodes/learts-simple-banner.php:152
+msgid "Flip"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1957, src/learts-addons/includes/shortcodes/learts-product-grid.php:199, src/learts-addons/includes/shortcodes/learts-simple-banner.php:153
+msgid "Helix"
+msgstr ""
+
+#: src/learts-addons/includes/class-learts-vc.php:1958, src/learts-addons/includes/shortcodes/learts-product-grid.php:200, src/learts-addons/includes/shortcodes/learts-simple-banner.php:154
+msgid "Pop Up"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:13
+msgid "Banner Carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:14
+msgid "Display banner center image carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:17, src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:18, src/learts-addons/includes/shortcodes/learts-blog.php:128, src/learts-addons/includes/shortcodes/learts-brands-carousel.php:17, src/learts-addons/includes/shortcodes/learts-brands-grid.php:18, src/learts-addons/includes/shortcodes/learts-button.php:206, src/learts-addons/includes/shortcodes/learts-countdown.php:300, src/learts-addons/includes/shortcodes/learts-gmaps.php:44, src/learts-addons/includes/shortcodes/learts-icon-box.php:259, src/learts-addons/includes/shortcodes/learts-image-360.php:18, src/learts-addons/includes/shortcodes/learts-image-carousel.php:17, src/learts-addons/includes/shortcodes/learts-megamenu.php:18, src/learts-addons/includes/shortcodes/learts-menu-grid.php:18, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:18, src/learts-addons/includes/shortcodes/learts-product-carousel.php:52, src/learts-addons/includes/shortcodes/learts-product-categories.php:106, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:100, src/learts-addons/includes/shortcodes/learts-product-grid.php:58, src/learts-addons/includes/shortcodes/learts-product-tabs.php:108, src/learts-addons/includes/shortcodes/learts-product-widget.php:52, src/learts-addons/includes/shortcodes/learts-quote.php:29, src/learts-addons/includes/shortcodes/learts-simple-banner.php:19, src/learts-addons/includes/shortcodes/learts-social.php:59, src/learts-addons/includes/shortcodes/learts-space.php:43, src/learts-addons/includes/shortcodes/learts-team-member.php:34, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:18
+msgid "by %s"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:22
+msgid "Single Banner"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:27
+msgid "Image Product"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:30, src/learts-addons/includes/shortcodes/learts-image-carousel.php:30, src/learts-addons/includes/shortcodes/learts-megamenu.php:49, src/learts-addons/includes/shortcodes/learts-menu-grid.php:43, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:55, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:120, src/learts-addons/includes/shortcodes/learts-simple-banner.php:35, src/learts-addons/includes/shortcodes/learts-team-member.php:42
+msgid "Select an image from media library."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:33
+msgid "Title Banner"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:34
+msgid "A short text display before the banner text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:39
+msgid "Title Color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:45
+msgid "Banner Text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:46
+msgid "Enter the banner text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:51
+msgid "Banner Text Color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:57, src/learts-addons/includes/shortcodes/learts-image-carousel.php:39
+msgid "Banner Link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:63
+msgid "Text Align and position"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:64
+msgid "Select the text align and position for content."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:67, src/learts-addons/includes/shortcodes/learts-blog.php:148, src/learts-addons/includes/shortcodes/learts-button.php:117, src/learts-addons/includes/shortcodes/learts-icon-box.php:77, src/learts-addons/includes/shortcodes/learts-product-tabs.php:140
+msgid "Left"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:68, src/learts-addons/includes/shortcodes/learts-blog.php:149, src/learts-addons/includes/shortcodes/learts-icon-box.php:78, src/learts-addons/includes/shortcodes/learts-product-tabs.php:141
+msgid "Center"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-carousel.php:69, src/learts-addons/includes/shortcodes/learts-blog.php:150, src/learts-addons/includes/shortcodes/learts-button.php:118, src/learts-addons/includes/shortcodes/learts-icon-box.php:79, src/learts-addons/includes/shortcodes/learts-product-tabs.php:142
+msgid "Right"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:14
+msgid "Banner Grid Group"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:15
+msgid "Arrange multiple banners per row with unusual structure."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:26, src/learts-addons/includes/shortcodes/learts-icon-box.php:74, src/learts-addons/includes/shortcodes/learts-simple-banner.php:22, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:24
+msgid "Style"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:29
+msgid "Group maximum 3 items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:30
+msgid "Group maximum 5 items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:31
+msgid "Group maximum 6 items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:32
+msgid "Group maximum 9 items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-banner-grid-group.php:35
+msgid "Choose style for banner."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:125
+msgid "Blog"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:129
+msgid "Show posts in a grid or carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:133, src/learts-addons/includes/shortcodes/learts-instagram.php:34
+msgid "View mode"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:134
+msgid "Select a template to display post"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:138, src/learts-addons/includes/shortcodes/learts-instagram.php:39
+msgid "Grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:139, src/learts-addons/includes/shortcodes/learts-instagram.php:40, src/learts-addons/includes/shortcodes/learts-product-categories.php:137
+msgid "Carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:140
+msgid "Masonry"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:145
+msgid "Alignment"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:156, src/learts-addons/includes/shortcodes/learts-instagram.php:59, src/learts-addons/includes/shortcodes/learts-product-carousel.php:142, src/learts-addons/includes/shortcodes/learts-product-widget.php:140
+msgid "Enable loop mode"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:163, src/learts-addons/includes/shortcodes/learts-instagram.php:66, src/learts-addons/includes/shortcodes/learts-product-carousel.php:148, src/learts-addons/includes/shortcodes/learts-product-widget.php:150
+msgid "Enable carousel autoplay"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:172, src/learts-addons/includes/shortcodes/learts-brands-carousel.php:79, src/learts-addons/includes/shortcodes/learts-image-carousel.php:59, src/learts-addons/includes/shortcodes/learts-instagram.php:76, src/learts-addons/includes/shortcodes/learts-product-carousel.php:153, src/learts-addons/includes/shortcodes/learts-product-categories.php:237, src/learts-addons/includes/shortcodes/learts-product-widget.php:159, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:95
+msgid "Auto play speed"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:186, src/learts-addons/includes/shortcodes/learts-brands-carousel.php:93, src/learts-addons/includes/shortcodes/learts-image-carousel.php:73, src/learts-addons/includes/shortcodes/learts-instagram.php:91, src/learts-addons/includes/shortcodes/learts-product-carousel.php:167, src/learts-addons/includes/shortcodes/learts-product-categories.php:251, src/learts-addons/includes/shortcodes/learts-product-widget.php:173, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:109
+msgid "Navigation type"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:188, src/learts-addons/includes/shortcodes/learts-brands-carousel.php:95, src/learts-addons/includes/shortcodes/learts-image-carousel.php:75, src/learts-addons/includes/shortcodes/learts-instagram.php:93, src/learts-addons/includes/shortcodes/learts-product-carousel.php:169, src/learts-addons/includes/shortcodes/learts-product-categories.php:253, src/learts-addons/includes/shortcodes/learts-product-widget.php:175, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:111
+msgid "Arrows"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:189, src/learts-addons/includes/shortcodes/learts-brands-carousel.php:96, src/learts-addons/includes/shortcodes/learts-image-carousel.php:76, src/learts-addons/includes/shortcodes/learts-instagram.php:94, src/learts-addons/includes/shortcodes/learts-product-carousel.php:170, src/learts-addons/includes/shortcodes/learts-product-categories.php:254, src/learts-addons/includes/shortcodes/learts-product-widget.php:176, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:112
+msgid "Dots"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:190, src/learts-addons/includes/shortcodes/learts-brands-carousel.php:97, src/learts-addons/includes/shortcodes/learts-image-carousel.php:77, src/learts-addons/includes/shortcodes/learts-instagram.php:95, src/learts-addons/includes/shortcodes/learts-product-carousel.php:171, src/learts-addons/includes/shortcodes/learts-product-categories.php:255, src/learts-addons/includes/shortcodes/learts-product-widget.php:177, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:113
+msgid "Arrows & Dots"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:200
+msgid "Total Posts"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:206
+msgid "Set max limit for items in grid or enter -1 to show all (limited to 1000)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:211
+msgid "Posts per page"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:216
+msgid "Number of items to show per page"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:225, src/learts-addons/includes/shortcodes/learts-product-grid.php:152, src/learts-addons/includes/shortcodes/learts-product-tabs.php:311
+msgid "Pagination type"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:228, src/learts-addons/includes/shortcodes/learts-button.php:49, src/learts-addons/includes/shortcodes/learts-product-grid.php:169
+msgid "Default"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:229, src/learts-addons/includes/shortcodes/learts-product-grid.php:155, src/learts-addons/includes/shortcodes/learts-product-tabs.php:314
+msgid "Load More Button"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:230, src/learts-addons/includes/shortcodes/learts-product-grid.php:156, src/learts-addons/includes/shortcodes/learts-product-tabs.php:315
+msgid "Infinite Scroll"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:239, src/learts-addons/includes/shortcodes/learts-blog.php:240, src/learts-addons/includes/shortcodes/learts-blog.php:242, src/learts-addons/includes/shortcodes/learts-blog.php:254, src/learts-addons/includes/shortcodes/learts-blog.php:266, src/learts-addons/includes/shortcodes/learts-product-carousel.php:178, src/learts-addons/includes/shortcodes/learts-product-carousel.php:188, src/learts-addons/includes/shortcodes/learts-product-categories.php:116, src/learts-addons/includes/shortcodes/learts-product-categories.php:127, src/learts-addons/includes/shortcodes/learts-product-grid.php:208, src/learts-addons/includes/shortcodes/learts-product-grid.php:218, src/learts-addons/includes/shortcodes/learts-product-tabs.php:324, src/learts-addons/includes/shortcodes/learts-product-tabs.php:325, src/learts-addons/includes/shortcodes/learts-product-widget.php:213, src/learts-addons/includes/shortcodes/learts-product-widget.php:221
+msgid "Data Settings"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:244
+msgid "Filter by"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:247
+msgid "Select filter source."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:250
+msgid "Tags"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:256
+msgid "Select Categories"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-blog.php:268
+msgid "Select Tags"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:14
+msgid "Brands Image Carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:18
+msgid "Show brands in a carousel."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:22, src/learts-addons/includes/shortcodes/learts-brands-grid.php:23
+msgid "Select Brand"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:34, src/learts-addons/includes/shortcodes/learts-brands-grid.php:35
+msgid "Hide empty brands"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:39, src/learts-addons/includes/shortcodes/learts-brands-grid.php:40
+msgid "Display only feature brands"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:43
+msgid "Number of brands to show"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:58, src/learts-addons/includes/shortcodes/learts-brands-grid.php:45
+msgid "Show brand's title"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:63, src/learts-addons/includes/shortcodes/learts-brands-grid.php:50, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:233
+msgid "Open link in a new tab"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:68, src/learts-addons/includes/shortcodes/learts-image-carousel.php:48, src/learts-addons/includes/shortcodes/learts-product-categories.php:218, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:84
+msgid "Enable carousel loop mode"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-carousel.php:74, src/learts-addons/includes/shortcodes/learts-image-carousel.php:54, src/learts-addons/includes/shortcodes/learts-product-categories.php:228, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:90
+msgid "Enable carousel autolay"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-grid.php:15
+msgid "Brands Image Grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-brands-grid.php:19
+msgid "Show brands in a grid."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:45
+msgid "Button Style"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:50
+msgid "Alternative"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:53
+msgid "Select button style."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:57
+msgid "Size"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:61
+msgid "Small"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:62
+msgid "Medium"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:63
+msgid "Large"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:64
+msgid "Extra large"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:67
+msgid "Select button size."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:71, src/learts-addons/includes/shortcodes/learts-icon-box.php:140, src/learts-addons/includes/shortcodes/learts-instagram.php:131
+msgid "Text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:74
+msgid "Enter text on the button."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:78, src/learts-addons/includes/shortcodes/learts-icon-box.php:124, src/learts-addons/includes/shortcodes/learts-simple-banner.php:109
+msgid "URL (Link)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:80, src/learts-addons/includes/shortcodes/learts-simple-banner.php:111
+msgid "Enter button link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:84, src/learts-addons/includes/shortcodes/learts-countdown.php:355, src/learts-addons/includes/shortcodes/learts-countdown.php:406, src/learts-addons/includes/shortcodes/learts-icon-box.php:167, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:163
+msgid "Font size"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:97
+msgid "Add icon?"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:115
+msgid "Icon position"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:128, src/learts-addons/includes/shortcodes/learts-button.php:139, src/learts-addons/includes/shortcodes/learts-button.php:150, src/learts-addons/includes/shortcodes/learts-button.php:161, src/learts-addons/includes/shortcodes/learts-button.php:172, src/learts-addons/includes/shortcodes/learts-button.php:183, src/learts-addons/includes/shortcodes/learts-icon-box.php:204, src/learts-addons/includes/shortcodes/learts-icon-box.php:212, src/learts-addons/includes/shortcodes/learts-icon-box.php:220, src/learts-addons/includes/shortcodes/learts-icon-box.php:228, src/learts-addons/includes/shortcodes/learts-icon-box.php:237, src/learts-addons/includes/shortcodes/learts-mailchimp.php:180, src/learts-addons/includes/shortcodes/learts-mailchimp.php:191, src/learts-addons/includes/shortcodes/learts-mailchimp.php:202, src/learts-addons/includes/shortcodes/learts-mailchimp.php:213, src/learts-addons/includes/shortcodes/learts-mailchimp.php:224, src/learts-addons/includes/shortcodes/learts-mailchimp.php:235, src/learts-addons/includes/shortcodes/learts-mailchimp.php:246, src/learts-addons/includes/shortcodes/learts-mailchimp.php:257, src/learts-addons/includes/shortcodes/learts-mailchimp.php:268, src/learts-addons/includes/shortcodes/learts-mailchimp.php:279, src/learts-addons/includes/shortcodes/learts-mailchimp.php:290, src/learts-addons/includes/shortcodes/learts-mailchimp.php:301, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:239, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:246, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:253, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:260, src/learts-addons/includes/shortcodes/learts-product-tabs.php:154, src/learts-addons/includes/shortcodes/learts-product-tabs.php:167, src/learts-addons/includes/shortcodes/learts-product-tabs.php:178, src/learts-addons/includes/shortcodes/learts-product-tabs.php:189, src/learts-addons/includes/shortcodes/learts-product-tabs.php:200, src/learts-addons/includes/shortcodes/learts-product-tabs.php:211, src/learts-addons/includes/shortcodes/learts-product-tabs.php:222, src/learts-addons/includes/shortcodes/learts-social.php:116, src/learts-addons/includes/shortcodes/learts-social.php:123, src/learts-addons/includes/shortcodes/learts-social.php:130, src/learts-addons/includes/shortcodes/learts-social.php:141
+msgid "Color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:130, src/learts-addons/includes/shortcodes/learts-countdown.php:304
+msgid "Background color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:141
+msgid "Background color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:152, src/learts-addons/includes/shortcodes/learts-countdown.php:348, src/learts-addons/includes/shortcodes/learts-countdown.php:399
+msgid "Text color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:163
+msgid "Text color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:174, src/learts-addons/includes/shortcodes/learts-countdown.php:310
+msgid "Border color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:185
+msgid "Border color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:203
+msgid "Button"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-button.php:207
+msgid "Eye catching button"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:296
+msgid "Countdown"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:299
+msgid "Countdown timer"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:316
+msgid "Target time for Countdown"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:322
+msgid "Countdown timer depends on"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:325
+msgid "WordPress Defined Timezone"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:326
+msgid "User's System Timezone"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:331
+msgid "Select time units to display in countdown timer"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:334, src/learts-addons/includes/shortcodes/learts-countdown.php:543
+msgid "Years"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:335, src/learts-addons/includes/shortcodes/learts-countdown.php:529
+msgid "Months"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:336, src/learts-addons/includes/shortcodes/learts-countdown.php:515
+msgid "Weeks"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:337, src/learts-addons/includes/shortcodes/learts-countdown.php:501
+msgid "Days"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:338, src/learts-addons/includes/shortcodes/learts-countdown.php:487
+msgid "Hours"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:339, src/learts-addons/includes/shortcodes/learts-countdown.php:473
+msgid "Minutes"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:340, src/learts-addons/includes/shortcodes/learts-countdown.php:459
+msgid "Seconds"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:346, src/learts-addons/includes/shortcodes/learts-countdown.php:353, src/learts-addons/includes/shortcodes/learts-countdown.php:362, src/learts-addons/includes/shortcodes/learts-countdown.php:371, src/learts-addons/includes/shortcodes/learts-countdown.php:380
+msgid "Digit"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:364, src/learts-addons/includes/shortcodes/learts-countdown.php:415
+msgid "Line height"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:373, src/learts-addons/includes/shortcodes/learts-countdown.php:424
+msgid "Use theme default font family?"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:375, src/learts-addons/includes/shortcodes/learts-countdown.php:426
+msgid "Yes"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:376, src/learts-addons/includes/shortcodes/learts-countdown.php:427
+msgid "Use font family from the theme."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:386, src/learts-addons/includes/shortcodes/learts-countdown.php:437
+msgid "Select font family."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:387, src/learts-addons/includes/shortcodes/learts-countdown.php:438
+msgid "Select font styling."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:397, src/learts-addons/includes/shortcodes/learts-countdown.php:404, src/learts-addons/includes/shortcodes/learts-countdown.php:413, src/learts-addons/includes/shortcodes/learts-countdown.php:422, src/learts-addons/includes/shortcodes/learts-countdown.php:431
+msgid "Unit"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:448, src/learts-addons/includes/shortcodes/learts-countdown.php:455, src/learts-addons/includes/shortcodes/learts-countdown.php:462, src/learts-addons/includes/shortcodes/learts-countdown.php:469, src/learts-addons/includes/shortcodes/learts-countdown.php:476, src/learts-addons/includes/shortcodes/learts-countdown.php:483, src/learts-addons/includes/shortcodes/learts-countdown.php:490, src/learts-addons/includes/shortcodes/learts-countdown.php:497, src/learts-addons/includes/shortcodes/learts-countdown.php:504, src/learts-addons/includes/shortcodes/learts-countdown.php:511, src/learts-addons/includes/shortcodes/learts-countdown.php:518, src/learts-addons/includes/shortcodes/learts-countdown.php:525, src/learts-addons/includes/shortcodes/learts-countdown.php:532, src/learts-addons/includes/shortcodes/learts-countdown.php:539
+msgid "String Translation"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:450
+msgid "Second (Singular)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:452
+msgid "Second"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:457
+msgid "Seconds (Plural)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:464
+msgid "Minute (Singular)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:466
+msgid "Minute"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:471
+msgid "Minutes (Plural)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:478
+msgid "Hour (Singular)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:480
+msgid "Hour"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:485
+msgid "Hours (Plural)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:492
+msgid "Day (Singular)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:494
+msgid "Day"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:499
+msgid "Days (Plural)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:506
+msgid "Week (Singular)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:508
+msgid "Week"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:513
+msgid "Weeks (Plural)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:520
+msgid "Month (Singular)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:522
+msgid "Month"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:527
+msgid "Months (Plural)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:534
+msgid "Year (Singular)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:536
+msgid "Year"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-countdown.php:541
+msgid "Years (Plural)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:41
+msgid "Google Maps"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:45
+msgid "Map block"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:49, src/learts-addons/includes/shortcodes/learts-space.php:66
+msgid "Height"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:52
+msgid "Enter map height (in pixels or %)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:56
+msgid "Width"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:59
+msgid "Enter map width (in pixels or %)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:63
+msgid "Zoom level"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:68
+msgid "Map zoom level"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:74
+msgid "Enable mouse scroll wheel zoom"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:79
+msgid "Map type"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:82
+msgid "Choose a map type"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:92
+msgid "Map style"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:95
+msgid "Choose a map style. This approach changes the style of the Roadmap types (base imagery in terrain and satellite views is not affected, but roads, labels, etc. respect styling rules)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:113
+msgid "Map style snippet"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:115
+msgid "To get the style snippet, visit <a href=\"%s\" target=\"_blank\">Sanzzymaps</a> or <a href=\"%s\" target=\"_blank\">Mapstylr</a>."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:129, src/learts-addons/includes/shortcodes/learts-gmaps.php:131
+msgid "Markers"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:133
+msgid "You can add multiple markers to the map, maximum is 4 markers."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:142
+msgid "Address or Coordinate"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:145
+msgid "Enter address or coordinate. Find coordinates using the name and/or address of the place using <a href=\"%s\" target=\"_blank\">this simple tool here.</a>"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:156
+msgid "Marker icon"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:158
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:162
+msgid "Marker Information"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-gmaps.php:164
+msgid "Content for info window"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:81
+msgid "Select icon box style"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:85
+msgid "Vertical Alignment"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:88
+msgid "Top"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:89
+msgid "Middle"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:90, src/learts-addons/includes/shortcodes/learts-product-widget.php:192
+msgid "Bottom"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:98
+msgid "This is icon box title"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:102
+msgid "Title font size"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:110, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:185
+msgid "Description"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:112
+msgid "<p>This is the description of icon box element</p>"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:116
+msgid "Description font size"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:126
+msgid "Add link to icon box"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:131
+msgid "Use link in title"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:136
+msgid "Use text instead of icon"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:179
+msgid "Icon with background"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:184
+msgid "Background shape"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:187, src/learts-addons/includes/shortcodes/learts-social.php:89
+msgid "Square"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:188, src/learts-addons/includes/shortcodes/learts-social.php:88
+msgid "Circle"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:189
+msgid "Rounded"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:190
+msgid "Outline Square"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:191
+msgid "Outline Circle"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:192
+msgid "Outline Rounded"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:206
+msgid "Title font color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:209
+msgid "Select title font color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:214
+msgid "Description font color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:217
+msgid "Select description font color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:222
+msgid "Link color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:225
+msgid "Select link color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:230, src/learts-addons/includes/shortcodes/learts-social.php:119
+msgid "Icon color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:234
+msgid "Select icon color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:239, src/learts-addons/includes/shortcodes/learts-social.php:133
+msgid "Icon background color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:242
+msgid "Select icon background color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:256
+msgid "Icon Box"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-icon-box.php:260
+msgid "Eye catching icons from libraries"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:14, src/learts-addons/includes/shortcodes/learts-image-360.php:40
+msgid "Image 360"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:15
+msgid "Display image 360"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:24
+msgid "Select Frames"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:26
+msgid "8 frames"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:27
+msgid "16 frames"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:28
+msgid "24 frames"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:33
+msgid "Image preview"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:36
+msgid "Upload product’s review image which is shown at the beginning"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-360.php:43
+msgid "Upload your 360 product’s image. You can read  <a href=\"%s\" target=\"_blank\">this blog</a> to know how to create a 360 product’s image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-carousel.php:13
+msgid "Image Carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-carousel.php:14
+msgid "Display image carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-carousel.php:22
+msgid "Single Image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-carousel.php:27, src/learts-addons/includes/shortcodes/learts-megamenu.php:46, src/learts-addons/includes/shortcodes/learts-menu-grid.php:40, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:52, src/learts-addons/includes/shortcodes/learts-simple-banner.php:32, src/learts-addons/includes/shortcodes/learts-team-member.php:39
+msgid "Image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-carousel.php:33
+msgid "Title Image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-image-carousel.php:34
+msgid "A short text display below a image."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:15
+msgid "Instagram"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:18, src/learts-addons/includes/shortcodes/learts-mailchimp.php:138
+msgid "by % s"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:19
+msgid "Displays latest Instagram photos"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:23
+msgid "Instagram Username"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:27
+msgid "Enter Instagram username (not include @). Example: <b>thememove</b>"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:35
+msgid "Select a template to display instagram"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:46, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:36
+msgid "Number of items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:52
+msgid "Set number of items in grid (limited to 1000)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:106
+msgid "Number of images to show"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:121
+msgid "Item spacing"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:133
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:134
+msgid "Leave empty to hide it"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:140
+msgid "Show Instagram username"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:147
+msgid "Show likes and comments"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:155
+msgid "Open links in new page"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-instagram.php:162
+msgid "Show square media"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:135
+msgid "Subscribe box (MailChimp)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:139
+msgid "Displays your MailChimp for WordPress sign-up form"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:143
+msgid "Placeholder Text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:145
+msgid "Your email address"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:146
+msgid "Text to display in the form input holder . "
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:150
+msgid "Button Text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:152
+msgid "Subscribe"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:153
+msgid "Text of the form’s submit button . "
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:157
+msgid "MailChimp list"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:164
+msgid "Color Scheme"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:167
+msgid "Light"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:168
+msgid "Dark"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:171
+msgid "Select color scheme"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:175
+msgid "Max Width"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:182
+msgid "Placeholder color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:193
+msgid "Placeholder color (on focus)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:204
+msgid "Input text color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:215
+msgid "Input text color (on focus)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:226
+msgid "Input border color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:237
+msgid "Input border color (on focus)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:248
+msgid "Input background color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:259
+msgid "Input background color (on focus)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:270
+msgid "Button text color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:281
+msgid "Button text color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:292
+msgid "Button background color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-mailchimp.php:303
+msgid "Button background color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:15
+msgid "Mega Menu"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:19
+msgid "Display menu is list format, useful in mega menu"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:29, src/learts-addons/includes/shortcodes/learts-megamenu.php:31, src/learts-addons/includes/shortcodes/learts-menu-grid.php:23, src/learts-addons/includes/shortcodes/learts-menu-grid.php:25, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:35, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:37
+msgid "Item"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:35, src/learts-addons/includes/shortcodes/learts-menu-grid.php:29, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:41
+msgid "Display image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:39, src/learts-addons/includes/shortcodes/learts-menu-grid.php:33, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:45
+msgid "Image from libary"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:40, src/learts-addons/includes/shortcodes/learts-menu-grid.php:34, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:46
+msgid "Link image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:58, src/learts-addons/includes/shortcodes/learts-menu-grid.php:52, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:64
+msgid "URL Image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:68, src/learts-addons/includes/shortcodes/learts-menu-grid.php:62, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:74
+msgid "Custom Link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-megamenu.php:74, src/learts-addons/includes/shortcodes/learts-menu-grid.php:68, src/learts-addons/includes/shortcodes/learts-menu-vertical.php:80
+msgid "Title of Item"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-grid.php:15
+msgid "Menu Grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-grid.php:19
+msgid "Display menu is grid format"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-grid.php:73
+msgid "Display Badges"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-grid.php:78
+msgid "New"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-grid.php:79
+msgid "Hot"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-vertical.php:15
+msgid "Menu Vertical"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-vertical.php:19
+msgid "Display menu is vertical format"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-menu-vertical.php:31
+msgid "Display dropdown"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:49
+msgid "Product Carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:53
+msgid "Add products in a carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:59, src/learts-addons/includes/shortcodes/learts-product-grid.php:65, src/learts-addons/includes/shortcodes/learts-product-widget.php:65
+msgid "Data source"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:61, src/learts-addons/includes/shortcodes/learts-product-grid.php:67, src/learts-addons/includes/shortcodes/learts-product-widget.php:67
+msgid "Recent Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:62, src/learts-addons/includes/shortcodes/learts-product-grid.php:68, src/learts-addons/includes/shortcodes/learts-product-tabs.php:249, src/learts-addons/includes/shortcodes/learts-product-widget.php:68
+msgid "Featured Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:63, src/learts-addons/includes/shortcodes/learts-product-grid.php:69, src/learts-addons/includes/shortcodes/learts-product-tabs.php:253, src/learts-addons/includes/shortcodes/learts-product-widget.php:69
+msgid "On Sale Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:64, src/learts-addons/includes/shortcodes/learts-product-grid.php:70, src/learts-addons/includes/shortcodes/learts-product-widget.php:70
+msgid "Best-Selling Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:65, src/learts-addons/includes/shortcodes/learts-product-grid.php:71
+msgid "Related Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:66, src/learts-addons/includes/shortcodes/learts-product-grid.php:72, src/learts-addons/includes/shortcodes/learts-product-widget.php:71
+msgid "Top Rated Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:67, src/learts-addons/includes/shortcodes/learts-product-grid.php:73, src/learts-addons/includes/shortcodes/learts-product-widget.php:72
+msgid "Product Attribute"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:68, src/learts-addons/includes/shortcodes/learts-product-grid.php:74, src/learts-addons/includes/shortcodes/learts-product-widget.php:73
+msgid "List of Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:71
+msgid "Select data source for your product carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:100, src/learts-addons/includes/shortcodes/learts-product-grid.php:111, src/learts-addons/includes/shortcodes/learts-product-tabs.php:270, src/learts-addons/includes/shortcodes/learts-product-widget.php:105
+msgid "Number"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:101
+msgid "Number of products in the carousel (-1 is all, limited to 1000)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:110, src/learts-addons/includes/shortcodes/learts-product-grid.php:123, src/learts-addons/includes/shortcodes/learts-product-tabs.php:282, src/learts-addons/includes/shortcodes/learts-product-widget.php:113
+msgid "Exclude products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:120, src/learts-addons/includes/shortcodes/learts-product-grid.php:134, src/learts-addons/includes/shortcodes/learts-product-tabs.php:293, src/learts-addons/includes/shortcodes/learts-product-widget.php:97
+msgid "Whether or not to include children categories"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:121, src/learts-addons/includes/shortcodes/learts-product-grid.php:135, src/learts-addons/includes/shortcodes/learts-product-tabs.php:294, src/learts-addons/includes/shortcodes/learts-product-widget.php:98
+msgid "Include children"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:127, src/learts-addons/includes/shortcodes/learts-product-grid.php:142, src/learts-addons/includes/shortcodes/learts-product-tabs.php:301, src/learts-addons/includes/shortcodes/learts-product-widget.php:206
+msgid "Image size"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:130, src/learts-addons/includes/shortcodes/learts-product-grid.php:145, src/learts-addons/includes/shortcodes/learts-product-tabs.php:304
+msgid "Enter image size . Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by current theme . Alternatively enter image size in pixels: 200x100( Width x Height). Leave empty to use \"woocommerce_thumbnail\" size . "
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-carousel.php:136, src/learts-addons/includes/shortcodes/learts-product-grid.php:177, src/learts-addons/includes/shortcodes/learts-product-tabs.php:162
+msgid "Dispaly star rating and stock status in sale product"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:102
+msgid "Product Categories"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:107
+msgid "Product categories grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:113
+msgid "Hide product count"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:121
+msgid "As slugs provided order"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:122, src/learts-addons/includes/shortcodes/learts-team-member.php:46
+msgid "Name"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:123
+msgid "Slug"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:124
+msgid "ID"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:130
+msgid "Layout"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:134
+msgid "Try out our creative styles for categories block"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:136
+msgid "Default (Grid)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:142
+msgid "Item style"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:146
+msgid "Select style for items in categories block"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:148
+msgid "Style 1 - Item with bottom content"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:149
+msgid "Style 2 - Black overlay on mouse over"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:158
+msgid "Space between items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:175, src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:47
+msgid "Number of items to show"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:192
+msgid "Set numbers of slides you want to display at the same time on the container for carousel mode."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:196
+msgid "Columns"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:200
+msgid "How much columns grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:267
+msgid "Enable centered view with partial prev/next slides. Use with odd numbered Slides Per Views counts."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:268
+msgid "Center Mode"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:276
+msgid "Center Padding"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:278
+msgid "Side padding when in center mode (px or %)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-categories.php:289
+msgid "Hide empty categories"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:62
+msgid "Add image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:96
+msgid "Product Category Banner"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:97
+msgid "Simple banner for single product category"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:106
+msgid "Image Source"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:109
+msgid "Media library"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:110
+msgid "External link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:113
+msgid "Select image source."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:117
+msgid "Banner Image"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:128
+msgid "External Link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:130
+msgid "Select external link."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:138, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:150
+msgid "Image Size (Optional)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:141
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Example: 200x100 (Width x Height))."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:153
+msgid "Enter image size in pixels. Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:164
+msgid "Font size of the product category name."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:173
+msgid "Style product category banner"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:177
+msgid "Name of category below"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:178
+msgid "Name of category inside"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:179
+msgid "Name of category with color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:187
+msgid "Display description of banner category."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:194
+msgid "Position of description."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:198
+msgid "On the left"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:199
+msgid "On the right"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:207
+msgid "Product Count Visibility"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:211
+msgid "Always visible"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:212
+msgid "When hover"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:213
+msgid "Hidden"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:222
+msgid "Background color of label category"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:241
+msgid "Category Name"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:248
+msgid "Category Name (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:255
+msgid "Product Count"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:262
+msgid "Product Count (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:269, src/learts-addons/includes/shortcodes/learts-product-category-banner.php:288, src/learts-addons/includes/shortcodes/learts-product-grid.php:182, src/learts-addons/includes/shortcodes/learts-simple-banner.php:116, src/learts-addons/includes/shortcodes/learts-simple-banner.php:136
+msgid "Animation"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:271, src/learts-addons/includes/shortcodes/learts-simple-banner.php:118
+msgid "Banner Hover Effect"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:275, src/learts-addons/includes/shortcodes/learts-simple-banner.php:122
+msgid "none"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:276
+msgid "Border and zoom"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:277, src/learts-addons/includes/shortcodes/learts-simple-banner.php:123
+msgid "Zoom in"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:278, src/learts-addons/includes/shortcodes/learts-simple-banner.php:126
+msgid "Blur"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:279, src/learts-addons/includes/shortcodes/learts-simple-banner.php:127
+msgid "Gray scale"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:280, src/learts-addons/includes/shortcodes/learts-simple-banner.php:128
+msgid "White Overlay"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:281, src/learts-addons/includes/shortcodes/learts-simple-banner.php:129
+msgid "Black Overlay"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:284, src/learts-addons/includes/shortcodes/learts-simple-banner.php:132
+msgid "Select animation style for banner when mouse over. Note: Some styles only work in modern browsers"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-category-banner.php:290
+msgid "Banner Animation"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-grid.php:55
+msgid "Product Grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-grid.php:59
+msgid "Add products in a grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-grid.php:77
+msgid "Select data source for your product grid"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-grid.php:112
+msgid "Number of products in the grid (-1 is all, limited to 1000)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-grid.php:167
+msgid "Select product item style"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-grid.php:170
+msgid "Button Hover"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:48
+msgid "Trendy items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:52
+msgid "Sale items"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:56
+msgid "Best sellers"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:60
+msgid "Top rated"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:65
+msgid "New arrivals"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:105
+msgid "Product Tabs"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:109
+msgid "Product grid grouped by tabs"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:113
+msgid "Tabs"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:114
+msgid "Select how to group products in tabs"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:119
+msgid "Group by category"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:120
+msgid "Group by feature"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:125
+msgid "Tabs Effect"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:126
+msgid "Select the way tabs load products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:131
+msgid "Ajax Load"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:136
+msgid "Tabs Alignment"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:147
+msgid "Hover Effect"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:152
+msgid "Botanical"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:153
+msgid "Cloudy"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:169
+msgid "Background button color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:180
+msgid "Background button color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:191
+msgid "Text button color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:202
+msgid "Text button color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:213
+msgid "Border button color"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:224
+msgid "Border button color (on hover)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:242
+msgid "Tab"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:243
+msgid "Select which tabs you want to show"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:252
+msgid "New Products"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:255
+msgid "Best-Selling Products (only Ajax Load)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:259
+msgid "Top Rated Products (only Ajax Load)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-tabs.php:271
+msgid "Total number of products will be display in single tab (-1 is all, limited to 1000)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:49
+msgid "Product Widget"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:53
+msgid "Add products in a widget"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:76
+msgid "Select data source for your product widget"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:106
+msgid "Number of products in the widget (-1 is all, limited to 1000)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:123
+msgid "Enable Carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:128
+msgid "Number of products per slide"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:188
+msgid "Arrows Position"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:190
+msgid "In the title"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:191
+msgid "Left and Right"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:202
+msgid "Show Add to Cart Button"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-product-widget.php:209
+msgid "Enter image size . Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by current theme . Alternatively enter image size in pixels: 200x100( Width x Height). Leave empty to use \"shop_thumbnail\" size . "
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:26
+msgid "Quote Block"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:30
+msgid "Show a single quote."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:35
+msgid "Background color for block quote"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:41
+msgid "Heading"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:46, src/learts-addons/includes/shortcodes/learts-simple-banner.php:43
+msgid "Content"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:50
+msgid "Quote Button Link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:56
+msgid "Position button link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:59
+msgid "Align Right"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-quote.php:60
+msgid "Align Left"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:15
+msgid "Learts Simple Banner"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:16
+msgid "Banner custom link with image or text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:26
+msgid "Image with text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:27
+msgid "Only text"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:48
+msgid "Align content"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:51
+msgid "Text align left"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:52
+msgid "Text align center"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:53
+msgid "Text align right"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:56
+msgid "Select alignment for content."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:64
+msgid "Position content"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:67
+msgid "Left top"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:68
+msgid "Left center"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:69
+msgid "Left bottom"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:70
+msgid "Right top"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:71
+msgid "Right center"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:72
+msgid "Right bottom"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:73
+msgid "Center top"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:74
+msgid "Center center"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:75
+msgid "Center bottom"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:78
+msgid "Select position for content."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:87
+msgid "Display content full width 100%"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:96
+msgid "Display border"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:105
+msgid "Display button"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:124
+msgid "Border and zoom in"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-simple-banner.php:125
+msgid "Border zoom out and black overlay"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:56
+msgid "Social Links"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:60
+msgid "Display share icon social."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:65
+msgid "Icon font size"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:75
+msgid "Spacing"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:85
+msgid "Icon background shape"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:92
+msgid "Select background shape and style for icons"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:95, src/learts-addons/includes/shortcodes/learts-social.php:106, src/learts-addons/includes/shortcodes/learts-team-member.php:64, src/learts-addons/includes/shortcodes/learts-team-member.php:70
+msgid "Social"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:98
+msgid "Select Social Link"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:100
+msgid "Default (From Theme Options)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:108, src/learts-addons/includes/shortcodes/learts-team-member.php:72
+msgid "Social links"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:126
+msgid "Icon color on hover"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-social.php:144
+msgid "Icon background color on hover"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:40
+msgid "Responsive Empty Space"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:44
+msgid "Responsive blank space width custom height"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:48
+msgid "Units"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:53
+msgid "px"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:54
+msgid "em"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:55
+msgid "rem"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:56
+msgid "ex"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:57
+msgid "cm"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:58
+msgid "mm"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:59
+msgid "in"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:60
+msgid "pt"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:61
+msgid "pc"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:67
+msgid "Extra large devices (large desktops)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:73
+msgid "Large Devices Height"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:74
+msgid "Large devices (desktops, less than 1200px)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:79
+msgid "Medium Devices Height"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:80
+msgid "Tablets, screen resolutions less than 992px"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:85
+msgid "Small Devices Height"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:86
+msgid "Landscape phones, screen resolutions less than 768px."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:91
+msgid "Extra Small Devices Height"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:92
+msgid "Portrait phones,screen resolutions less than 576px."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:97
+msgid "Element ID"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-space.php:98
+msgid "Enter element ID (Note: make sure it is unique and valid according to <a href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-team-member.php:31
+msgid "Team Member"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-team-member.php:35
+msgid "Display team members project"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-team-member.php:52
+msgid "Role"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-team-member.php:54
+msgid "Add a role. E.g. CEO of ThemeMove"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-team-member.php:59
+msgid "Biography"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-team-member.php:67
+msgid "Open links in new tab"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:15
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:19
+msgid "Show testimonials in a carousel"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:26
+msgid "Choose the style of testimonial "
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:28
+msgid "Single testimonial"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:29
+msgid "Multiple testimonials"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:38
+msgid "The number of testimonials to show. Enter -1 to show ALL testimonials (limited to 1000)"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:49
+msgid "The number items testimonials to show on page."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:52
+msgid "1 testimonial"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:53
+msgid "2 testimonials"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:54
+msgid "3 testimonials"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:55
+msgid "4 testimonials"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:65
+msgid "Testimonials Order"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:68
+msgid "Random"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:69
+msgid "Latest"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:71
+msgid "Choose the order of the testimonials."
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:75
+msgid "Testimonials category"
+msgstr ""
+
+#: src/learts-addons/includes/shortcodes/learts-testimonial-carousel.php:78
+msgid "Choose the category for the testimonials."
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_blog.php:119
+msgid "Load More..."
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_instagram.php:103
+msgid "Play"
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_mailchimp.php:66
+msgid "Please add MailChimp API Key in <a href=\"%s\" target=\"_blank\">Theme Options > API Integrations</a>"
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_mailchimp.php:95
+msgid "Please select at least one list."
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_megamenu.php:46, src/learts-addons/includes/templates/learts_menu_vertical.php:50
+msgid "Click Here"
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_menu_grid.php:53
+msgid "READ MORE"
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_product_grid.php:122, src/learts-addons/includes/templates/learts_product_tabs.php:155
+msgid "Load More ..."
+msgstr ""
+
+#: src/learts-addons/includes/templates/learts_product_tabs.php:96, src/learts-addons/includes/templates/learts_product_tabs.php:110
+msgid "All"
+msgstr ""
+
+#: src/learts-addons/learts-addons.php:94
+msgid "<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" target=\"_blank\">Visual Composer</a></strong> plugin to be installed and activated on your site."
+msgstr ""

@@ -1,0 +1,108 @@
+/*!
+Theme Name: Learts
+Theme URI: http://learts.thememove.com
+Author: ThemeMove
+Author URI: http://thememove.com
+Description: WooCommerce Handmade Shop Theme
+Version: 1.5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: learts
+Tags: editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Settings
+# Tools
+# Generic
+# Elements
+# Objects
+# Components
+# Trumps
+--------------------------------------------------------------*/
+/*
+SETTINGS
+store all variables, config switches, etc.
+Split up into logical sections, the smaller and simpler the better.
+used with preprocessors and contain font, colors definitions, etc
+================================================
+*/
+@import 'settings/*';
+// Core variables and mixins
+@import 'vendor/bootstrap/variables';
+@import 'vendor/bootstrap/mixins';
+// Utility classes
+@import 'vendor/bootstrap/utilities';
+/*
+TOOLS
+================================================
+store all programic Sass functionality.
+If your tooling is simplistic enough, you can do something like:
+  tools.mixins
+If your tooling is more complex you can split it up like:
+  tools.grid
+  tools.typography
+  etc.
+*/
+@import 'vendor/family/family';
+@import 'vendor/bourbon/bourbon';
+@import 'tools/*';
+/*
+GENERIC
+================================================
+reset and/or normalize styles, box-sizing definition, etc.
+This is the first layer which generates actual CSS.
+*/
+@import 'vendor/bootstrap/normalize';
+@import 'vendor/bootstrap/print';
+@import 'vendor/bootstrap/reboot';
+@import 'generic/*';
+/*
+ELEMENTS
+================================================
+styling for bare HTML elements (like H1, A, etc.).
+moThese come with default styling from the browser so we can redefine them here.
+*/
+@import 'vendor/bootstrap/type';
+@import 'vendor/bootstrap/images';
+@import 'vendor/bootstrap/code';
+@import 'vendor/bootstrap/tables';
+@import 'elements/*';
+/*
+OBJECTS
+================================================
+"formless", in other words invisible to the user, no cosmetics
+  Eg. wrappers, grid systems, etc.
+This is the first layer of classes and should be agnostically named
+  Eg. list-inline, ui-list, etc.
+*/
+@import 'vendor/bootstrap/grid';
+@import 'vendor/slick-carousel/slick';
+@import 'objects/*';
+/*
+COMPONENTS
+================================================
+Specific UI components.
+This is where majority of our work takes place and our UI components are often composed of Objects and Components
+*/
+@import 'components/*';
+// Woocommerce.
+@import 'components/woo/*';
+// VC Shortcodes.
+@import 'components/vc/*';
+/*
+Trumps
+================================================
+utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class
+*/
+@import 'trumps/*';
+
+body.no-redux.single .page-title .entry-title {
+	font-size: 56px !important;
+	font-weight: 400 !important;
+}
+
+body.no-redux ul.wp-tag-cloud a {
+	background-color: transparent !important;
+}

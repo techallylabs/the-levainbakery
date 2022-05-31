@@ -1,0 +1,205 @@
+/* Widget CSS */
+.insight-table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.insight-table.widefat {
+}
+
+.insight-table tr {
+	text-align: center;
+}
+
+.insight-table > tbody > tr > th {
+	border-top-color: transparent !important;
+}
+
+.insight-table > tbody > tr > td {
+	text-align: left;
+	vertical-align: middle !important;
+	border: 1px solid #dddddd;
+}
+
+.insight-table > tbody > tr > td.insight_screen-size {
+	background-color: #f8f8f8;
+}
+
+.insight-table > tbody > tr > td.insight_item-width {
+	padding: 5px;
+}
+
+.insight-table i {
+	font-size: 16px;
+	margin-right: 10px;
+}
+
+.insight-social-links-inner {
+	height: 300px;
+	overflow: auto;
+	margin-bottom: 15px;
+}
+
+.insight_social-links-table > tbody > tr > th:first-child {
+	text-align: left;
+}
+
+.insight_social-links-table > tbody > tr > td:first-child {
+	text-align: left;
+}
+
+.insight_social-links-table i {
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.insight_number {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.insight_number span {
+	line-height: 40px;
+	margin-left: 10px;
+}
+
+.insight_number input[type='number'] {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	-moz-appearance: textfield;
+	height: 40px;
+	width: 70px;
+	margin: 0;
+}
+
+.insight_number input[type=number]::-webkit-inner-spin-button, .insight_number input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+}
+
+.insight_number .minus, .insight_number .plus {
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 18px;
+	width: 30px;
+	height: 40px;
+	border: 1px solid #dddddd;
+	background-color: #eeeeee;
+	color: #888888;
+	margin: 0;
+	padding: 0;
+}
+
+.insight_number .minus {
+	border-right-width: 0;
+}
+
+.insight_number .plus {
+	border-left-width: 0;
+}
+
+.insight_number .minus:focus, .insight_number .plus:focus {
+	outline: none;
+	border-color: #5b9dd9;
+	border-width: 1px !important;
+	-webkit-box-shadow: 0 0 2px rgba(30, 140, 190, .8);
+	box-shadow: 0 0 2px rgba(30, 140, 190, .8);
+}
+
+/* VC Shortcode icons */
+.vc_element-icon[class*=element-icon-] {
+	background: url(../img/vc-icon.png) no-repeat;
+}
+
+.vc_element-icon.learts-element-icon-space {
+	background-position: -622px 0;
+}
+
+.vc_element-icon.learts-element-icon-testimonials {
+	background-position: -500px 0;
+}
+
+.vc_element-icon.learts-element-icon-icon-box {
+	background-position: -168px 0;
+}
+
+.vc_element-icon.learts-element-icon-gmaps {
+	background-position: -42px 0;
+}
+
+.vc_element-icon.learts-element-icon-instagram {
+	background-position: -663px 0;
+}
+
+.vc_element-icon.learts-element-icon-button {
+	background-position: -252px 0;
+}
+
+.vc_element-icon.learts-element-icon-countdown {
+	background-position: -210px 0;
+}
+
+.vc_element-icon.learts-element-icon-team-member {
+	background-position: -459px 0;
+}
+
+.vc_element-icon.learts-element-icon-product-carousel {
+	background-position: -293px 0;
+}
+
+.vc_element-icon.learts-element-icon-mailchimp {
+	background-position: -84px 0;
+}
+
+.vc_element-icon.learts-element-icon-product-grid {
+	background-position: -375px 0;
+}
+
+.vc_element-icon.learts-element-icon-social-links {
+	background-position: -543px 0;
+}
+
+.vc_element-icon.learts-element-icon-simple-banner {
+	background-position: -582px 0;
+}
+
+.vc_element-icon.learts-element-icon-product-widget {
+	background-position: -334px 0;
+}
+
+.vc_element-icon.learts-element-icon-megamenu {
+	background-position: -334px 0;
+}
+
+.vc_element-icon.learts-element-icon-brand-image-grid {
+	background-position: -416px 0;
+}
+
+.vc_element-icon.learts-element-icon-product-tabs {
+	background-position: -293px 0;
+}
+
+.vc_element-icon.learts-element-icon-banner-grid-5 {
+	background-position: -743px 0;
+}
+
+.vc_element-icon.learts-element-icon-products-categories {
+	background-position: -702px 0;
+}
+
+.vc_element-icon.learts-element-icon-product-category-banner {
+	background-position: -702px 0;
+}
+
+.vc_element-icon.learts-element-icon-banner {
+	background-position: -126px 0;
+}
+
+.vc_element-icon.learts-element-icon-image-gallery {
+	background-position: -126px 0;
+}
+
+.vc_element-icon.learts-element-icon-image-carousel {
+	background-position: -126px 0;
+}

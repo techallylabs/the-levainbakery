@@ -1,0 +1,158 @@
+article.type-portfolio {
+	.entry-body {
+		margin-bottom: 40px;
+	}
+
+	.portfolio-media.portfolio-thumb {
+		overflow: hidden;
+	}
+
+	&.style-base {
+
+		.entry-thumbnail img {
+			@extend %transit;
+		}
+
+		&:hover {
+			.entry-thumbnail img {
+				transform: scale(1.1);
+			}
+		}
+	}
+
+	&.style-inside-image {
+		position: relative;
+
+		&:before {
+			display: block;
+			position: absolute;
+			content: '';
+			top: 0;
+			left: 15px;
+			width: calc(100% - 30px);
+			height: calc(100% - 30px);
+			background-color: #f4ede7;
+			opacity: 0;
+			visibility: hidden;
+			z-index: 1;
+			@extend %transit;
+		}
+
+		.entry-body {
+			position: absolute;
+			top: 50%;
+			width: calc(100% - 30px);
+			text-align: center;
+			transform: translateY(-30%);
+			z-index: 2;
+			opacity: 0;
+			visibility: hidden;
+			@extend %transit;
+		}
+
+		&:hover {
+			&:before,
+			.entry-body {
+				opacity: 1;
+				visibility: visible;
+			}
+
+			.entry-body {
+				transform: translateY(-50%);
+			}
+		}
+	}
+
+	&.col-xl-is-5 {
+		.entry-content p {
+			font-size: 16px;
+		}
+	}
+}
+
+body.single-portfolio .portfolio {
+
+	.portfolio-media img {
+		width: 100%;
+
+		transition: all 1s;
+	}
+
+	.date,
+	.categories,
+	.tags,
+	.link,
+	.share {
+		font-weight: 400;
+		color: #333333;
+		font-size: 18px;
+
+		span {
+			font-weight: 300;
+		}
+	}
+
+	.entry-header {
+		margin-bottom: 0;
+	}
+
+	.entry-title {
+		text-align: left;
+	}
+
+	.entry-content {
+		margin-bottom: 0 !important;
+	}
+
+	.entry-content {
+		max-width: none !important;
+	}
+
+	.entry-description p {
+		font-weight: 300;
+	}
+
+	hr {
+		margin: 12px 0;
+	}
+
+	.description-portfolio {
+		margin-bottom: 50px;
+	}
+
+	.list-inline.share-list {
+		display: inline-block;
+	}
+
+	.portfolio-share-buttons a {
+		padding: 0 10px;
+	}
+
+	.meta-link a:hover {
+		color: #f8796c;
+	}
+
+	.portfolio-thumb:hover img {
+		transform: scale(1.1);
+	}
+}
+
+body.single-portfolio .related-portfolio {
+	max-width: none !important;
+
+	.entry-header {
+		text-align: left !important;
+	}
+}
+
+h2.title-related-portfolio {
+	@include media-breakpoint-up(md) {
+		margin: 60px 0;
+	}
+}
+
+body.post-type-archive-portfolio {
+	.posts-wrapper.masonry-container.row {
+		height: auto !important;
+	}
+}

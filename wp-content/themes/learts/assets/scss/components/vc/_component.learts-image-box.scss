@@ -1,0 +1,143 @@
+.learts-image-box {
+  background: white;
+
+  //=== Drawing border effect
+  .drawing-effect-wrapper {
+    position: relative;
+  }
+
+  .drawing-effect-wrapper::before, .drawing-effect-wrapper::after {
+    content: "";
+    width: 0;
+    height: 1px;
+    position: absolute;
+    transition: all 0.2s linear;
+    background: #cbcbcb;
+  }
+
+  .drawing-effect-inner::before, .drawing-effect-inner::after {
+    content: "";
+    width: 1px;
+    height: 0;
+    position: absolute;
+    transition: all 0.2s linear;
+    background: #cbcbcb;
+  }
+
+  .drawing-effect-wrapper:hover::before, .drawing-effect-wrapper:hover::after {
+    width: 100%;
+  }
+
+  .drawing-effect-wrapper:hover .drawing-effect-inner::before, .drawing-effect-wrapper:hover .drawing-effect-inner::after {
+    height: 100%;
+  }
+
+  .drawing-effect-wrapper::before {
+    left: 7px;
+    top: 7px;
+    transition-duration: 0.4s;
+  }
+
+  .drawing-effect-wrapper::after {
+    right: 7px;
+    bottom: 7px;
+    transition-duration: 0.4s;
+  }
+
+  .drawing-effect-wrapper .drawing-effect-inner::before {
+    left: 7px;
+    top: 7px;
+    transition-duration: 0.4s;
+  }
+
+  .drawing-effect-wrapper .drawing-effect-inner::after {
+    right: 7px;
+    bottom: 7px;
+    transition-duration: 0.4s;
+  }
+
+  .drawing-effect-wrapper:hover::before, .drawing-effect-wrapper:hover::after {
+    left: 7px;
+  }
+
+  .drawing-effect-wrapper:hover .drawing-effect-inner::before, .drawing-effect-wrapper:hover .drawing-effect-inner::after {
+    top: 7px;
+
+  }
+
+  .drawing-effect-wrapper:hover::before, .drawing-effect-wrapper:hover::after {
+    width: calc(100% - 14px);
+  }
+
+  .drawing-effect-wrapper:hover .drawing-effect-inner::before, .drawing-effect-wrapper:hover .drawing-effect-inner::after {
+    height: calc(100% - 14px);
+  }
+
+
+  .description {
+    font-family: FuturaBT !important;
+    letter-spacing: 0.58px;
+    line-height: 23px;
+    padding-top: 10px;
+  }
+
+  .title {
+    letter-spacing: 0.83px;
+    line-height: 24px;
+    margin-top: 20px;
+
+  }
+
+  .tm-image-box__content {
+    display: flex;
+    padding-right: 13%;
+    padding-left: 13%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+  }
+
+  .align-left {
+
+    .title, .description, .image-wrapper {
+      text-align: left;
+      justify-content: flex-start;
+
+    }
+
+    .title {
+      font-family: Marcellus !important;
+    }
+
+  }
+
+  .align-center {
+
+    .title, .description, .image-wrapper {
+      text-align: center;
+      justify-content: center;
+
+    }
+
+    .title {
+      font-family: Marcellus !important;
+
+    }
+
+  }
+
+  .align-right {
+
+    .title, .description, .image-wrapper {
+      text-align: right;
+      justify-content: flex-end;
+
+    }
+
+    .title {
+      font-family: Marcellus !important;
+    }
+
+  }
+}
+

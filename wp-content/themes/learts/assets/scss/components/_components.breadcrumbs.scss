@@ -1,0 +1,43 @@
+/**
+ * Breadcrumbs
+ */
+.site-breadcrumbs {
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+	.page-title & {
+		margin-top: 10px;
+		margin-bottom: 0;
+	}
+
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		text-transform: capitalize;
+
+		li {
+			display: inline-block;
+			font-size: 16px;
+			letter-spacing: 0;
+			font-weight: 400;
+
+			&:after {
+				content: '>';
+				margin: 0 5px 0 10px;
+			}
+
+			&:last-child:after {
+				display: none;
+			}
+		}
+	}
+
+	.shop-display & {
+		margin: 0;
+	}
+
+	+ .container.container {
+		padding-top: 0;
+	}
+}

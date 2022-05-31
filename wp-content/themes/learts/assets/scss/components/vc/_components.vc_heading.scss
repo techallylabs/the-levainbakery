@@ -1,0 +1,32 @@
+.vc_custom_heading.title-learts {
+	&:before {
+		content: url(./assets/images/title-decor-left.png);
+		padding-right: 10px;
+	}
+
+	&:after {
+		content: url(./assets/images/title-decor-right.png);
+		padding-left: 10px;
+	}
+
+	@include media-breakpoint-down(xs) {
+		font-size: 35px !important;
+
+		&:before,
+		&:after {
+			display: none;
+		}
+	}
+}
+
+.vc_custom_heading.use_font_modesty {
+	font-family: 'Modesty' !important;
+}
+
+.vc_custom_heading.use_font_notera {
+	font-family: 'Notera' !important;
+}
+
+.vc_custom_heading.use_font_futura {
+	font-family: 'Futura' !important;
+}

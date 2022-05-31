@@ -1,0 +1,415 @@
+/**
+ * Style for archive product pages
+ */
+.archive.woocommerce #main.site-content {
+	.term-description,
+	.page-description {
+		display: none;
+	}
+}
+
+.shop-menu {
+	max-width: 960px;
+	padding-bottom: 10px;
+	margin: 30px auto 0;
+}
+
+a.show-categories-menu {
+	display: none;
+	text-transform: uppercase;
+	font-weight: 500;
+	letter-spacing: .1em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	border-bottom: 3px solid;
+
+	&:after {
+		margin-left: 5px;
+
+		@include fa-icon('\f107');
+	}
+
+	&.open:after {
+		@include fa-icon('\f106');
+	}
+}
+
+ul.product-categories-menu {
+	font-size: 0;
+	max-height: 35px;
+	list-style: none;
+	overflow: hidden;
+	padding: 0;
+	margin: 0 auto;
+
+	li.cat-item {
+		text-transform: uppercase;
+		font-size: 16px;
+		font-weight: 500;
+		letter-spacing: .1em;
+		display: inline-block;
+		border-bottom: 1px solid rgba(255, 255, 255, .4);
+		margin: 0 20px;
+		padding-bottom: 10px;
+
+		> a {
+			position: relative;
+			display: inline-block;
+
+			&:after {
+				content: '';
+				position: absolute;
+				left: 50%;
+				bottom: -3px;
+				height: 3px;
+				width: 0;
+
+				transform: translateX(-50%);
+				@extend %transit;
+			}
+
+			&:hover:after {
+				width: 100%;
+			}
+		}
+	}
+
+	li.shop-back-link {
+
+		a span {
+			display: inline-block;
+			margin-right: 5px;
+			transition: transform .5s ease;
+		}
+
+		a:hover span {
+			transform: translateX(-5px);
+		}
+	}
+
+	+ select {
+		display: none;
+	}
+}
+
+.products {
+	position: relative;
+}
+
+.categories-row {
+	margin-bottom: 50px;
+
+	&.categories-carousel {
+		opacity: 0;
+
+		@extend %transit;
+
+		.product-category--content > a {
+			margin-left: 0;
+			margin-right: 0;
+		}
+
+		&.slick-initialized {
+			opacity: 1;
+		}
+	}
+}
+
+// Shop Toolbar
+.shop-toolbar {
+	border-bottom: 1px solid #d8d8d8;
+
+	.row {
+		align-items: center;
+		height: 80px;
+	}
+
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+
+		> li {
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+
+	.woocommerce-result-count {
+		display: inline-block;
+		vertical-align: middle;
+		font-size: 14px;
+		color: #ababab;
+		margin-bottom: 0;
+
+		span {
+			color: #333333;
+		}
+	}
+
+	.nav-filter.no-tabs {
+		@include media-breakpoint-down(sm) {
+			display: flex !important;
+			align-items: center;
+			flex-direction: row;
+			justify-content: space-between;
+		}
+	}
+
+	.nav-filter .product-tabs {
+
+		li {
+			margin: 0 10px;
+		}
+
+		li:first-child {
+			margin-left: 0;
+		}
+
+		li.active a,
+		li:hover a,
+		li:focus a {
+			color: #333333;
+		}
+
+		a {
+			color: #ababab;
+			text-transform: uppercase;
+			font-weight: 500;
+		}
+
+		@include media-breakpoint-up(lg) {
+
+			li {
+				margin: 0 20px;
+			}
+		}
+	}
+
+	.controls {
+		text-align: left;
+		@include media-breakpoint-up(md) {
+			text-align: right;
+		}
+	}
+
+	// Tool bar controls
+	.toolbar-control {
+		font-size: 0;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+
+		@include media-breakpoint-up(md) {
+			display: block;
+		}
+	}
+
+	.totals {
+
+		@include media-breakpoint-between(md, lg) {
+			display: none;
+		}
+	}
+
+	/* Order by */
+	select.orderby {
+		display: none;
+	}
+
+	.woocommerce-ordering {
+		text-align: right;
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.nice-select {
+		height: 36px;
+		font-size: 16px;
+
+		&:after {
+			right: 10px;
+		}
+
+		@include media-breakpoint-up(lg) {
+			height: 40px;
+		}
+	}
+
+	.nice-select .list {
+		padding: 10px;
+	}
+
+	/* Product count */
+	.woocommerce-result-count span {
+		color: #ababab;
+		font-weight: 500;
+	}
+
+	/* Column switcher */
+	.col-switcher {
+		display: none;
+		margin-left: 20px;
+
+		a {
+			position: relative;
+			display: inline-block;
+			vertical-align: middle;
+			color: #cccccc;
+			font-size: 14px;
+			margin-left: 5px;
+			margin-right: 5px;
+
+			@include media-breakpoint-up(md) {
+				margin-left: 10px;
+				margin-right: 10px;
+			}
+		}
+
+		a:hover,
+		a:focus,
+		a.active {
+			font-weight: 600;
+			color: #333333;
+		}
+
+		a:hover:after,
+		a:focus:after,
+		a.active:after {
+			width: 100%;
+		}
+
+		@include media-breakpoint-up(lg) {
+			display: inline-block;
+		}
+	}
+
+	/* Filter button */
+	.filter-button {
+		margin-left: 20px;
+
+		.open-filters {
+			display: inline-block;
+			font-size: 16px;
+			font-weight: 500;
+			transform: translateY(50%);
+
+			@include animated-underline();
+
+			&:before {
+				display: inline-block;
+				font-size: 13px;
+				margin-right: 10px;
+
+				@include ion-icons('\f38b');
+				@extend %transit;
+			}
+
+			&.opened {
+				@include animated-underline--open();
+				&:before {
+					transform: rotate(180deg);
+				}
+			}
+		}
+
+		@include media-breakpoint-up(md) {
+			.open-filters {
+				transform: none;
+			}
+		}
+	}
+
+	&.disable-switcher {
+		.col-switcher {
+			display: none;
+		}
+	}
+}
+
+.filter-widgets {
+	display: none;
+	background-color: #f9f9f9;
+	padding-top: 30px;
+
+	@include media-breakpoint-up(lg) {
+		padding-top: 50px;
+	}
+
+	.dropdown_layered_nav_size {
+		width: 50%;
+		display: block;
+		height: 30px;
+		border: none;
+		border-bottom: 2px solid #cccccc;
+		-webkit-appearance: none;
+		-webkit-border-radius: 0;
+	}
+
+	.widget .learts-price-filter ul,
+	.widget ul.product-categories,
+	.widget ul.wc-brand-list-layered-nav-product_brand {
+		max-height: 240px;
+		overflow-y: scroll;
+	}
+}
+
+.active-filters {
+	min-height: 27px;
+	margin-top: 20px;
+	margin-bottom: -10px;
+
+	@include media-breakpoint-up(lg) {
+		margin-bottom: -35px;
+	}
+}
+
+@include media-breakpoint-up(xl) {
+
+	.archive.woocommerce .main-container .container.wide {
+		.product.col-xl-3 {
+			flex: 0 0 24.99%;
+			max-width: 24.99%;
+		}
+	}
+}
+
+.shop-full-width-no-space {
+	@include media-breakpoint-up(lg) {
+		padding: 0 !important;
+		margin: 0;
+		max-width: 100% !important;
+
+		transform: translateY(-15px);
+	}
+
+	.products {
+		@include media-breakpoint-up(lg) {
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+
+	.product {
+		@media only screen and (min-width: 1024px) {
+			padding: 0;
+			margin: 0 !important;
+
+			&:before {
+				left: 0 !important;
+				width: 100% !important;
+			}
+		}
+	}
+}
+
+.archive.tax-product_brand {
+	.page-title .page-subtitle {
+		display: none;
+	}
+
+	.container {
+		padding-top: 0 !important;
+	}
+}

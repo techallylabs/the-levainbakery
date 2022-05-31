@@ -1,0 +1,114 @@
+.learts-brands-carousel {
+	opacity: 0;
+	margin-bottom: 0;
+	@extend %transit;
+
+	&.slick-initialized {
+		opacity: 1;
+	}
+
+	.tm-carousel-item {
+		text-align: center;
+		margin: 0 30px;
+
+		&:hover img {
+			opacity: 1;
+		}
+
+		a {
+			margin: 0;
+		}
+
+		span {
+			display: block;
+			margin-top: 10px;
+		}
+	}
+
+	.tm-carousel-item img {
+		opacity: .5;
+		backface-visibility: hidden;
+		margin: 0 auto;
+
+		@extend %transit;
+	}
+
+	.slick-dots {
+		margin-top: -40px;
+		position: relative;
+	}
+
+	&.both-v2 {
+		.slick-arrow {
+			width: 56px;
+			height: 56px;
+			border: 1px solid #eee;
+			background-color: #fff;
+			transition-duration: 2s;
+			transition-delay: 1s;
+			transition: all 0.5s ease-in-out;
+			transform: translateY(-70px);
+
+			&:before {
+				font-size: 16px;
+			}
+
+			&:hover,
+			&:focus {
+				border-color: #DAAD74 !important;
+			}
+		}
+
+		.slick-dots {
+			li button {
+				width: 30px;
+				height: 3px;
+				border-radius: 0;
+				border: none !important;
+				opacity: 1 !important;
+				background-color: #eee !important;
+			}
+
+			li.slick-active button {
+				background-color: #97AC9B !important;
+			}
+		}
+
+		&:hover {
+			@include media-breakpoint-up(md) {
+				.slick-arrow {
+					&.slick-prev {
+						left: -80px;
+					}
+
+					&.slick-next {
+						right: -80px;
+					}
+				}
+			}
+		}
+	}
+
+	@include media-breakpoint-down(xs) {
+
+		.tm-carousel-item {
+			margin: 0;
+		}
+
+		.slick-arrow.slick-next {
+			right: 10px;
+		}
+
+		.slick-arrow.slick-prev {
+			left: 10px;
+		}
+
+		.slick-slide {
+			opacity: .5;
+		}
+
+		.slick-active {
+			opacity: 1;
+		}
+	}
+}

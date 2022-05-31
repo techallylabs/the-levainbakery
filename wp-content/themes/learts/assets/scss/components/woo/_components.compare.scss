@@ -1,0 +1,52 @@
+/**
+Style for compare product
+*/
+
+#cboxContent {
+	background-color: transparent;
+}
+
+#cboxMiddleLeft,
+#cboxMiddleRight,
+#cboxTopLeft,
+#cboxTopCenter,
+#cboxTopRight,
+#cboxBottomLeft,
+#cboxBottomCenter,
+#cboxBottomRight {
+	display: none;
+}
+
+#cboxClose {
+	font-size: 30px;
+	font-weight: 600;
+	width: auto;
+	height: auto;
+	bottom: -50px;
+	text-indent: 0;
+	color: #ffffff;
+	background: 0 0;
+
+	&:before {
+		font-size: 45px;
+		display: inline-block;
+		vertical-align: middle;
+
+		@include pe-icon('\e680');
+	}
+}
+
+body > h1 {
+
+	display: none;
+}
+
+table.compare-list {
+
+	th {
+		padding: 25px 15px;
+		font-weight: 600;
+		border-bottom: none;
+		font-size: 18px;
+	}
+}

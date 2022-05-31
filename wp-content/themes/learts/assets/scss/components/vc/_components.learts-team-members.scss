@@ -1,0 +1,128 @@
+.learts-team-members {
+	position: relative;
+	margin-bottom: 30px;
+
+	.name {
+		font-size: 18px;
+		line-height: 36px;
+		font-weight: 600;
+		color: #333333;
+		margin-top: 15px;
+	}
+
+	.member-image {
+		overflow: hidden;
+		position: relative;
+
+		&:before,
+		&:after {
+			position: absolute;
+			display: block;
+			content: '';
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: #333333;
+			opacity: 0;
+			visibility: hidden;
+			@extend %transit;
+			z-index: 1;
+		}
+
+		&:after {
+			width: calc(100% - 40px);
+			height: calc(100% - 40px);
+			top: 20px;
+			left: 20px;
+			background-color: transparent;
+			border: 1px solid #ffffff;
+		}
+	}
+
+	.social-list {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 100%;
+		transform: translate(-50%, -50%);
+		z-index: 2;
+		text-align: center;
+		opacity: 0;
+		visibility: hidden;
+		@extend %transit;
+	}
+
+	.subtext {
+		overflow: hidden;
+		font-size: 14px;
+		line-height: 32px;
+		letter-spacing: 1px;
+		text-transform: uppercase;
+		color: #7e7e7e;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+		width: 100%;
+
+		@include transit;
+
+		.style-circle & {
+			border-radius: 100%;
+		}
+	}
+
+	ul.social-list {
+		a {
+			&:hover {
+				color: #f8796c;
+			}
+		}
+
+		i {
+			font-size: 20px;
+		}
+	}
+
+	.social-list__item {
+		margin: 0 15px;
+		font-size: 20px;
+	}
+
+	.social-inside {
+		.social-list__item {
+			color: #ffffff;
+		}
+
+	}
+
+	&.content-above {
+		display: flex;
+		flex-direction: column-reverse;
+
+		.memeber-caption {
+			text-align: left;
+			margin-bottom: 20px;
+		}
+	}
+
+	&:hover {
+		img {
+			transform: scale(1.1);
+		}
+
+		.member-image:before,
+		.member-image:after {
+			opacity: 0.8;
+			visibility: visible;
+		}
+
+		.social-list {
+			opacity: 1;
+			visibility: visible;
+		}
+	}
+
+}

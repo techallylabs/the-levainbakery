@@ -1,0 +1,62 @@
+.learts-quote {
+	padding: 60px;
+
+	@media screen and ( max-width: 1600px ) {
+		padding: 20px;
+
+		.title-quote {
+			font-size: 20px;
+			line-height: 30px;
+			margin-top: 25px;
+		}
+	}
+
+	.title-quote {
+		font-size: 40px;
+		line-height: 56px;
+		margin-top: 0;
+
+		@include media-breakpoint-down(sm) {
+			font-size: 20px;
+			line-height: 30px;
+		}
+	}
+
+	.content-quote {
+		font-size: 16px;
+		line-height: 28px;
+		letter-spacing: 0.5px;
+		text-align: justify;
+	}
+
+	.button-link {
+		font-size: 16px;
+		line-height: 28px;
+		letter-spacing: 1.5px;
+
+		&:hover {
+			&:before {
+				margin: 0 !important;
+			}
+		}
+
+		&:before {
+			display: inline-block;
+			vertical-align: middle;
+			content: '';
+			width: 60px;
+			height: 2px;
+			background-color: #333333;
+			margin-right: 20px;
+			@extend %transit;
+		}
+
+		&.button-align-right {
+			float: right;
+		}
+
+		&.button-align-left {
+			float: left;
+		}
+	}
+}

@@ -1,0 +1,19 @@
+.learts-brands-grid {
+
+	.tm-brand-item {
+		opacity: 0.4;
+		text-align: center;
+		margin-bottom: 30px;
+
+		@extend %transit;
+
+		span {
+			display: block;
+			margin-top: 10px;
+		}
+
+		&:hover {
+			opacity: 1;
+		}
+	}
+}

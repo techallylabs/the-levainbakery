@@ -1,0 +1,193 @@
+// Comment Area
+.comments-area {
+
+	.comments-title {
+		font-size: 34px;
+		line-height: 1.4;
+		font-weight: 400;
+		margin-bottom: 30px;
+		text-align: left;
+	}
+
+	.comment-count {
+		color: #ababab;
+	}
+
+	.page & {
+		margin-top: 40px;
+	}
+
+	.has-no-sidebars & {
+		max-width: 860px;
+		margin: 0 auto;
+	}
+}
+
+.comment-list {
+	list-style: none;
+	padding: 0;
+	margin-bottom: 60px;
+
+	.children {
+		list-style: none;
+		padding-left: 30px;
+	}
+
+	@include media-breakpoint-up(md) {
+
+		.children {
+			padding-left: 40px;
+		}
+	}
+
+	@include media-breakpoint-up(lg) {
+		padding-top: 30px;
+		.children {
+			padding-left: 60px;
+		}
+	}
+}
+
+.comment,
+.review {
+	text-align: center;
+	border-bottom: 1px solid #e8e8e8;
+	padding-bottom: 40px;
+	margin-bottom: 40px;
+
+	@include media-breakpoint-up(sm) {
+		text-align: left;
+	}
+}
+
+.comment-text {
+
+	.author {
+		font-size: 18px;
+		display: inline-block;
+		vertical-align: middle;
+		margin: 0;
+		font-weight: 700;
+	}
+
+	.date {
+		font-size: 14px;
+		display: block;
+		color: #7e7e7e;
+	}
+
+	p {
+		font-size: 18px;
+		margin-top: 20px;
+	}
+
+	@include media-breakpoint-up(sm) {
+		display: table-cell;
+		vertical-align: top;
+
+		.date {
+			display: inline-block;
+		}
+
+		p {
+			padding-right: 40px;
+		}
+	}
+
+	@include media-breakpoint-up(lg) {
+		padding-right: 60px;
+	}
+}
+
+.comment-actions {
+
+	a {
+		margin: 0 10px;
+		font-weight: 700;
+		font-size: 16px;
+		line-height: 2.2;
+		text-transform: capitalize;
+		letter-spacing: 0;
+	}
+
+	@include media-breakpoint-up(sm) {
+		.action {
+			&:before {
+				content: '|';
+				display: inline-block;
+				margin-left: 10px;
+			}
+		}
+	}
+}
+
+// Response.
+#reponse {
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+#reply-title {
+	font-size: 34px;
+	line-height: 1.4;
+	font-weight: 400;
+	position: relative;
+	text-align: left;
+	margin-bottom: 40px;
+
+	small {
+
+		a {
+			font-size: 14px;
+			font-weight: 400;
+		}
+
+		@include media-breakpoint-up(md) {
+			position: absolute;
+			top: 5px;
+			right: 15px;
+			font-size: 16px;
+			margin-left: 10px;
+		}
+	}
+}
+
+#commentform {
+	text-align: left;
+
+	label {
+		display: none;
+	}
+
+	input[type='text'] {
+		margin-bottom: 15px;
+	}
+
+	textarea {
+		height: 200px;
+		padding: 15px 0;
+		margin-bottom: 20px;
+	}
+
+	p.form-submit {
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 40px;
+	}
+}
+
+.comment-content a {
+	word-wrap: break-word;
+}
+
+.bypostauthor {
+	display: block;
+}
+
+.logged-in-as a:last-child {
+	display: inline-block;
+	color: #333333;
+
+	@include underline-on-hover();
+}
+

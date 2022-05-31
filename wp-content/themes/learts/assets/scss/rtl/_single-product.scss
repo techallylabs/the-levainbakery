@@ -1,0 +1,33 @@
+.rtl {
+	.single-nav-wrapper {
+		.single-nav__prev-item a {
+			i:before {
+				content: '\f3d6';
+			}
+		}
+
+		.single-nav__next-item a {
+			i:before {
+				content: '\f3d5';
+			}
+		}
+	}
+
+	button.slick-arrow.slick-prev:before,
+	.slick-arrow.slick-prev.learts-button:before {
+		content: '\f054';
+	}
+
+	button.slick-arrow.slick-next:before,
+	.slick-arrow.slick-next.learts-button:before {
+		content: '\f053';
+	}
+
+	.site-menu .menu > ul > li .children li.page_item.page_item_has_children:after,
+	.site-menu .menu > ul > li .children li.page_item.menu-item-has-children:after,
+	.site-menu .menu > li .sub-menu li.menu-item.page_item_has_children:after,
+	.site-menu .menu > li .sub-menu li.menu-item.menu-item-has-children:after {
+		content: '\f053';
+		font-size: 10px;
+	}
+}

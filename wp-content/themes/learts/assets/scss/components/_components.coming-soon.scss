@@ -1,0 +1,33 @@
+.page-template-coming-soon {
+
+	.learts-countdown {
+		@include media-breakpoint-up(md) {
+			.countdown-period {
+				letter-spacing: 3px;
+			}
+		}
+
+		.countdown-section {
+			text-align: center;
+
+			&:after {
+				display: none !important;
+			}
+		}
+	}
+
+	.left-col {
+		height: 100px;
+	}
+}
+
+body.page-template-coming-soon {
+	overflow: hidden;
+	.learts-mailchimp {
+		margin: 0 auto;
+	}
+
+	.countdown-amount {
+		font-weight: 300 !important;
+	}
+}

@@ -1,0 +1,56 @@
+input[type='text'],
+input[type='number'],
+input[type='email'],
+input[type='search'],
+input[type='password'],
+input[type='tel'],
+textarea {
+	font-size: 16px;
+	display: block;
+	color: #222;
+	width: 100%;
+	transition: all .3s ease-in-out;
+	background: transparent;
+	padding: 9.5px 0;
+	border: 2px solid transparent;
+	border-bottom-color: #ededed;
+
+	@extend %transit;
+
+	&:hover,
+	&:focus {
+		outline: none;
+		box-shadow: none;
+	}
+
+	::-webkit-input-placeholder,
+	::-moz-placeholder
+	:-ms-input-placeholder,
+	:-moz-placeholder {
+		color: #ababab;
+		letter-spacing: 1px;
+		font-size: 16px;
+		line-height: 1.7;
+	}
+
+	@include media-breakpoint-down(lg) {
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+	}
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+	-webkit-text-fill-color: #333333;
+	-webkit-box-shadow: 0 0 0px 1000px #fff inset;
+	transition: background-color 5000s ease-in-out 0s;
+}
+

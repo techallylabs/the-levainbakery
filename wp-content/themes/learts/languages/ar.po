@@ -1,0 +1,4294 @@
+# Copyright (C) 2021 learts
+# This file is distributed under the same license as the learts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: learts\n"
+"Report-Msgid-Bugs-To: http://thememove.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-10-28 03:55+0000\n"
+"Language-Team: Arabic\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"POT-Creation-Date: 2021-10-28 03:52+0000\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1"
+
+#: src/learts/404.php:35
+msgid "Oops!"
+msgstr "عفوا!"
+
+#: src/learts/404.php:36
+msgid "Page not found!"
+msgstr "لم يتم العثور على الصفحة!"
+
+#: src/learts/404.php:37
+msgid "You could either go back or go to homepage"
+msgstr "يمكنك إما العودة أو الذهاب إلى الصفحة الرئيسية"
+
+#: src/learts/404.php:40
+msgid "Go back"
+msgstr "العودة"
+
+#: src/learts/404.php:41
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: src/learts/author-bio.php:39, src/learts/framework/class-extras.php:264, 
+#: src/learts/includes/theme-options/blog/blog_single.php:81, 
+#: src/learts/includes/theme-options/woo/woo_product.php:172, 
+#: src/learts/woocommerce/single-product/share.php:43
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/learts/author-bio.php:46, src/learts/framework/class-extras.php:268, 
+#: src/learts/includes/theme-options/blog/blog_single.php:82, 
+#: src/learts/includes/theme-options/woo/woo_product.php:173, 
+#: src/learts/woocommerce/single-product/share.php:52
+msgid "Twitter"
+msgstr "تويتر"
+
+#: src/learts/author-bio.php:53
+msgid "Linkedin"
+msgstr "ينكدين"
+
+#: src/learts/author-bio.php:60, src/learts/framework/class-extras.php:276
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/learts/comments.php:32
+msgid "Comments"
+msgstr "تعليقات"
+
+#: src/learts/comments.php:35
+msgid "Comment"
+msgstr "التعليق"
+
+#: src/learts/comments.php:43, src/learts/comments.php:68
+msgid "Comment navigation"
+msgstr "تعليق الملاحة"
+
+#: src/learts/comments.php:46, src/learts/comments.php:71
+msgid "Older Comments"
+msgstr "التعليقات القديمة"
+
+#: src/learts/comments.php:48, src/learts/comments.php:73
+msgid "Newer Comments"
+msgstr "أحدث التعليقات"
+
+#: src/learts/comments.php:86
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: src/learts/comments.php:94
+msgid "Your name (*)"
+msgstr "اسمك (*)"
+
+#: src/learts/comments.php:96
+msgid "Mail (*)"
+msgstr "البريد (*)"
+
+#: src/learts/comments.php:102, 
+#: src/learts/woocommerce/single-product-reviews.php:90
+msgid "Submit"
+msgstr "تقدم"
+
+#: src/learts/comments.php:104
+msgid "Leave your thought here"
+msgstr "ترك الفكر الخاص بك هنا"
+
+#: src/learts/comments.php:110, 
+#: src/learts/includes/theme-options/cookie/_cookie.php:34
+msgid "Message"
+msgstr "الرسالة"
+
+#: src/learts/comments.php:113
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: src/learts/comments.php:117
+msgid ""
+"<a href=\"%1$s\" aria-label=\"Logged in as %2$s. Edit your profile.\">Logged "
+"in as %2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: src/learts/components/page/content-page.php:17, 
+#: src/learts/components/portfolio/content-portfolio.php:53, 
+#: src/learts/components/portfolio/content-single-portfolio.php:32, 
+#: src/learts/components/post/content-fullwidth.php:70, 
+#: src/learts/components/post/content-single.php:106, 
+#: src/learts/components/post/content.php:115
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: src/learts/components/portfolio/content-portfolio.php:58, 
+#: src/learts/components/portfolio/content-single-portfolio.php:37, 
+#: src/learts/components/post/content-fullwidth.php:75, 
+#: src/learts/components/post/content-single.php:111, 
+#: src/learts/components/post/content.php:120
+msgid "Page"
+msgstr "الصفحة"
+
+#: src/learts/components/portfolio/content-portfolio.php:64, 
+#: src/learts/components/post/content-fullwidth.php:81, 
+#: src/learts/components/post/content.php:126
+msgid "Read more"
+msgstr "قراءة المزيد"
+
+#: src/learts/components/portfolio/content-related-portfolio.php:23
+msgid "Relate Portfolio"
+msgstr "تتعلق محفظة"
+
+#: src/learts/components/portfolio/content-single-portfolio.php:42
+msgid "Date: "
+msgstr "التاريخ: "
+
+#: src/learts/components/portfolio/content-single-portfolio.php:50
+msgid "Categories:  "
+msgstr "فئات: "
+
+#: src/learts/components/portfolio/content-single-portfolio.php:57
+msgid "Tags:  "
+msgstr "Tags: "
+
+#: src/learts/components/portfolio/content-single-portfolio.php:63
+msgid "Links:  "
+msgstr "الروابط: "
+
+#: src/learts/components/portfolio/content-single-portfolio.php:70
+msgid "Share:  "
+msgstr "حصة: "
+
+#: src/learts/components/post/content-fullwidth.php:100
+msgid "Share this post:"
+msgstr "حصة هذا المنصب:"
+
+#: src/learts/components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "العثور على أي شيء"
+
+#: src/learts/components/post/content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: src/learts/components/post/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف, ولكن لا شيء يقابل شروط البحث الخاصة بك. يرجى المحاولة مرة أخرى مع بعض "
+"كلمات مختلفة."
+
+#: src/learts/components/post/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "يبدو أننا لا يمكن أن تجد ما تبحث عنه. ولعل البحث يمكن أن تساعد."
+
+#: src/learts/components/post/content-single.php:130
+msgid "Share this post"
+msgstr "حصة هذا المنصب"
+
+#: src/learts/components/topbar/topbar-menu-text-switchers.php:59, 
+#: src/learts/components/topbar/topbar-only-text.php:33, 
+#: src/learts/components/topbar/topbar-text-menu-switchers.php:58
+msgid "Close"
+msgstr "قريب"
+
+#: src/learts/components/topbar/topbar-menu-text-switchers.php:64, 
+#: src/learts/components/topbar/topbar-menu-text-switchers.php:65, 
+#: src/learts/components/topbar/topbar-only-text.php:37, 
+#: src/learts/components/topbar/topbar-only-text.php:37, 
+#: src/learts/components/topbar/topbar-text-menu-switchers.php:62, 
+#: src/learts/components/topbar/topbar-text-menu-switchers.php:62
+msgid "Open the top bar"
+msgstr "فتح الشريط العلوي"
+
+#: src/learts/framework/class-compatible.php:58, 
+#: src/learts/framework/class-compatible.php:70, 
+#: src/learts/framework/class-compatible.php:84
+msgid ""
+" requires at least WordPress version 4.3. You are running version %s. Please "
+"upgrade and try again."
+msgstr ""
+" يتطلب على الأقل وورد الإصدار 4.3. كنت تقوم بتشغيل الإصدار %s. الرجاء "
+"الترقية وحاول مرة أخرى."
+
+#: src/learts/framework/class-enqueue.php:317, 
+#: src/learts/woocommerce/quick-view.php:12
+msgid "Adding to cart..."
+msgstr "إضافة إلى السلة..."
+
+#: src/learts/framework/class-enqueue.php:319
+msgid "Product has been added to cart!"
+msgstr "تمت إضافة المنتج إلى السلة!"
+
+#: src/learts/framework/class-enqueue.php:327
+msgid "has been added to cart!"
+msgstr "تم إضافتها إلى عربة التسوق!"
+
+#: src/learts/framework/class-enqueue.php:329, 
+#: src/learts/woocommerce/cart/mini-cart.php:146, 
+#: src/learts/woocommerce/wishlist-view.php:280
+msgid "View Cart"
+msgstr "عرض السلة"
+
+#: src/learts/framework/class-enqueue.php:332
+msgid "Product has been added to wishlist!"
+msgstr "تمت إضافة المنتج إلى قائمة الأمنيات!"
+
+#: src/learts/framework/class-enqueue.php:334
+msgid "Browse Wishlist"
+msgstr "تصفح قائمة الامنيات"
+
+#: src/learts/framework/class-enqueue.php:341, 
+#: src/learts/framework/class-templates.php:959, 
+#: src/learts/includes/theme-options/features/_features.php:52
+msgid "Back to top"
+msgstr "عودة إلى الأعلى"
+
+#: src/learts/framework/class-extras.php:130
+msgid "Enabled"
+msgstr "تمكين"
+
+#: src/learts/framework/class-extras.php:131
+msgid "Disabled"
+msgstr "تعطيل"
+
+#: src/learts/framework/class-extras.php:131
+msgid "Not Set"
+msgstr "لا تعيين"
+
+#: src/learts/framework/class-extras.php:133, 
+#: src/learts/framework/class-extras.php:134, 
+#: src/learts/framework/class-extras.php:136
+msgid "n/a"
+msgstr "n/a"
+
+#: src/learts/framework/class-extras.php:207
+msgid "Quote"
+msgstr "اقتباس"
+
+#: src/learts/framework/class-extras.php:272
+msgid "Behance"
+msgstr "Behance"
+
+#: src/learts/framework/class-helper.php:63
+msgid "-- Select a menu --"
+msgstr "-- اختر القائمة -"
+
+#: src/learts/framework/class-helper.php:92, 
+#: src/learts/framework/class-metabox.php:1124, 
+#: src/learts/framework/class-metabox.php:1144, 
+#: src/learts/framework/class-metabox.php:1160, 
+#: src/learts/framework/class-metabox.php:1177, 
+#: src/learts/framework/class-walker-nav-menu-edit.php:454, 
+#: src/learts/includes/theme-options/blog/blog_archive.php:95, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:80, 
+#: src/learts/includes/theme-options/woo/woo_general.php:16, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:85
+msgid "Default"
+msgstr "الافتراضي"
+
+#: src/learts/framework/class-helper.php:96, 
+#: src/learts/framework/class-metabox.php:158, 
+#: src/learts/framework/class-metabox.php:567, 
+#: src/learts/includes/theme-options/blog/blog_archive.php:21, 
+#: src/learts/includes/theme-options/blog/blog_single.php:21, 
+#: src/learts/includes/theme-options/pages/_pages.php:21, 
+#: src/learts/includes/theme-options/pages/_pages.php:44, 
+#: src/learts/includes/theme-options/woo/woo_product.php:19, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:21
+msgid "Disable"
+msgstr "تعطيل"
+
+#: src/learts/framework/class-helper.php:165
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: src/learts/framework/class-helper.php:204, 
+#: src/learts/framework/class-walker-nav-menu-edit.php:348, 
+#: src/learts/framework/class-walker-nav-menu-edit.php:464, 
+#: src/learts/includes/theme-options/footer/_footer.php:59, 
+#: src/learts/includes/theme-options/header/header_topbar.php:143
+msgid "Custom"
+msgstr "مخصص"
+
+#: src/learts/framework/class-helper.php:286, 
+#: src/learts/framework/class-helper.php:349
+msgid "Our Blog"
+msgstr "لدينا بلوق"
+
+#: src/learts/framework/class-helper.php:297
+msgid "Search Result Found"
+msgid_plural "Search Results Found"
+msgstr[0] "نتيجة البحث وجدت"
+msgstr[1] "نتائج البحث وجدت"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-helper.php:314
+msgid "Daily Archives: %s"
+msgstr "الأرشيف اليومي: %s"
+
+#: src/learts/framework/class-helper.php:317
+msgid "Monthly Archives: %s"
+msgstr "الأرشيف الشهري: %s"
+
+#: src/learts/framework/class-helper.php:318
+msgctxt "Page title monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: src/learts/framework/class-helper.php:321
+msgid "Yearly Archives: %s"
+msgstr "سنويا المحفوظات: %s"
+
+#: src/learts/framework/class-helper.php:322
+msgctxt "Page title yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: src/learts/framework/class-helper.php:339
+msgid "404: Page Not Found"
+msgstr "404: الصفحة غير موجودة"
+
+#: src/learts/framework/class-helper.php:380, 
+#: src/learts/includes/theme-options/woo/_woo.php:4
+msgid "Shop"
+msgstr "متجر"
+
+#: src/learts/framework/class-helper.php:600, 
+#: src/learts/framework/class-helper.php:701
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords"
+msgstr ""
+"آسف, ولكن لا شيء يقابل شروط البحث الخاصة بك. يرجى المحاولة مرة أخرى مع كلمات "
+"مختلفة"
+
+#: src/learts/framework/class-helper.php:690
+msgid "View All"
+msgstr "عرض جميع"
+
+#: src/learts/framework/class-helper.php:1086
+msgid "Choose a slider"
+msgstr "اختيار المنزلق"
+
+#: src/learts/framework/class-import.php:37
+msgid " - Full Demo"
+msgstr " - عرض كامل"
+
+#: src/learts/framework/class-import.php:38
+msgid ""
+"This version will import the full demo including all images into your site. "
+"Once installed, your site would look exactly like our demo. However, this "
+"version is large in size and will take more time."
+msgstr ""
+"هذا الإصدار سيتم استيراد تجريبي الكامل بما في ذلك جميع الصور إلى موقع الويب "
+"الخاص بك. تثبيت مرة واحدة, موقع الويب الخاص بك سوف تبدو تماما مثل تجريبي "
+"لدينا. ومع ذلك ، فإن هذه النسخة كبيرة الحجم و تأخذ المزيد من الوقت."
+
+#: src/learts/framework/class-import.php:44
+msgid " - Dummy"
+msgstr " - الدمية"
+
+#: src/learts/framework/class-import.php:45
+msgid ""
+"This is the miniature version of Learts demo where images are replaced by "
+"placeholders. If you encounter problems installing the full demo, try this "
+"one. It’s lightweight and much faster."
+msgstr ""
+"هذا هو نسخة مصغرة من Learts التجريبي حيث يتم استبدال الصور من قبل النائبة. "
+"إذا كنت تواجه مشاكل في تثبيت كامل التجريبي ، هذه محاولة واحدة. انها خفيفة "
+"الوزن و أسرع بكثير."
+
+#: src/learts/framework/class-init.php:59
+msgid "Primary"
+msgstr "الابتدائية"
+
+#: src/learts/framework/class-init.php:63
+msgid "Top Bar Menu"
+msgstr "أعلى شريط القائمة"
+
+#: src/learts/framework/class-init.php:67
+msgid "Full-screen Menu"
+msgstr "القائمة كامل الشاشة"
+
+#: src/learts/framework/class-init.php:71, 
+#: src/learts/includes/theme-options/menu/mobile_menu.php:4
+msgid "Mobile Menu"
+msgstr "القائمة النقالة"
+
+#: src/learts/framework/class-init.php:75, 
+#: src/learts/includes/theme-options/header/header_topbar.php:173
+msgid "Language Switcher"
+msgstr "لغة الجلاد"
+
+#: src/learts/framework/class-init.php:79, 
+#: src/learts/includes/theme-options/header/header_topbar.php:194
+msgid "Currency Switcher"
+msgstr "العملة الجلاد"
+
+#: src/learts/framework/class-init.php:241
+msgid "Black"
+msgstr "الأسود"
+
+#: src/learts/framework/class-init.php:246
+msgid "White"
+msgstr "الأبيض"
+
+#: src/learts/framework/class-init.php:251
+msgid "Gray"
+msgstr "الرمادي"
+
+#: src/learts/framework/class-init.php:256, 
+#: src/learts/framework/class-init.php:261, 
+#: src/learts/framework/class-init.php:266, 
+#: src/learts/framework/class-init.php:271, 
+#: src/learts/framework/class-init.php:276, 
+#: src/learts/framework/class-init.php:281
+msgid "Yellow"
+msgstr "الأصفر"
+
+#: src/learts/framework/class-init.php:286
+msgid "Green"
+msgstr "الأخضر"
+
+#: src/learts/framework/class-init.php:291
+msgid "Brown"
+msgstr "البني"
+
+#: src/learts/framework/class-init.php:309
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: src/learts/framework/class-init.php:310, 
+#: src/learts/framework/class-init.php:321, 
+#: src/learts/framework/class-init.php:333, 
+#: src/learts/framework/class-init.php:357, 
+#: src/learts/framework/class-init.php:380
+msgid "Add widgets here."
+msgstr "إضافة الحاجيات هنا."
+
+#: src/learts/framework/class-init.php:320
+msgid "Off-canvas Sidebar"
+msgstr "خارج قماش الشريط الجانبي"
+
+#: src/learts/framework/class-init.php:332
+msgid "Sidebar for Shop"
+msgstr "الشريط الجانبي على المحل"
+
+#: src/learts/framework/class-init.php:342
+msgid "Shop filters"
+msgstr "متجر المرشحات"
+
+#: src/learts/framework/class-init.php:344
+msgid "Widget Area for shop filters on the top of shop pages"
+msgstr "القطعة منطقة تسوق المرشحات على الجزء العلوي من صفحات متجر"
+
+#: src/learts/framework/class-init.php:356
+msgid "Header Widget Area"
+msgstr "رأس منطقة القطعة"
+
+#: src/learts/framework/class-init.php:367
+msgid "Sub Menu Widget Area"
+msgstr "القائمة الفرعية منطقة القطعة"
+
+#: src/learts/framework/class-init.php:368
+msgid "Add widgets here. You can use shortcode vertical menu in here."
+msgstr "إضافة الحاجيات هنا. يمكنك استخدام رمز قصير القائمة العمودية هنا."
+
+#: src/learts/framework/class-init.php:379
+msgid "Search Widget Area"
+msgstr "البحث منطقة القطعة"
+
+#: src/learts/framework/class-init.php:390
+msgid "Footer | #1"
+msgstr ""
+
+#: src/learts/framework/class-init.php:391
+msgid "This is footer area column 1."
+msgstr "هذا هو منطقة تذييل العمود 1."
+
+#: src/learts/framework/class-init.php:401
+msgid "Footer | #2"
+msgstr ""
+
+#: src/learts/framework/class-init.php:402
+msgid "This footer area column 2."
+msgstr "هذه منطقة تذييل العمود 2."
+
+#: src/learts/framework/class-init.php:412
+msgid "Footer | #3"
+msgstr ""
+
+#: src/learts/framework/class-init.php:413
+msgid "This footer area column 3."
+msgstr "هذه منطقة تذييل العمود 3."
+
+#: src/learts/framework/class-init.php:423
+msgid "Footer | #4"
+msgstr ""
+
+#: src/learts/framework/class-init.php:424
+msgid "This is footer area column 4."
+msgstr "هذا هو منطقة تذييل العمود 4."
+
+#: src/learts/framework/class-instagram.php:43, 
+#: src/learts/framework/class-instagram.php:232
+msgid "Unable to communicate with Instagram."
+msgstr "غير قادر على التواصل مع Instagram."
+
+#: src/learts/framework/class-instagram.php:47, 
+#: src/learts/framework/class-instagram.php:236
+msgid "Instagram did not return a 200."
+msgstr "Instagram لم يعودوا 200."
+
+#: src/learts/framework/class-instagram.php:54, 
+#: src/learts/framework/class-instagram.php:62, 
+#: src/learts/framework/class-instagram.php:66, 
+#: src/learts/framework/class-instagram.php:163, 
+#: src/learts/framework/class-instagram.php:181, 
+#: src/learts/framework/class-instagram.php:188, 
+#: src/learts/framework/class-instagram.php:204
+msgid "Instagram has returned invalid data."
+msgstr "Instagram عاد بيانات غير صالحة."
+
+#: src/learts/framework/class-instagram.php:112, 
+#: src/learts/framework/class-instagram.php:218
+msgid "Instagram did not return any images."
+msgstr "Instagram لم يعودوا أي صور."
+
+#: src/learts/framework/class-metabox.php:54, 
+#: src/learts/framework/class-metabox.php:221, 
+#: src/learts/framework/class-metabox.php:463, 
+#: src/learts/framework/class-metabox.php:630
+msgid "Custom Logo"
+msgstr "شعار مخصص"
+
+#: src/learts/framework/class-metabox.php:57, 
+#: src/learts/framework/class-metabox.php:466
+msgid "Use custom logo on this page."
+msgstr "استخدام شعار مخصص على هذه الصفحة."
+
+#: src/learts/framework/class-metabox.php:59, 
+#: src/learts/framework/class-metabox.php:468
+msgid "Yes"
+msgstr "نعم"
+
+#: src/learts/framework/class-metabox.php:60, 
+#: src/learts/framework/class-metabox.php:469
+msgid "No"
+msgstr "لا"
+
+#: src/learts/framework/class-metabox.php:65, 
+#: src/learts/framework/class-metabox.php:474, 
+#: src/learts/includes/theme-options/logo/_logo.php:14
+msgid "Logo Image"
+msgstr "صورة الشعار"
+
+#: src/learts/framework/class-metabox.php:71, 
+#: src/learts/framework/class-metabox.php:480, 
+#: src/learts/includes/theme-options/logo/_logo.php:23
+msgid "Logo Retina Image"
+msgstr "شعار الشبكية الصورة"
+
+#: src/learts/framework/class-metabox.php:77, 
+#: src/learts/framework/class-metabox.php:486
+msgid "Alternative Logo Image"
+msgstr "البديل صورة الشعار"
+
+#: src/learts/framework/class-metabox.php:79, 
+#: src/learts/framework/class-metabox.php:488, 
+#: src/learts/includes/theme-options/logo/_logo.php:32
+msgid "for the header above the content"
+msgstr "على رأس فوق المحتوى"
+
+#: src/learts/framework/class-metabox.php:84, 
+#: src/learts/framework/class-metabox.php:90, 
+#: src/learts/framework/class-metabox.php:493, 
+#: src/learts/framework/class-metabox.php:499, 
+#: src/learts/includes/theme-options/logo/_logo.php:42
+msgid "Logo in mobile devices"
+msgstr "الشعار في الأجهزة المحمولة"
+
+#: src/learts/framework/class-metabox.php:122, 
+#: src/learts/framework/class-metabox.php:351, 
+#: src/learts/framework/class-metabox.php:531, 
+#: src/learts/framework/class-metabox.php:819
+msgid "Custom Page Title"
+msgstr "صفحة مخصصة العنوان"
+
+#: src/learts/framework/class-metabox.php:128, 
+#: src/learts/framework/class-metabox.php:357, 
+#: src/learts/framework/class-metabox.php:537, 
+#: src/learts/framework/class-metabox.php:825
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: src/learts/framework/class-metabox.php:152, 
+#: src/learts/framework/class-metabox.php:561
+msgid "Footer Visibility"
+msgstr "تذييل الرؤية"
+
+#: src/learts/framework/class-metabox.php:155, 
+#: src/learts/framework/class-metabox.php:564
+msgid "Enable or disable footer on this page."
+msgstr "تمكين أو تعطيل تذييل على هذه الصفحة."
+
+#: src/learts/framework/class-metabox.php:157, 
+#: src/learts/framework/class-metabox.php:566
+msgid "Enable"
+msgstr "تمكين"
+
+#: src/learts/framework/class-metabox.php:178, 
+#: src/learts/framework/class-metabox.php:587
+msgid "Top slider"
+msgstr "التمرير العلوي"
+
+#: src/learts/framework/class-metabox.php:179, 
+#: src/learts/framework/class-metabox.php:588
+msgid "Display slive on top page"
+msgstr "عرض slive في أعلى الصفحة"
+
+#: src/learts/framework/class-metabox.php:191, 
+#: src/learts/framework/class-metabox.php:600
+msgid "Disable Menu"
+msgstr "تعطيل القائمة"
+
+#: src/learts/framework/class-metabox.php:192, 
+#: src/learts/framework/class-metabox.php:601
+msgid "Disable Menu on this page"
+msgstr "تعطيل القائمة على هذه الصفحة"
+
+#: src/learts/framework/class-metabox.php:207, 
+#: src/learts/framework/class-metabox.php:616
+msgid "Page Settings (custom metabox from theme)"
+msgstr "إعدادات الصفحة (مخصص metabox من موضوع)"
+
+#: src/learts/framework/class-metabox.php:228, 
+#: src/learts/framework/class-metabox.php:637, 
+#: src/learts/includes/theme-options/header/_header.php:4
+msgid "Header"
+msgstr "رأس"
+
+#: src/learts/framework/class-metabox.php:236, 
+#: src/learts/framework/class-metabox.php:645
+msgid "Custom off-canvas sidebar"
+msgstr "مخصص خارج قماش الشريط الجانبي"
+
+#: src/learts/framework/class-metabox.php:245, 
+#: src/learts/framework/class-metabox.php:654, 
+#: src/learts/includes/theme-options/header/offcanvas_button.php:5
+msgid "Off-Canvas Sidebar"
+msgstr "خارج قماش الشريط الجانبي"
+
+#: src/learts/framework/class-metabox.php:252, 
+#: src/learts/framework/class-metabox.php:661, 
+#: src/learts/includes/theme-options/header/header_topbar.php:116
+msgid "Menu"
+msgstr "القائمة"
+
+#: src/learts/framework/class-metabox.php:259, 
+#: src/learts/framework/class-metabox.php:402, 
+#: src/learts/framework/class-metabox.php:668, 
+#: src/learts/framework/class-metabox.php:956, 
+#: src/learts/includes/theme-options/page-title/_page-title.php:5, 
+#: src/learts/includes/theme-options/page-title/_page-title.php:13
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+#: src/learts/framework/class-metabox.php:266, 
+#: src/learts/framework/class-metabox.php:408, 
+#: src/learts/framework/class-metabox.php:675, 
+#: src/learts/framework/class-metabox.php:962, 
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:4, 
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:12
+msgid "Breadcrumbs"
+msgstr "فتات الخبز"
+
+#: src/learts/framework/class-metabox.php:273, 
+#: src/learts/framework/class-metabox.php:682
+msgid "Page Sidebar Options"
+msgstr "صفحة خيارات الشريط الجانبي"
+
+#: src/learts/framework/class-metabox.php:279, 
+#: src/learts/framework/class-metabox.php:688
+msgid "Custom sidebar for this page"
+msgstr "العرف الشريط الجانبي لهذه الصفحة"
+
+#: src/learts/framework/class-metabox.php:291, 
+#: src/learts/framework/class-metabox.php:700, 
+#: src/learts/includes/theme-options/footer/_footer.php:5
+msgid "Footer"
+msgstr "تذييل"
+
+#: src/learts/framework/class-metabox.php:298, 
+#: src/learts/framework/class-metabox.php:707, 
+#: src/learts/includes/theme-options/page-title/_page-title.php:21
+msgid "Page Meta"
+msgstr "صفحة التعريف"
+
+#: src/learts/framework/class-metabox.php:302, 
+#: src/learts/framework/class-metabox.php:711
+msgid "Page extra class name"
+msgstr "صفحة اضافية اسم الفئة"
+
+#: src/learts/framework/class-metabox.php:305, 
+#: src/learts/framework/class-metabox.php:714
+msgid ""
+"If you wish to add extra classes to the body class of the page (for custom "
+"css use), then please add the class(es) here."
+msgstr ""
+"إذا كنت ترغب في إضافة المزيد من الطبقات إلى الطبقة الجسم من الصفحة (مخصص css "
+"استخدام) ، ثم الرجاء إضافة فئة(es) هنا."
+
+#: src/learts/framework/class-metabox.php:343
+msgid "Display the Post title on top"
+msgstr "عرض عنوان آخر على رأس"
+
+#: src/learts/framework/class-metabox.php:346
+msgid "Enabling this option will display the title of this post on top"
+msgstr "تمكين هذا الخيار سيتم عرض عنوان هذا المنصب على رأس"
+
+#: src/learts/framework/class-metabox.php:389
+msgid "Post Settings (custom metabox from theme)"
+msgstr "بعد ضبط (مخصص metabox من موضوع)"
+
+#: src/learts/framework/class-metabox.php:414, 
+#: src/learts/framework/class-metabox.php:968
+msgid "Sidebar Options"
+msgstr "خيارات الشريط الجانبي"
+
+#: src/learts/framework/class-metabox.php:420
+msgid "Custom sidebar for this post"
+msgstr "العرف الشريط الجانبي لهذا المنصب"
+
+#: src/learts/framework/class-metabox.php:719
+msgid "Link project"
+msgstr "رابط المشروع"
+
+#: src/learts/framework/class-metabox.php:722
+msgid "Show link URL in the description of project."
+msgstr "عرض رابط URL في وصف المشروع."
+
+#: src/learts/framework/class-metabox.php:757
+msgid "Testimonial Settings (custom metabox from theme)"
+msgstr "إعدادات شهادة (مخصص metabox من موضوع)"
+
+#: src/learts/framework/class-metabox.php:761
+msgid "Testimonial Cite"
+msgstr "شهادة الاستشهاد"
+
+#: src/learts/framework/class-metabox.php:763
+msgid "Enter the cite name for the testimonial."
+msgstr "أدخل أذكر اسم شهادة."
+
+#: src/learts/framework/class-metabox.php:768
+msgid "Testimonial Cite Subtext"
+msgstr "شهادة الاستشهاد ضمني"
+
+#: src/learts/framework/class-metabox.php:770
+msgid "Enter the cite subtext for the testimonial (optional)."
+msgstr "أدخل استشهد ضمني على شهادة (اختياري)."
+
+#: src/learts/framework/class-metabox.php:775
+msgid "Testimonial Cite Image"
+msgstr "شهادة الاستشهاد صورة"
+
+#: src/learts/framework/class-metabox.php:776
+msgid "Enter the cite image for the testimonial (optional)."
+msgstr "أدخل استشهد صورة عن شهادة (اختياري)."
+
+#: src/learts/framework/class-metabox.php:782
+msgid "Testimonial Rating Star"
+msgstr "شهادة تصنيف النجوم"
+
+#: src/learts/framework/class-metabox.php:784
+msgid "Enter the star for the testimonial rating"
+msgstr "أدخل نجم عن شهادة التصنيف"
+
+#: src/learts/framework/class-metabox.php:790
+msgid "Testimonial Rating Title"
+msgstr "شهادة تصنيف العنوان"
+
+#: src/learts/framework/class-metabox.php:792
+msgid "Enter the title for the testimonial rating"
+msgstr "أدخل عنوان شهادة تصنيف"
+
+#: src/learts/framework/class-metabox.php:811
+msgid "Display the Product title on top"
+msgstr "عرض المنتج العنوان في الأعلى"
+
+#: src/learts/framework/class-metabox.php:814
+msgid "Enabling this option will display the title of this product on top"
+msgstr "تمكين هذا الخيار سيتم عرض عنوان هذا المنتج على أعلى"
+
+#: src/learts/framework/class-metabox.php:835
+msgid "Hide Related Products"
+msgstr "إخفاء المنتجات ذات الصلة"
+
+#: src/learts/framework/class-metabox.php:838
+msgid "Check to hide related products on this page"
+msgstr "الاختيار إخفاء المنتجات ذات الصلة على هذه الصفحة"
+
+#: src/learts/framework/class-metabox.php:844
+msgid "Instagram Hashtag"
+msgstr "Instagram هاشتاج"
+
+#: src/learts/framework/class-metabox.php:847
+msgid ""
+"Enter hashtag will be used to display images from Instagram. (For example: "
+"<strong>#women</strong>)"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:855
+msgid "Enable 360 product"
+msgstr "تمكين 360 المنتج"
+
+#: src/learts/framework/class-metabox.php:858
+msgid "Enable 360 product displaying"
+msgstr "تمكين 360 عرض المنتج"
+
+#: src/learts/framework/class-metabox.php:863
+msgid "Frames"
+msgstr "إطارات"
+
+#: src/learts/framework/class-metabox.php:868
+msgid "8 frames"
+msgstr "8 إطارات"
+
+#: src/learts/framework/class-metabox.php:869
+msgid "16 frames"
+msgstr "16 إطارات"
+
+#: src/learts/framework/class-metabox.php:870
+msgid "24 frames"
+msgstr "24 لقطة"
+
+#: src/learts/framework/class-metabox.php:872
+msgid ""
+"Choose number of product’s frames. Eg: Select 16 frames if your product has "
+"16 images"
+msgstr ""
+"اختيار عدد من المنتجات إطارات. على سبيل المثال: تحديد 16 إطارات إذا كان "
+"المنتج الخاص بك 16 صور"
+
+#: src/learts/framework/class-metabox.php:878
+msgid "Upload product review image"
+msgstr "تحميل المنتج استعراض الصورة"
+
+#: src/learts/framework/class-metabox.php:881
+msgid "Upload product’s review image which is shown at the beginning"
+msgstr "تحميل المنتج استعراض الصورة التي تظهر في بداية"
+
+#: src/learts/framework/class-metabox.php:885
+msgid "Upload product 360 image"
+msgstr "تحميل المنتج 360 صورة"
+
+#: src/learts/framework/class-metabox.php:888
+msgid ""
+"Upload your 360 product’s image. You can read  <a href=\"%s\" "
+"target=\"_blank\">this blog</a> to know how to create a 360 product’s image"
+msgstr ""
+
+#: src/learts/framework/class-metabox.php:937
+msgid "Product Settings (custom metabox from theme)"
+msgstr "إعدادات المنتج (مخصص metabox من موضوع)"
+
+#: src/learts/framework/class-metabox.php:950, 
+#: src/learts/includes/theme-options/blog/blog_general.php:4, 
+#: src/learts/includes/theme-options/woo/woo_general.php:4
+msgid "General"
+msgstr "العامة"
+
+#: src/learts/framework/class-metabox.php:974
+msgid "Custom sidebar for this product"
+msgstr "العرف الشريط الجانبي لهذا المنتج"
+
+#: src/learts/framework/class-metabox.php:986
+msgid "360 Product"
+msgstr "360 المنتج"
+
+#: src/learts/framework/class-metabox.php:1033
+msgid "Category Meta Box"
+msgstr "الفئة مربع الفوقية"
+
+#: src/learts/framework/class-metabox.php:1050
+msgid "Thumbnail for Masonry layout"
+msgstr "صورة مصغرة عن تخطيط البناء"
+
+#: src/learts/framework/class-metabox.php:1051
+msgid "Use for 'Product Categories' shortcode (WPBakery Page Builder)"
+msgstr "استخدام 'فئات المنتجات' رمز قصير (WPBakery باني الصفحة)"
+
+#: src/learts/framework/class-metabox.php:1075
+msgid "Product Category Meta Box"
+msgstr "فئة المنتج مربع الفوقية"
+
+#: src/learts/framework/class-metabox.php:1178
+msgid "On"
+msgstr "على"
+
+#: src/learts/framework/class-metabox.php:1179
+msgid "Off"
+msgstr "قبالة"
+
+#: src/learts/framework/class-plugins.php:62
+msgid "WPBakery Page Builder (Visual Composer) Clipboard"
+msgstr "WPBakery باني الصفحة (الملحن البصري) الحافظة"
+
+#: src/learts/framework/class-plugins.php:175, 
+#: src/learts/framework/class-tgm-plugin-activation.php:336
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: src/learts/framework/class-plugins.php:176, 
+#: src/learts/framework/class-tgm-plugin-activation.php:337
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: src/learts/framework/class-plugins.php:177, 
+#: src/learts/framework/class-tgm-plugin-activation.php:339
+msgid "Installing Plugin: %s"
+msgstr "تثبيت البرنامج المساعد: %s"
+
+#: src/learts/framework/class-plugins.php:179, 
+#: src/learts/framework/class-tgm-plugin-activation.php:342
+msgid "Something went wrong with the plugin API."
+msgstr "شيء ذهب على نحو خاطئ مع البرنامج المساعد API."
+
+#: src/learts/framework/class-plugins.php:181
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[1] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:185
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "هذا الموضوع يوصي بما يلي المساعد: %1$s."
+msgstr[1] "هذا الموضوع توصي الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:189
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "آسف, ولكن ليس لديك الأذونات الصحيحة لتثبيت %1$s المساعد."
+msgstr[1] "آسف, ولكن ليس لديك الأذونات الصحيحة لتثبيت %1$s الإضافات."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:193
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"التالية المساعد يحتاج إلى تحديث إلى الإصدار الأحدث لضمان أقصى قدر من التوافق "
+"مع هذا الموضوع: %1$s."
+msgstr[1] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:197
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "هناك تحديث متوفر ل: %1$s."
+msgstr[1] "هناك تحديثات متوفرة على الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:201
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "آسف, ولكن ليس لديك الأذونات الصحيحة لتحديث %1$s المساعد."
+msgstr[1] "آسف, ولكن ليس لديك الأذونات الصحيحة لتحديث %1$s الإضافات."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:205
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "المطلوبة التالية المساعد غير نشط حاليا: %1$s."
+msgstr[1] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:209
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "التالية الموصى بها البرنامج المساعد غير نشط حاليا: %1$s."
+msgstr[1] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:213
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "آسف, ولكن ليس لديك الأذونات الصحيحة لتفعيل %1$s المساعد."
+msgstr[1] "آسف, ولكن ليس لديك الأذونات الصحيحة لتفعيل %1$s الإضافات."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:217, 
+#: src/learts/framework/class-tgm-plugin-activation.php:355
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "يمكنك البدء في تثبيت البرنامج المساعد"
+msgstr[1] "يمكنك البدء في تثبيت الإضافات"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:220, 
+#: src/learts/framework/class-tgm-plugin-activation.php:356
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "بدء تحديث البرنامج المساعد"
+msgstr[1] "يمكنك البدء في تحديث الإضافات"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:223, 
+#: src/learts/framework/class-tgm-plugin-activation.php:357
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "يمكنك البدء في تفعيل البرنامج المساعد"
+msgstr[1] "يمكنك البدء في تفعيل الإضافات"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:226, 
+#: src/learts/framework/class-tgm-plugin-activation.php:358
+msgid "Return to Required Plugins Installer"
+msgstr "العودة إلى الإضافات المطلوبة المثبت"
+
+#: src/learts/framework/class-plugins.php:227, 
+#: src/learts/framework/class-tgm-plugin-activation.php:360, 
+#: src/learts/framework/class-tgm-plugin-activation.php:3151
+msgid "Plugin activated successfully."
+msgstr "المساعد تفعيلها بنجاح."
+
+#: src/learts/framework/class-plugins.php:228, 
+#: src/learts/framework/class-tgm-plugin-activation.php:361, 
+#: src/learts/framework/class-tgm-plugin-activation.php:2937
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "التالية المساعد تم تفعيلها بنجاح:"
+msgstr[1] "الإضافات التالية تم تفعيلها بنجاح:"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-plugins.php:230, 
+#: src/learts/framework/class-tgm-plugin-activation.php:363
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "أي إجراء. المساعد %1$s كانت نشطة بالفعل."
+
+#: src/learts/framework/class-plugins.php:233, 
+#: src/learts/framework/class-tgm-plugin-activation.php:365
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"لم يتم تنشيط البرنامج المساعد. إصدار أعلى من %s هو مطلوب لهذا الموضوع. يرجى "
+"تحديث البرنامج المساعد."
+
+#: src/learts/framework/class-plugins.php:236, 
+#: src/learts/framework/class-tgm-plugin-activation.php:367
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الإضافات المثبتة و تفعيلها بنجاح. %1$s"
+
+#: src/learts/framework/class-plugins.php:239, 
+#: src/learts/framework/class-tgm-plugin-activation.php:370
+msgid "Please contact the administrator of this site for help."
+msgstr "يرجى الاتصال بمسؤول الموقع لمساعدتك."
+
+#: src/learts/framework/class-redux.php:59, 
+#: src/learts/framework/class-redux.php:60
+msgid "Theme Options"
+msgstr "خيارات الموضوع"
+
+#: src/learts/framework/class-redux.php:61
+msgid ""
+"Thank you for using our theme, please reward it a full five-star &#9733;"
+"&#9733;&#9733;&#9733;&#9733; rating. <br/> <a href=\"%s\" target=\"_blank\">"
+"Need support?</a> | <a href=\"%s\" target=\"_blank\">Check Update</a> "
+msgstr ""
+
+#: src/learts/framework/class-templates.php:135
+msgid "Featured"
+msgstr "المميز"
+
+#: src/learts/framework/class-templates.php:145
+msgid "By"
+msgstr "قبل"
+
+#: src/learts/framework/class-templates.php:173
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s التعليق"
+msgstr[1] "%s تعليقات"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-templates.php:837, 
+#: src/learts/woocommerce/loop/pagination.php:93
+msgid "more"
+msgstr "المزيد"
+
+#: src/learts/framework/class-templates.php:845
+msgid "at"
+msgstr "في"
+
+#: src/learts/framework/class-templates.php:863
+msgid "Comment awaiting approval"
+msgstr "التعليق بانتظار الموافقة"
+
+#: src/learts/framework/class-templates.php:876
+msgid "Reply"
+msgstr "رد"
+
+#: src/learts/framework/class-templates.php:878, 
+#: src/learts/framework/class-walker-nav-menu-edit.php:170
+msgid "Edit"
+msgstr "تحرير"
+
+#: src/learts/framework/class-templates.php:919, src/learts/searchform.php:4
+msgid "Search&hellip;"
+msgstr "البحث عن..."
+
+#: src/learts/framework/class-templates.php:922, 
+#: src/learts/framework/class-templates.php:1236, 
+#: src/learts/framework/class-templates.php:1337, 
+#: src/learts/framework/class-templates.php:1337, 
+#: src/learts/framework/class-templates.php:1388, 
+#: src/learts/framework/class-templates.php:1388, 
+#: src/learts/includes/theme-options/header/header_search.php:13, 
+#: src/learts/searchform.php:6
+msgid "Search"
+msgstr "البحث"
+
+#: src/learts/framework/class-templates.php:1264
+msgid "Search Products..."
+msgstr "البحث المنتجات..."
+
+#: src/learts/framework/class-templates.php:1267
+msgid "Search Posts..."
+msgstr "البحث عن المشاركات..."
+
+#: src/learts/framework/class-templates.php:1282
+msgid "# Type at least %s %s to search"
+msgstr "# نوع على الأقل %s %s البحث"
+
+#: src/learts/framework/class-templates.php:1284
+msgid "character"
+msgid_plural "characters"
+msgstr[0] "حرف"
+msgstr[1] "الشخصيات"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-templates.php:1285
+msgid "# Hit enter to search or ESC to close"
+msgstr ""
+
+#: src/learts/framework/class-templates.php:1313, 
+#: src/learts/framework/class-templates.php:1360
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+#: src/learts/framework/class-templates.php:1413, 
+#: src/learts/framework/class-woo.php:386, 
+#: src/learts/includes/theme-options/header/header_wishlist.php:9
+msgid "Wishlist"
+msgstr "مفضلة"
+
+#: src/learts/framework/class-templates.php:1439, 
+#: src/learts/includes/theme-options/header/header_cart.php:9
+msgid "Shopping Cart"
+msgstr "عربة التسوق"
+
+#: src/learts/framework/class-templates.php:1443
+msgid "My Cart"
+msgstr "سلتي"
+
+#: src/learts/framework/class-templates.php:1489, 
+#: src/learts/framework/class-templates.php:1493
+msgid "My Account"
+msgstr "حسابي"
+
+#: src/learts/framework/class-templates.php:1489, 
+#: src/learts/woocommerce/myaccount/form-login.php:58, 
+#: src/learts/woocommerce/myaccount/form-login.php:58
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: src/learts/framework/class-templates.php:1493
+msgid "Log in / Register"
+msgstr "تسجيل الدخول / تسجيل"
+
+#: src/learts/framework/class-templates.php:1591, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:6
+msgid "Portfolio"
+msgstr "محفظة"
+
+#: src/learts/framework/class-templates.php:1640
+msgid "You searched for:"
+msgstr "هل بحثت عن:"
+
+#: src/learts/framework/class-templates.php:1646
+msgid "This author has written"
+msgstr "هذا الكاتب كتب"
+
+#: src/learts/framework/class-templates.php:1647
+msgid "articles"
+msgstr "المواد"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:341
+msgid "Updating Plugin: %s"
+msgstr "تحديث البرنامج المساعد: %s"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:343
+msgid ""
+"/*translators:1:pluginnames.*/This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+"/*المترجمين:1:pluginnames.*/هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[1] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:345
+msgid ""
+"/*translators:1:pluginnames.*/This theme recommends the following plugin: "
+"%1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "/*المترجمين:1:pluginnames.*/هذا الموضوع يوصي بما يلي المساعد: %1$s."
+msgstr[1] "هذا الموضوع توصي الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:347
+msgid ""
+"/*translators:1:pluginnames.*/The following plugin needs to be updated to "
+"its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"/*المترجمين:1:pluginnames.*/التالية المساعد يحتاج إلى تحديث إلى الإصدار "
+"الأحدث لضمان أقصى قدر من التوافق مع هذا الموضوع: %1$s."
+msgstr[1] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:349
+msgid "/*translators:1:pluginnames.*/There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "/*المترجمين:1:pluginnames.*/هناك تحديث متوفر ل: %1$s."
+msgstr[1] "هناك تحديثات متوفرة على الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:351
+msgid ""
+"/*translators:1:pluginnames.*/The following required plugin is currently "
+"inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+"/*المترجمين:1:pluginnames.*/المطلوبة التالية المساعد غير نشط حاليا: %1$s."
+msgstr[1] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:353
+msgid ""
+"/*translators:1:pluginnames.*/The following recommended plugin is currently "
+"inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"/*المترجمين:1:pluginnames.*/التالية الموصى بها البرنامج المساعد غير نشط "
+"حاليا: %1$s."
+msgstr[1] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:359, 
+#: src/learts/framework/class-tgm-plugin-activation.php:864, 
+#: src/learts/framework/class-tgm-plugin-activation.php:2536, 
+#: src/learts/framework/class-tgm-plugin-activation.php:3574
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:368
+msgid "Dismiss this notice"
+msgstr "رفض هذا الإشعار"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:369
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"هناك واحد أو أكثر من المطلوب أو الإضافات الموصى بها إلى تثبيت أو تحديث أو "
+"تنشيط."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:558
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"هذا البرنامج المساعد يحتاج إلى تحديث لتكون متوافقة مع الموضوع الخاص بك."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:558
+msgid "Update Required"
+msgstr "التحديث المطلوب"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:677
+msgid "Set the parent_slug config variable instead."
+msgstr "تعيين parent_slug التكوين متغير بدلا من ذلك."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:972
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"جهاز التحكم عن بعد المساعد الحزمة لا تحتوي على المجلد المطلوب سبيكة تسمية لم "
+"تنجح."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:972, 
+#: src/learts/framework/class-tgm-plugin-activation.php:978
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"يرجى الاتصال المساعد مزود ونطلب منهم أن حزمة البرنامج المساعد وفقا وورد "
+"المبادئ التوجيهية."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:978
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"جهاز التحكم عن بعد المساعد حزمة تتكون من أكثر من ملف واحد ، ولكن الملفات لا "
+"يتم تعبئتها في مجلد."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:1155, 
+#: src/learts/framework/class-tgm-plugin-activation.php:2934
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2007
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2298
+msgid "Required"
+msgstr "مطلوب"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2301
+msgid "Recommended"
+msgstr "أوصت"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2318
+msgid "WordPress Repository"
+msgstr "مستودع وورد"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2321
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2324
+msgid "Pre-Packaged"
+msgstr "قبل تعبئتها"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2342
+msgid "Not Installed"
+msgstr "لا تثبيت"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2346
+msgid "Installed But Not Activated"
+msgstr "تثبيت ولكن لم يتم تنشيط"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2348
+msgid "Active"
+msgstr "نشط"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2354
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2357
+msgid "Requires Update"
+msgstr "يتطلب التحديث"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2360
+msgid "Update recommended"
+msgstr "التحديث الموصى بها"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2368
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2412
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2416
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2420
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2424
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2496
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "غير معروف"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2503
+msgid "Installed version:"
+msgstr "تثبيت الإصدار:"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2507
+msgid "Minimum required version:"
+msgstr "الحد الأدنى المطلوب الإصدار:"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2516
+msgid "Available version:"
+msgstr "يتوفر الإصدار:"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2536
+msgid "No plugins to install, update or activate."
+msgstr "لا الإضافات إلى تثبيت أو تحديث أو تنشيط."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2550
+msgid "Plugin"
+msgstr "البرنامج المساعد"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2551
+msgid "Source"
+msgstr "المصدر"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2552
+msgid "Type"
+msgstr "نوع"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2556
+msgid "Version"
+msgstr "الإصدار"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2557
+msgid "Status"
+msgstr "حالة"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2607
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2612
+msgid "Update %2$s"
+msgstr "التحديث %2$s"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2618
+msgid "Activate %2$s"
+msgstr "تفعيل %2$s"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2679
+msgid "Upgrade message from the plugin author:"
+msgstr "ترقية رسالة من المساعد المؤلف:"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2711
+msgid "Install"
+msgstr "تثبيت"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2717
+msgid "Update"
+msgstr "التحديث"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2720
+msgid "Activate"
+msgstr "تفعيل"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لا الإضافات تم اختيارها ليتم تثبيتها. أي إجراء."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لا الإضافات تم تحديثها. أي إجراء."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr "لا الإضافات متوفرة ليتم تثبيتها في هذا الوقت."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr "لا الإضافات المتوفرة إلى تحديث في هذا الوقت."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2894
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لا الإضافات تم تفعيلها. أي إجراء."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:2920
+msgid "No plugins are available to be activated at this time."
+msgstr "لا الإضافات متوفرة ليتم تفعيلها في هذا الوقت."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3150
+msgid "Plugin activation failed."
+msgstr "تفعيل البرنامج المساعد فشلت."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3494
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "تحديث البرنامج المساعد %1$s (%2$d/%3$d)"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3497
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3499
+msgid "The installation of %1$s failed."
+msgstr "التثبيت من %1$s فشلت."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3503
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"تركيب وتفعيل عملية الانطلاق. قد تستغرق هذه العملية بعض الوقت على بعض "
+"المضيفين ، لذا يرجى التحلي بالصبر."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3505
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تثبيت و تفعيل بنجاح."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr "جميع المنشآت والتنشيط قد اكتملت."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3508
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت وتفعيل البرنامج المساعد %1$s (%2$d/%3$d)"
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3511
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"عملية التثبيت هو بداية. قد تستغرق هذه العملية بعض الوقت على بعض المضيفين ، "
+"لذا يرجى التحلي بالصبر."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3513
+msgid "%1$s installed successfully."
+msgstr "%1$s تثبيت بنجاح."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr "جميع المنشآت قد اكتملت."
+
+#: src/learts/framework/class-tgm-plugin-activation.php:3516
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت البرنامج المساعد %1$s (%2$d/%3$d)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:121
+msgid "%s (Invalid)"
+msgstr "%s (صالح)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:125
+msgid "%s (Pending)"
+msgstr "%s (انتظار)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:140
+msgid "sub item"
+msgstr "البند الفرعي"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:153
+msgid "Move up"
+msgstr "تتحرك صعودا"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:162
+msgid "Move down"
+msgstr "تحريك لأسفل"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:170
+msgid "Edit menu item"
+msgstr "تحرير عنصر القائمة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:180
+msgid "URL"
+msgstr "URL"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:190
+msgid "Navigation Label"
+msgstr "الملاحة التسمية"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:199
+msgid "Title Attribute"
+msgstr "سمة العنوان"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:212
+msgid "Open link in a new tab"
+msgstr "فتح الرابط في علامة تبويب جديدة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:217
+msgid "CSS Classes (optional)"
+msgstr "الطبقات CSS (اختياري)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:226
+msgid "Link Relationship (XFN)"
+msgstr "رابط العلاقة (XFN)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:235
+msgid "Description"
+msgstr "الوصف"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:240
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "وصف سيتم عرضها في القائمة إذا كان موضوع الحالي يدعم ذلك."
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:253, 
+#: src/learts/woocommerce/wishlist-view.php:187
+msgid "Move"
+msgstr "الخطوة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:255
+msgid "Up one"
+msgstr "واحدة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:257
+msgid "Down one"
+msgstr "أسفل أحد"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:261
+msgid "To the top"
+msgstr "إلى الأعلى"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:268
+msgid "Original: %s"
+msgstr "الأصلي: %s"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:279
+msgid "Remove"
+msgstr "إزالة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:287, 
+#: src/learts/woocommerce/wishlist-view.php:45
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:323
+msgid "Custom Fields (from theme)"
+msgstr "الحقول المخصصة (من موضوع)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:327
+msgid "Item Tag (Optional)"
+msgstr "البند الوسم (اختياري)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:331
+msgid "Tag Type"
+msgstr "نوع العلامة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:336
+msgid "-- Select label type --"
+msgstr "-- اختر نوع التسمية --"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:339, 
+#: src/learts/woocommerce/loop/sale-flash.php:58, 
+#: src/learts/woocommerce/single-product/sale-flash.php:41
+msgid "Hot"
+msgstr "الساخنة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:342, 
+#: src/learts/woocommerce/loop/sale-flash.php:41, 
+#: src/learts/woocommerce/single-product/sale-flash.php:36
+msgid "New"
+msgstr "جديد"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:345, 
+#: src/learts/woocommerce/loop/sale-flash.php:47, 
+#: src/learts/woocommerce/single-product/sale-flash.php:47
+msgid "Sale"
+msgstr "للبيع"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:353
+msgid ""
+"You can change the colors for menu item tags <strong><a href=\"%s\" "
+"target=\"_blank\">here</a></strong>"
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:371
+msgid "Normal State Colors"
+msgstr "حالة طبيعية الألوان"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:374, 
+#: src/learts/framework/class-walker-nav-menu-edit.php:392
+msgid "Text Color: "
+msgstr "لون النص: "
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:381, 
+#: src/learts/framework/class-walker-nav-menu-edit.php:400
+msgid "Background Color: "
+msgstr "لون الخلفية: "
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:389
+msgid "Hover State Colors"
+msgstr "تحوم الدولة الألوان"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:410
+msgid "Tag Text"
+msgstr "الوسم النص"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:416
+msgid "If you leave it empty, text will be put in by default from Tag Type."
+msgstr "إذا كنت اتركه فارغ النص سيتم وضع افتراضي من نوع العلامة."
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:422
+msgid "Icon Classes (optional)"
+msgstr "رمز الطبقات (اختياري)"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:431
+msgid ""
+"Our theme supports <a target=\"_blank\" href=\"%s\">FontAwesome</a>, <a "
+"target=\"_blank\" href=\"%s\">Pe Icon 7 Stroke</a>, <a target=\"_blank\" "
+"href=\"%s\">Themify Icons</a>, <a target=\"_blank\" href=\"%s\">Ion Icons</a>"
+". Please select and copy icon's class, then paste it here."
+msgstr ""
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:448
+msgid "Mega Menu Layout"
+msgstr "ميجا القائمة تخطيط"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:458, 
+#: src/learts/includes/theme-options/footer/_footer.php:46, 
+#: src/learts/includes/theme-options/header/header_layout.php:80, 
+#: src/learts/includes/theme-options/header/header_topbar.php:96
+msgid "Wide"
+msgstr "واسعة"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:462, 
+#: src/learts/includes/theme-options/header/header_topbar.php:97, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:52
+msgid "Full width"
+msgstr "العرض الكامل"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:468
+msgid "Select the mega menu layout"
+msgstr "حدد ميجا القائمة تخطيط"
+
+#: src/learts/framework/class-walker-nav-menu-edit.php:472
+msgid "Mega Menu width"
+msgstr "ميجا القائمة عرض"
+
+#: src/learts/framework/class-woo.php:362, 
+#: src/learts/woocommerce/cart/cart.php:35, 
+#: src/learts/woocommerce/cart/cart.php:109
+msgid "Quantity"
+msgstr "الكمية"
+
+#: src/learts/framework/class-woo.php:389, 
+#: src/learts/woocommerce/cart/mini-cart.php:34
+msgid "Item removed."
+msgstr "البند إزالتها."
+
+#: src/learts/framework/class-woo.php:390, 
+#: src/learts/woocommerce/cart/mini-cart.php:35
+msgid "Undo"
+msgstr "التراجع"
+
+#: src/learts/framework/class-woo.php:394
+msgid "No products in the wishlist."
+msgstr "لا توجد منتجات في قائمة الامنيات."
+
+#: src/learts/framework/class-woo.php:423, 
+#: src/learts/woocommerce/wishlist-view.php:221
+msgid "Remove this product"
+msgstr "احذف هذا المنتج"
+
+#: src/learts/framework/class-woo.php:448, 
+#: src/learts/woocommerce/loop/sale-flash.php:37
+msgid "Out of stock"
+msgstr "من المخزون"
+
+#: src/learts/framework/class-woo.php:474
+msgid "View Wishlist"
+msgstr "عرض قائمة الامنيات"
+
+#: src/learts/framework/class-woo.php:702
+msgid "All"
+msgstr "كل"
+
+#: src/learts/framework/class-woo.php:752, 
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:51
+msgid "Hot Products"
+msgstr "المنتجات الساخنة"
+
+#: src/learts/framework/class-woo.php:757, 
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:52
+msgid "New Products"
+msgstr "منتجات جديدة"
+
+#: src/learts/framework/class-woo.php:762
+msgid "Sales Products"
+msgstr "مبيعات المنتجات"
+
+#: src/learts/framework/class-woo.php:816
+msgid "Filters"
+msgstr "المرشحات"
+
+#: src/learts/framework/class-woo.php:935, 
+#: src/learts/framework/class-woo.php:964, 
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:36, 
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:70
+msgid "Categories"
+msgstr "فئات"
+
+#: src/learts/framework/class-woo.php:939, 
+#: src/learts/framework/class-woo.php:969
+msgid "Back"
+msgstr "مرة أخرى"
+
+#: src/learts/framework/class-woo.php:1099, 
+#: src/learts/framework/class-woo.php:1102, 
+#: src/learts/framework/class-woo.php:1103, 
+#: src/learts/includes/theme-options/woo/woo_general.php:90, 
+#: src/learts/includes/theme-options/woo/woo_general.php:98
+msgid "Quick View"
+msgstr "عرض سريع"
+
+#: src/learts/framework/class-woo.php:1121, 
+#: src/learts/framework/class-woo.php:1130
+msgid "Compare"
+msgstr "قارن"
+
+#: src/learts/framework/class-woo.php:1219
+msgid "Please choose the quantity of items you wish to add to your cart."
+msgstr ""
+"يرجى اختيار كمية العناصر التي ترغب في إضافتها إلى سلة التسوق الخاصة بك."
+
+#: src/learts/framework/class-woo.php:1235
+msgid "Sorry, that item can only be added once."
+msgstr "آسف أن هذا البند لا يمكن إلا أن يضاف مرة واحدة."
+
+#: src/learts/framework/class-woo.php:1240
+msgid "Sorry, something went wrong. Please try again."
+msgstr "اسف حدث خطأ ما. يرجى المحاولة مرة أخرى."
+
+#: src/learts/framework/class-woo.php:1278
+msgid "Tag your photos with <a href=\"%s\" target=\"%s\">%s</a> on Instagram."
+msgstr ""
+
+#: src/learts/framework/class-woo.php:1297, 
+#: src/learts/framework/class-woo.php:1308
+msgid "View on Instagram"
+msgstr "عرض على Instagram"
+
+#: src/learts/includes/extensions/repeater/repeater/field_repeater.php:186, 
+#: src/learts/includes/extensions/repeater/repeater/field_repeater.php:229
+msgid "Delete"
+msgstr "حذف"
+
+#: src/learts/includes/extensions/repeater/repeater/field_repeater.php:251
+msgid "Add"
+msgstr "إضافة"
+
+#: src/learts/includes/extensions/search/extension_search.php:102
+msgid "Search for option(s)"
+msgstr "البحث عن خيار(s)"
+
+#: src/learts/includes/theme-options/api/_api.php:6
+msgid "API Integrations"
+msgstr "التكامل API"
+
+#: src/learts/includes/theme-options/api/_api.php:14
+msgid "MailChimp API Key"
+msgstr "MailChimp مفتاح API"
+
+#: src/learts/includes/theme-options/api/_api.php:15
+msgid ""
+"The API key for connecting with your MailChimp account. <a href=\"%s\" "
+"target=\"_blank\">Get your API key here</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/api/_api.php:29
+msgid "Google Maps API Key"
+msgstr "خرائط جوجل API الرئيسية"
+
+#: src/learts/includes/theme-options/api/_api.php:30
+msgid ""
+"Follow <a href=\"%s\" target=\"_blank\">this link</a> and click <strong>GET "
+"A KEY</strong> button."
+msgstr ""
+
+#: src/learts/includes/theme-options/blog/_blog.php:4
+msgid "Blog"
+msgstr "بلوق"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:5
+msgid "Blog Archive"
+msgstr "أرشيف المدونة"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:13
+msgid "Archive Sidebar Position"
+msgstr "أرشيف موقف الشريط الجانبي"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:14
+msgid "Controls the position of sidebars for the archive pages."
+msgstr "ضوابط موقف الجانبية على صفحات الأرشيف."
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:17, 
+#: src/learts/includes/theme-options/blog/blog_single.php:17, 
+#: src/learts/includes/theme-options/header/header_right_column.php:61, 
+#: src/learts/includes/theme-options/header/offcanvas_button.php:62, 
+#: src/learts/includes/theme-options/menu/site_menu.php:16, 
+#: src/learts/includes/theme-options/pages/_pages.php:17, 
+#: src/learts/includes/theme-options/pages/_pages.php:40, 
+#: src/learts/includes/theme-options/woo/woo_product.php:15, 
+#: src/learts/includes/theme-options/woo/woo_product.php:63, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:17
+msgid "Left"
+msgstr "اليسار"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:25, 
+#: src/learts/includes/theme-options/blog/blog_single.php:25, 
+#: src/learts/includes/theme-options/header/offcanvas_button.php:63, 
+#: src/learts/includes/theme-options/menu/site_menu.php:18, 
+#: src/learts/includes/theme-options/pages/_pages.php:25, 
+#: src/learts/includes/theme-options/pages/_pages.php:48, 
+#: src/learts/includes/theme-options/woo/woo_product.php:23, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:25
+msgid "Right"
+msgstr "صحيح"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:35
+msgid "Archive Sidebar"
+msgstr "أرشيف الشريط الجانبي"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:36, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:36
+msgid "Choose the sidebar for archive pages."
+msgstr "اختيار الشريط الجانبي على صفحات الأرشيف."
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:48
+msgid "Archive Display Type"
+msgstr "أرشيف نوع العرض"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:49
+msgid "Select the display type."
+msgstr "حدد نوع العرض."
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:51, 
+#: src/learts/includes/theme-options/footer/_footer.php:45, 
+#: src/learts/includes/theme-options/header/header_layout.php:79, 
+#: src/learts/includes/theme-options/header/header_topbar.php:95
+msgid "Standard"
+msgstr "القياسية"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:52
+msgid "Grid"
+msgstr "الشبكة"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:53
+msgid "List"
+msgstr "قائمة"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:54
+msgid "Masonry"
+msgstr "البناء"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:62, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:47
+msgid "Archive Content Output"
+msgstr "أرشيف انتاج المحتوى"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:63
+msgid "Select if you'd like to output the content or excerpt on archive pages."
+msgstr "حدد ما إذا كنت ترغب في انتاج المحتوى أو مقتطفات على صفحات الأرشيف."
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:66, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:51
+msgid "Excerpt"
+msgstr "مقتطفات"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:67, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:52
+msgid "Content"
+msgstr "المحتوى"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:75, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:60
+msgid "Excerpt Length"
+msgstr "مقتطفات طول"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:76, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:61
+msgid "Controls the number of words of the post excerpt (from 0 to %s words)"
+msgstr "يسيطر على عدد من الكلمات من مقتطف آخر (من 0 إلى %s الكلمات)"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:92, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:77, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:82
+msgid "Pagination Type"
+msgstr "نوع ترقيم الصفحات"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:93, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:78, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:83
+msgid "Select pagination type"
+msgstr "حدد نوع ترقيم الصفحات"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:96, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:81, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:86
+msgid "Load More Button"
+msgstr "تحميل المزيد من زر"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:97, 
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:82, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:87
+msgid "Infinite Scroll"
+msgstr "التمرير لانهائية"
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:114
+msgid "You must provide a numerical value for this option."
+msgstr "يجب توفير القيمة العددية لهذا الخيار."
+
+#: src/learts/includes/theme-options/blog/blog_archive.php:121
+msgid "The excerpt length must be from 0 to %s words."
+msgstr "مقتطفات يجب أن يكون طول من 0 إلى %s الكلمات."
+
+#: src/learts/includes/theme-options/blog/blog_general.php:11
+msgid "Post Meta"
+msgstr "ميتا بعد"
+
+#: src/learts/includes/theme-options/blog/blog_general.php:12
+msgid "Turn on to display post meta on blog posts"
+msgstr "تشغيل لعرض ميتا بعد على بلوق وظائف"
+
+#: src/learts/includes/theme-options/blog/blog_general.php:19
+msgid "Display Author"
+msgstr "عرض المؤلف"
+
+#: src/learts/includes/theme-options/blog/blog_general.php:20
+msgid "Display author on blog posts"
+msgstr "عرض المؤلف في بلوق وظائف"
+
+#: src/learts/includes/theme-options/blog/blog_general.php:32
+msgid "Display Categories"
+msgstr "عرض الفئات"
+
+#: src/learts/includes/theme-options/blog/blog_general.php:33
+msgid "Display categories on blog posts"
+msgstr "عرض الفئات على بلوق وظائف"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:5
+msgid "Blog Single Post"
+msgstr "بلوق وظيفة واحدة"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:13
+msgid "Post Sidebar"
+msgstr "آخر الشريط الجانبي"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:14
+msgid "Controls the position of sidebars for the single post pages."
+msgstr "ضوابط موقف الجانبية على صفحات ظيفة واحدة."
+
+#: src/learts/includes/theme-options/blog/blog_single.php:35
+msgid "Single Post Sidebar"
+msgstr "واحد آخر الشريط الجانبي"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:36
+msgid "Choose the sidebar for single post pages."
+msgstr "اختيار الشريط الجانبي على صفحات ظيفة واحدة."
+
+#: src/learts/includes/theme-options/blog/blog_single.php:47, 
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:37, 
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:84
+msgid "Tags"
+msgstr "Tags"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:48
+msgid "Turn on to display the tags."
+msgstr "تشغيل لعرض العلامات."
+
+#: src/learts/includes/theme-options/blog/blog_single.php:55
+msgid "Author Info Box"
+msgstr "معلومات الكاتب مربع"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:56
+msgid "Turn on to display the author info box below posts."
+msgstr "تشغيل عرض معلومات الكاتب المربع أدناه الوظائف."
+
+#: src/learts/includes/theme-options/blog/blog_single.php:63
+msgid "Related Posts"
+msgstr "الوظائف ذات الصلة"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:64
+msgid "Turn on to display related posts."
+msgstr "بدوره على عرض الوظائف ذات الصلة."
+
+#: src/learts/includes/theme-options/blog/blog_single.php:71, 
+#: src/learts/includes/theme-options/woo/woo_product.php:162
+msgid "Social Sharing Box"
+msgstr "تقاسم الاجتماعية مربع"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:72, 
+#: src/learts/includes/theme-options/woo/woo_product.php:163
+msgid "Turn on to display the social sharing box."
+msgstr "بدوره على عرض تقاسم الاجتماعية مربع."
+
+#: src/learts/includes/theme-options/blog/blog_single.php:79
+msgid "Share the post on "
+msgstr "حصة هذا المنصب على "
+
+#: src/learts/includes/theme-options/blog/blog_single.php:83, 
+#: src/learts/includes/theme-options/woo/woo_product.php:174, 
+#: src/learts/woocommerce/single-product/share.php:61
+msgid "Google+"
+msgstr "جوجل+"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:84, 
+#: src/learts/includes/theme-options/woo/woo_product.php:176, 
+#: src/learts/woocommerce/single-product/share.php:70
+msgid "Pinterest"
+msgstr "بينتيريست"
+
+#: src/learts/includes/theme-options/blog/blog_single.php:85, 
+#: src/learts/includes/theme-options/woo/woo_product.php:178, 
+#: src/learts/woocommerce/single-product/share.php:78
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:13
+msgid "Displays a full chain of links to the current page."
+msgstr "يعرض سلسلة كاملة من الروابط إلى الصفحة الحالية."
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:21
+msgid "Breadcrumbs Text Color"
+msgstr "فتات الخبز لون النص"
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:30
+msgid "Breadcrumbs Separator Color"
+msgstr "فتات الخبز فاصل اللون"
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:39
+msgid "Breadcrumbs Link Color"
+msgstr "فتات الخبز لون الرابط"
+
+#: src/learts/includes/theme-options/breadcrumbs/_breadcrumbs.php:48
+msgid "Breadcrumbs Link Color: Hover"
+msgstr "فتات الخبز لون الرابط: تحوم"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:4
+msgid "Cookie Notice"
+msgstr "إشعار ملفات تعريف الارتباط"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:11
+msgid "Enable Cookie Notice"
+msgstr "تمكين إشعار ملفات تعريف الارتباط"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:12
+msgid ""
+"Cookie Notice allows you to elegantly inform users that your site uses "
+"cookies and to comply with the EU cookie law regulations. Turn on this "
+"option and user will see info box at the bottom of the page that your web-"
+"site is using cookies."
+msgstr ""
+"إشعار ملفات تعريف الارتباط تسمح لك بأناقة إعلام المستخدمين أن الموقع يستخدم "
+"ملفات تعريف الارتباط إلى الامتثال لقانون الاتحاد الأوروبي كوكي اللوائح. "
+"تشغيل هذا الخيار المستخدم سوف نرى معلومات مربع في الجزء السفلي من صفحة الويب "
+"الخاصة بك الموقع يستخدم ملفات تعريف الارتباط."
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:18
+msgid "Cookie expiry"
+msgstr "كوكي انتهاء"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:19
+msgid "The ammount of time that cookie should be stored for"
+msgstr "Ammount من الوقت الذي يجب أن يتم تخزين ملف تعريف الارتباط على"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:21
+msgid "1 day"
+msgstr "1 يوم"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:22
+msgid "1 week"
+msgstr "1 الأسبوع"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:23
+msgid "1 month"
+msgstr "1 شهر"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:24
+msgid "3 months"
+msgstr "3 أشهر"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:25
+msgid "6 months"
+msgstr "6 أشهر"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:26
+msgid "1 year"
+msgstr "1 سنة"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:27
+msgid "Infinity"
+msgstr "اللانهاية"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:35
+msgid ""
+"Place here some information about cookies usage that will be shown in the "
+"notice"
+msgstr ""
+"المكان هنا بعض المعلومات حول استخدام ملفات تعريف الارتباط التي من شأنها أن "
+"تظهر في الإشعار"
+
+#: src/learts/includes/theme-options/cookie/_cookie.php:36
+msgid ""
+"We use cookies to ensure that we give you the best experience on our website."
+" If you continue to use this site we will assume that you are happy with it."
+msgstr ""
+"نحن نستخدم ملفات تعريف الارتباط لضمان أن نقدم لكم أفضل تجربة على موقعنا على "
+"الانترنت. إذا كان يمكنك الاستمرار في استخدام هذا الموقع سوف نفترض أن كنت "
+"سعيدا مع ذلك."
+
+#: src/learts/includes/theme-options/custom/_custom.php:4
+msgid "Custom Code"
+msgstr "رمز مخصص"
+
+#: src/learts/includes/theme-options/custom/custom_css.php:4
+msgid "Custom CSS"
+msgstr "العرف CSS"
+
+#: src/learts/includes/theme-options/custom/custom_js.php:4
+msgid "Custom JS"
+msgstr "مخصص JS"
+
+#: src/learts/includes/theme-options/features/_features.php:5
+msgid "Theme Features"
+msgstr "موضوع الميزات"
+
+#: src/learts/includes/theme-options/features/_features.php:13
+msgid "Coming Soon Mode"
+msgstr "قريبا الوضعية ، "
+
+#: src/learts/includes/theme-options/features/_features.php:14
+msgid ""
+"Work on your site in private while visitors see a “Coming Soon” or "
+"“Maintenance Mode” page. After enabling this feature, please select a page "
+"and choose Page Template as Coming Soon, like <a href=\"%s\" "
+"target=\"_blank\">this image</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/features/_features.php:29
+msgid "Box Mode"
+msgstr "وضع مربع"
+
+#: src/learts/includes/theme-options/features/_features.php:30
+msgid "Enabling this option then your site will switch to box mode"
+msgstr "تمكين هذا الخيار ثم موقع الويب الخاص بك سوف التبديل إلى وضع مربع"
+
+#: src/learts/includes/theme-options/features/_features.php:37
+msgid "Site Background"
+msgstr "الموقع الخلفية"
+
+#: src/learts/includes/theme-options/features/_features.php:38
+msgid "Set background image or color for body. Only for boxed layout"
+msgstr "تعيين صورة الخلفية أو لون الجسم. فقط من أجل تخطيط محاصر"
+
+#: src/learts/includes/theme-options/features/_features.php:53
+msgid ""
+"Activating the back to top anchor will output a link that appears in the "
+"bottom corner of your site for users to click on that will return them to "
+"the top of your website."
+msgstr ""
+"تفعيل العودة إلى أعلى مرساة سيتم إخراج الرابط الذي يظهر في الزاوية السفلى من "
+"موقع الويب الخاص بك المستخدمين على النقر على ذلك سوف يعود بها إلى أعلى موقع "
+"الويب الخاص بك."
+
+#: src/learts/includes/theme-options/features/_features.php:61
+msgid "Falling Snow Effect"
+msgstr "تساقط الثلوج تأثير"
+
+#: src/learts/includes/theme-options/features/_features.php:62
+msgid ""
+"Let it snow on your website. Enjoy this holy season with a wonderful falling "
+"snow effect"
+msgstr ""
+"ندعه الثلوج على موقع الويب الخاص بك. يتمتع هذا الموسم الكريم مع رائعة تساقط "
+"الثلوج تأثير"
+
+#: src/learts/includes/theme-options/features/_features.php:69
+msgid "Snow image"
+msgstr "الثلوج صورة"
+
+#: src/learts/includes/theme-options/features/_features.php:70
+msgid "Upload image for snow falling: png, jpg or gif file."
+msgstr "تحميل صورة تساقط الثلوج: png, jpg أو gif الملف."
+
+#: src/learts/includes/theme-options/features/_features.php:82
+msgid "Single Post / Product Navigation"
+msgstr "مشاركة واحدة / المنتج الملاحة"
+
+#: src/learts/includes/theme-options/features/_features.php:83
+msgid ""
+"Enabling this option will display the post navigation on single post or "
+"single product page."
+msgstr ""
+"تمكين هذا الخيار سيتم عرض آخر الملاحة على وظيفة واحدة أو صفحة المنتج واحدة."
+
+#: src/learts/includes/theme-options/features/_features.php:95
+msgid "Load Minified Scripts"
+msgstr "تحميل مصغر البرامج النصية"
+
+#: src/learts/includes/theme-options/features/_features.php:96
+msgid ""
+"Loading *.css & *.js files that have been minified will help you speed up "
+"the page load."
+msgstr ""
+"تحميل *.css & *.js الملفات التي تم مصغر سوف تساعدك على تسريع تحميل الصفحة."
+
+#: src/learts/includes/theme-options/footer/_footer.php:13
+msgid "Footer columns"
+msgstr "أعمدة تذييل"
+
+#: src/learts/includes/theme-options/footer/_footer.php:14
+msgid "Choose number of columns to display in footer area"
+msgstr "اختيار عدد الأعمدة التي تريد عرضها في تذييل الصفحة"
+
+#: src/learts/includes/theme-options/footer/_footer.php:15
+msgid ""
+"Note: Each column represents one Footer Sidebar in <a href=\"%s\">Appearance "
+"-> Widgets</a> settings."
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/_footer.php:21
+msgid "1 Column"
+msgstr "1 عمود"
+
+#: src/learts/includes/theme-options/footer/_footer.php:25
+msgid "2 Columns"
+msgstr "2 الأعمدة"
+
+#: src/learts/includes/theme-options/footer/_footer.php:29
+msgid "3 Columns"
+msgstr "3 أعمدة"
+
+#: src/learts/includes/theme-options/footer/_footer.php:33
+msgid "4 Columns"
+msgstr "4 أعمدة"
+
+#: src/learts/includes/theme-options/footer/_footer.php:43
+msgid "Footer Width"
+msgstr "تذييل العرض"
+
+#: src/learts/includes/theme-options/footer/_footer.php:55
+msgid "Footer Color Scheme"
+msgstr "تذييل الألوان"
+
+#: src/learts/includes/theme-options/footer/_footer.php:57, 
+#: src/learts/includes/theme-options/header/header_appearance.php:48, 
+#: src/learts/includes/theme-options/header/header_topbar.php:142
+msgid "Light"
+msgstr "الضوء"
+
+#: src/learts/includes/theme-options/footer/_footer.php:58, 
+#: src/learts/includes/theme-options/header/header_appearance.php:47, 
+#: src/learts/includes/theme-options/header/header_topbar.php:141
+msgid "Dark"
+msgstr "الظلام"
+
+#: src/learts/includes/theme-options/footer/_footer.php:67
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:5, 
+#: src/learts/includes/theme-options/footer/footer_copyright.php:20
+msgid "Copyright"
+msgstr "حقوق الطبع والنشر"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:12
+msgid "Display copyright"
+msgstr "عرض حقوق الطبع والنشر"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:13
+msgid "Check if you want to display the copyright"
+msgstr "تحقق مما إذا كنت ترغب في عرض حقوق الطبع والنشر"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:21
+msgid "Specify the copyright text to show at the bottom of the website"
+msgstr "تحديد نص المؤلف أن تظهر في الجزء السفلي من الموقع"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:23
+msgid ""
+"<p>Copyright &copy; 2018. Created by <a href=\"%s\" target=\"_blank\">"
+"ThemeMove</a>. Powered by <a href=\"%s\" target=\"_blank\">WordPress</a></p>"
+msgstr ""
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:42
+msgid "Copyright background color"
+msgstr "حقوق الطبع والنشر لون الخلفية"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:56
+msgid "Copyright text color"
+msgstr "حقوق الطبع والنشر لون النص"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:57
+msgid "This is the standard text color for footer"
+msgstr "هذا هو المعيار لون النص تذييل الصفحة"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:71
+msgid "Copyright link color"
+msgstr "حق المؤلف اللون"
+
+#: src/learts/includes/theme-options/footer/footer_copyright.php:72
+msgid "This color will apply to buttons, links, etc..."
+msgstr "هذا اللون سوف تنطبق على أزرار, روابط, الخ..."
+
+#: src/learts/includes/theme-options/header/header_appearance.php:5
+msgid "Header Appearance"
+msgstr "رأس المظهر"
+
+#: src/learts/includes/theme-options/header/header_appearance.php:12
+msgid "Header White mode"
+msgstr "رأس أبيض الوضعية ، "
+
+#: src/learts/includes/theme-options/header/header_appearance.php:13
+msgid ""
+"Make everything (such as text, icon, menu, etc...) on the header to white "
+"color. Only works when the \"Header above the content\" option (in Header > "
+"Header Layout) is enabled."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_appearance.php:23, 
+#: src/learts/includes/theme-options/page-title/_page-title.php:53, 
+#: src/learts/includes/theme-options/page-title/_page-title.php:91, 
+#: src/learts/includes/theme-options/woo/woo_general.php:245, 
+#: src/learts/includes/theme-options/woo/woo_general.php:280, 
+#: src/learts/includes/theme-options/woo/woo_general.php:315, 
+#: src/learts/includes/theme-options/woo/woo_product.php:90
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: src/learts/includes/theme-options/header/header_appearance.php:24, 
+#: src/learts/includes/theme-options/woo/woo_product.php:91
+msgid "Pick a background color for the header"
+msgstr "اختيار لون الخلفية للرأس"
+
+#: src/learts/includes/theme-options/header/header_appearance.php:32
+msgid "Border Color"
+msgstr "لون الحدود"
+
+#: src/learts/includes/theme-options/header/header_appearance.php:33
+msgid "Pick a border color for the header"
+msgstr "اختيار لون الحدود على رأس"
+
+#: src/learts/includes/theme-options/header/header_appearance.php:45
+msgid "Header color scheme"
+msgstr "رأس الألوان"
+
+#: src/learts/includes/theme-options/header/header_cart.php:16
+msgid "Enable Shopping Cart"
+msgstr "تمكين عربة التسوق"
+
+#: src/learts/includes/theme-options/header/header_cart.php:17
+msgid "Enable / Disable the shopping cart"
+msgstr "تمكين / تعطيل عربة التسوق"
+
+#: src/learts/includes/theme-options/header/header_cart.php:23
+msgid "Shopping Cart Message"
+msgstr "عربة التسوق رسالة"
+
+#: src/learts/includes/theme-options/header/header_cart.php:24
+msgid "Insert the text you want to see in the shopping cart here."
+msgstr "أدخل النص الذي تريد أن تراه في عربة التسوق هنا."
+
+#: src/learts/includes/theme-options/header/header_cart.php:25
+msgid "Free Shipping on All Orders Over $100!"
+msgstr "الحرة الشحن على جميع أوامر أكثر من 100 دولار!"
+
+#: src/learts/includes/theme-options/header/header_cart.php:30
+msgid "Message Position"
+msgstr "الرسالة موقف"
+
+#: src/learts/includes/theme-options/header/header_cart.php:31
+msgid "Set the position for shopping cart message in the dropdown"
+msgstr "تعيين موضع لعربة التسوق رسالة في القائمة المنسدلة"
+
+#: src/learts/includes/theme-options/header/header_cart.php:33
+msgid "Top"
+msgstr "أعلى"
+
+#: src/learts/includes/theme-options/header/header_cart.php:34, 
+#: src/learts/includes/theme-options/woo/woo_product.php:64
+msgid "Bottom"
+msgstr "أسفل"
+
+#: src/learts/includes/theme-options/header/header_cart.php:41
+msgid "Shopping Cart Icon"
+msgstr "عربة التسوق رمز"
+
+#: src/learts/includes/theme-options/header/header_cart.php:43, 
+#: src/learts/woocommerce/cart/mini-cart.php:31
+msgid "Cart"
+msgstr "عربة"
+
+#: src/learts/includes/theme-options/header/header_cart.php:45
+msgid "Cart Outline"
+msgstr "عربة مخطط"
+
+#: src/learts/includes/theme-options/header/header_cart.php:54
+msgid "Cart Icon Color"
+msgstr "عربة رمز اللون"
+
+#: src/learts/includes/theme-options/header/header_cart.php:55
+msgid "Pick a color for the shopping cart icon"
+msgstr "اختيار اللون للحصول على أيقونة سلة التسوق"
+
+#: src/learts/includes/theme-options/header/header_cart.php:63
+msgid "Cart Item Count Color"
+msgstr "عربة البند العد اللون"
+
+#: src/learts/includes/theme-options/header/header_cart.php:64
+msgid "Pick a color for the text of shopping cart"
+msgstr "اختيار لون النص من عربة التسوق"
+
+#: src/learts/includes/theme-options/header/header_cart.php:72
+msgid "Cart Item Count Background Color"
+msgstr "عربة البند العد لون الخلفية"
+
+#: src/learts/includes/theme-options/header/header_cart.php:73
+msgid "Pick a background color for the item count of shopping cart"
+msgstr "اختيار لون الخلفية للعنصر عدد من عربة التسوق"
+
+#: src/learts/includes/theme-options/header/header_cart.php:83
+msgid "Cart Item Count Border Color"
+msgstr "عربة البند العد لون الحدود"
+
+#: src/learts/includes/theme-options/header/header_cart.php:84
+msgid "Pick a border color for the item count of shopping cart"
+msgstr "اختيار لون الحدود البند عدد من عربة التسوق"
+
+#: src/learts/includes/theme-options/header/header_layout.php:5
+msgid "Header Layout"
+msgstr "تخطيط رأس"
+
+#: src/learts/includes/theme-options/header/header_layout.php:13
+msgid "Header Type"
+msgstr "نوع رأس"
+
+#: src/learts/includes/theme-options/header/header_layout.php:14
+msgid "Select your header layout"
+msgstr "حدد تخطيط رأس"
+
+#: src/learts/includes/theme-options/header/header_layout.php:17
+msgid "Basic Menu Header"
+msgstr "الأساسية رأس القائمة"
+
+#: src/learts/includes/theme-options/header/header_layout.php:21
+msgid "Split Header (logo in center of the menu)"
+msgstr "تقسيم رأس (الشعار في وسط القائمة)"
+
+#: src/learts/includes/theme-options/header/header_layout.php:25
+msgid "Menu Bottom Header #1"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:29
+msgid "Menu Bottom Header #2 "
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_layout.php:33
+msgid "Vertical Full Menu Header"
+msgstr "الرأسي الكامل رأس القائمة"
+
+#: src/learts/includes/theme-options/header/header_layout.php:43
+msgid "Sticky Header"
+msgstr "رأس لزجة"
+
+#: src/learts/includes/theme-options/header/header_layout.php:44
+msgid "Enable / Disable sticky header option"
+msgstr "تمكين / تعطيل خيار رأس لزجة"
+
+#: src/learts/includes/theme-options/header/header_layout.php:54
+msgid "Header above the content"
+msgstr "رأس فوق المحتوى"
+
+#: src/learts/includes/theme-options/header/header_layout.php:65, 
+#: src/learts/includes/theme-options/header/header_right_column.php:9, 
+#: src/learts/includes/theme-options/header/header_topbar.php:13, 
+#: src/learts/includes/theme-options/header/offcanvas_button.php:13, 
+#: src/learts/includes/theme-options/header/offcanvas_button.php:51
+msgid "Note"
+msgstr "ملاحظة"
+
+#: src/learts/includes/theme-options/header/header_layout.php:66
+msgid "Note: The width of the Split Header should be Wide or Full width"
+msgstr "ملاحظة: عرض تقسيم رأس يجب أن تكون واسعة أو العرض الكامل"
+
+#: src/learts/includes/theme-options/header/header_layout.php:77, 
+#: src/learts/includes/theme-options/header/header_layout.php:93
+msgid "Header Width"
+msgstr "رأس العرض"
+
+#: src/learts/includes/theme-options/header/header_layout.php:81
+msgid "Full-width"
+msgstr "العرض الكامل"
+
+#: src/learts/includes/theme-options/header/header_layout.php:82
+msgid "Full-width (no paddings)"
+msgstr "العرض الكامل (لا سائد)"
+
+#: src/learts/includes/theme-options/header/header_layout.php:107
+msgid "Header Text"
+msgstr "رأس النص"
+
+#: src/learts/includes/theme-options/header/header_layout.php:108
+msgid ""
+"Insert the text you want to see in the vertical header here. You can use "
+"HTML or shortcodes"
+msgstr ""
+"أدخل النص الذي تريد أن تراه في رأس العمودي هنا. يمكنك استخدام HTML أو "
+"الهاتفية القصيرة"
+
+#: src/learts/includes/theme-options/header/header_layout.php:122
+msgid "Header Height"
+msgstr "ارتفاع رأس"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:5
+msgid "Header Left Column"
+msgstr "رأس العمود الأيسر"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:19
+msgid "Header Left Column Content"
+msgstr "رأس العمود الأيسر المحتوى"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:20
+msgid ""
+"Select the content is displayed in the header left column layout. In menu "
+"bottom header #2, they are used as widgets on the right "
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_left_column.php:24, 
+#: src/learts/includes/theme-options/header/header_right_column.php:57
+msgid "None"
+msgstr "لا شيء"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:28
+msgid "Switchers"
+msgstr "المحولات"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:32
+msgid "Social Links"
+msgstr "الروابط الاجتماعية"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:36
+msgid "Widget"
+msgstr "القطعة"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:40
+msgid "Search Widget"
+msgstr "البحث عن القطعة"
+
+#: src/learts/includes/theme-options/header/header_left_column.php:50
+msgid "Header Left Sidebar"
+msgstr "رأس الشريط الجانبي الأيسر"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:10, 
+#: src/learts/includes/theme-options/header/header_topbar.php:14, 
+#: src/learts/includes/theme-options/header/offcanvas_button.php:14
+msgid "Does not work with the Vertical Header"
+msgstr "لا يعمل مع رأس العمودي"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:19
+msgid "Header right column width"
+msgstr "رأس عمود الحق العرض"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:20
+msgid ""
+"Set width for icons area in the header (search, wishlist, shopping cart) (in "
+"%)"
+msgstr "تعيين عرض الرموز في منطقة رأس (البحث, مفضلة, عربة التسوق) (في المائة)"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:39
+msgid "Login link in header"
+msgstr "ارتباط الدخول في رأس"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:40
+msgid ""
+"Show links to login/register or my accout page in the header. Please set up "
+"the My account page <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_right_column.php:52
+msgid "Login link position"
+msgstr "ارتباط الدخول الموقف"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:53
+msgid "Select the header right column layout."
+msgstr "حدد رأس تخطيط العمود الأيمن."
+
+#: src/learts/includes/theme-options/header/header_right_column.php:65
+msgid "Between"
+msgstr "بين"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:79
+msgid "Display login as icon"
+msgstr "عرض أيقونة تسجيل الدخول"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:87
+msgid "Login link Color"
+msgstr "تسجيل الدخول لون الرابط"
+
+#: src/learts/includes/theme-options/header/header_right_column.php:100
+msgid "Header Right Column"
+msgstr "رأس العمود الأيمن"
+
+#: src/learts/includes/theme-options/header/header_search.php:4
+msgid "Post"
+msgstr "بعد"
+
+#: src/learts/includes/theme-options/header/header_search.php:8, 
+#: src/learts/woocommerce/cart/cart.php:33, 
+#: src/learts/woocommerce/cart/cart.php:83
+msgid "Product"
+msgstr "المنتج"
+
+#: src/learts/includes/theme-options/header/header_search.php:20
+msgid "Enable Search"
+msgstr "تمكين البحث"
+
+#: src/learts/includes/theme-options/header/header_search.php:21
+msgid "Enable / Disable the search box"
+msgstr "تمكين / تعطيل مربع البحث"
+
+#: src/learts/includes/theme-options/header/header_search.php:28
+msgid "Search content type"
+msgstr "البحث نوع المحتوى"
+
+#: src/learts/includes/theme-options/header/header_search.php:29
+msgid "Select content type you want to use in the search box"
+msgstr "حدد نوع المحتوى الذي تريد استخدامه في مربع البحث"
+
+#: src/learts/includes/theme-options/header/header_search.php:37
+msgid "Search product by"
+msgstr "البحث المنتج من قبل"
+
+#: src/learts/includes/theme-options/header/header_search.php:39, 
+#: src/learts/includes/theme-options/social/_social.php:64, 
+#: src/learts/includes/theme-options/social/_social.php:66
+msgid "Title"
+msgstr "العنوان"
+
+#: src/learts/includes/theme-options/header/header_search.php:40, 
+#: src/learts/woocommerce/single-product/meta.php:48
+msgid "SKU"
+msgstr "الكود"
+
+#: src/learts/includes/theme-options/header/header_search.php:41
+msgid "Both title & SKU"
+msgstr "كل عنوان & الكود"
+
+#: src/learts/includes/theme-options/header/header_search.php:52
+msgid "Categories select box"
+msgstr "فئات حدد مربع"
+
+#: src/learts/includes/theme-options/header/header_search.php:53
+msgid "Turn on this option if you want to show categories select box"
+msgstr "تشغيل هذا الخيار إذا كنت تريد أن تظهر فئات حدد مربع"
+
+#: src/learts/includes/theme-options/header/header_search.php:60
+msgid "Live Search"
+msgstr "البحث الحية"
+
+#: src/learts/includes/theme-options/header/header_search.php:66
+msgid "Minimum number of characters"
+msgstr "الحد الأدنى لعدد الأحرف"
+
+#: src/learts/includes/theme-options/header/header_search.php:67
+msgid "Minimum number of characters required to trigger autosuggest"
+msgstr "الحد الأدنى لعدد الأحرف المطلوبة لتحريك autosuggest"
+
+#: src/learts/includes/theme-options/header/header_search.php:81
+msgid "Maximum number of results"
+msgstr "أقصى عدد من النتائج"
+
+#: src/learts/includes/theme-options/header/header_search.php:82
+msgid "Maximum number of results showed within the autosuggest box"
+msgstr "أقصى عدد من النتائج أظهرت داخل autosuggest مربع"
+
+#: src/learts/includes/theme-options/header/header_search.php:96
+msgid "Show excerpt"
+msgstr "عرض مقتطفات"
+
+#: src/learts/includes/theme-options/header/header_search.php:97
+msgid "Show the excerpt of search result"
+msgstr "عرض مقتطفات من نتيجة البحث"
+
+#: src/learts/includes/theme-options/header/header_search.php:107
+msgid "Search Icon Color"
+msgstr "البحث رمز اللون"
+
+#: src/learts/includes/theme-options/header/header_search.php:108
+msgid "Pick a color for the search icon"
+msgstr "اختيار اللون للحصول على أيقونة البحث"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:5
+msgid "Top Bar"
+msgstr "الشريط العلوي"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:22
+msgid "Top bar"
+msgstr "الشريط العلوي"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:23
+msgid "Enabling this option will display top area"
+msgstr "تمكين هذا الخيار سيتم عرض أعلى منطقة"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:29
+msgid "Topbar Layout"
+msgstr "Topbar تخطيط"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:30
+msgid "Select your topbar layout"
+msgstr "حدد تخطيط topbar"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:33
+msgid "Switchers on the left, social links on the right"
+msgstr "المحولات على اليسار, الروابط الاجتماعية على اليمين"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:37
+msgid "Switchers on the right, social links on the left"
+msgstr "المحولات على اليمين, الروابط الاجتماعية على اليسار"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:41
+msgid "The topbar has only text"
+msgstr "Topbar وقد نص فقط"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:46
+msgid "The text align left, the menu topbar and switchers align right"
+msgstr "النص محاذاة إلى اليسار ، القائمة topbar و المحولات محاذاة إلى اليمين"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:51
+msgid ""
+"The text align center, the menu topbar align left and switchers align right"
+msgstr ""
+"النص محاذاة مركز القائمة topbar محاذاة إلى اليسار و المحولات محاذاة إلى "
+"اليمين"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:61
+msgid "Top bar can be close"
+msgstr "الشريط العلوي يمكن أن تكون قريبة"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:62
+msgid "Enabling this option if you want to show a close button on the top bar"
+msgstr "تمكين هذا الخيار إذا كنت تريد أن تظهر زر إغلاق في الشريط العلوي"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:72
+msgid "Text in the top bar"
+msgstr "النص في الشريط العلوي"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:73
+msgid ""
+"Insert the text you want to see in the top bar here. You can use HTML or "
+"shortcodes"
+msgstr ""
+"أدخل النص الذي تريد أن تراه في الشريط العلوي هنا. يمكنك استخدام HTML أو "
+"الهاتفية القصيرة"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:83
+msgid "Top bar height"
+msgstr "أعلى ارتفاع شريط"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:93
+msgid "Top bar width"
+msgstr "أعلى شريط العرض"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:98
+msgid "Full width (no paddings)"
+msgstr "العرض الكامل (لا سائد)"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:106
+msgid "Social links"
+msgstr "الروابط الاجتماعية"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:107
+msgid "Enable / Disable the social links on the top bar"
+msgstr "تمكين / تعطيل الروابط الاجتماعية في الشريط العلوي"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:117
+msgid "Enable / Disable the top bar menu"
+msgstr "تمكين / تعطيل شريط القائمة العلوية"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:126
+msgid "Top bar menu (for logged-in users)"
+msgstr "أعلى شريط القائمة (على المستخدمين المسجلين)"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:127
+msgid "Select a menu to display in the top bar for logged-in users"
+msgstr "حدد القائمة التي تريد عرضها في الشريط العلوي للمستخدمين في تسجيل"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:139
+msgid "Top bar color scheme"
+msgstr "أعلى شريط الألوان"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:151
+msgid "Top bar Color"
+msgstr "أعلى شريط اللون"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:152
+msgid "Pick a background color for the top bar"
+msgstr "اختيار لون خلفية الشريط العلوي"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:162, 
+#: src/learts/includes/theme-options/page-title/_page-title.php:73
+msgid "Text Color"
+msgstr "لون النص"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:163
+msgid "Pick a color for the text in top bar"
+msgstr "اختيار لون النص في الشريط العلوي"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:174
+msgid ""
+"Enable / Disable the Language Switcher in the top bar instead of the "
+"Language Menu. This feature requires <a href=\"%s\" target=\"_blank\">"
+"WPML</a> or <a href=\"%s\" target=\"_blank\">Polylang</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_topbar.php:184, 
+#: src/learts/includes/theme-options/header/header_topbar.php:205
+msgid "The switchers was customized to compatible with our theme"
+msgstr "المحولات كانت مخصصة متوافقة مع موضوعنا"
+
+#: src/learts/includes/theme-options/header/header_topbar.php:195
+msgid ""
+"Enable / Disable the Currency Switcher in the top bar instead of the "
+"Currency Menu. This feature requires <a href=\"%s\" target=\"_blank\">"
+"WooCommerce Multilingual</a> or <a href=\"%s\" target=\"_blank\">WooCommerce "
+"Currency Switcher</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:16
+msgid "Enable Wishlist"
+msgstr "تمكين قائمة الامنيات"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:17
+msgid "Enable / Disable the wishlist icon in the header"
+msgstr "تمكين / تعطيل رمز الأماني في رأس"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:23
+msgid "Wishlist Icon"
+msgstr "رمز الأماني"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:25
+msgid "Heart"
+msgstr "القلب"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:27
+msgid "Heart Outline"
+msgstr "القلب مخطط"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:35
+msgid "Show Add To Cart Button"
+msgstr "المعرض إضافة إلى العربة زر"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:41
+msgid "Open Wishlist page in a new tab"
+msgstr "فتح صفحة مفضلة في علامة تبويب جديدة"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:48
+msgid "Wishlist Icon Color"
+msgstr "مفضلة رمز اللون"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:49
+msgid "Pick a color for the wishlist icon"
+msgstr "اختيار اللون للحصول على رمز الأماني"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:58
+msgid "Wishlist Item Count Color"
+msgstr "مفضلة لعدد البند اللون"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:59
+msgid "Pick a color for the text of wishlist widget"
+msgstr "اختيار لون النص من الأماني القطعة"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:68
+msgid "Wishlist Item Count Background Color"
+msgstr "مفضلة لعدد البند لون الخلفية"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:69
+msgid "Pick a background color for the item count of wishlist widget"
+msgstr "اختيار لون الخلفية للعنصر عدد من الأماني القطعة"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:79
+msgid "Wishlist Item Count Border Color"
+msgstr "مفضلة لعدد البند لون الحدود"
+
+#: src/learts/includes/theme-options/header/header_wishlist.php:80
+msgid "Pick a border color for the item count of wishlist widget"
+msgstr "اختيار لون الحدود البند عدد من الأماني القطعة"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:22
+msgid "Off-canvas Button"
+msgstr "خارج قماش زر"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:23
+msgid "Turn on / off off-canvas button"
+msgstr "بدوره على / قبالة قماش زر"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:29
+msgid "Action"
+msgstr "العمل"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:31
+msgid "Open Sidebar"
+msgstr "فتح الشريط الجانبي"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:32
+msgid "Open Full-screen Menu"
+msgstr "فتح القائمة كامل الشاشة"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:39
+msgid "Select Sidebar"
+msgstr "حدد الشريط الجانبي"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:40
+msgid "Choose the custom off-canvas sidebar."
+msgstr "اختر مخصص خارج قماش الشريط الجانبي."
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:52
+msgid ""
+"Note: Please add a menu to the Full-screen Menu location on Appearance >> "
+"Menus page"
+msgstr ""
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:60
+msgid "Position"
+msgstr "موقف"
+
+#: src/learts/includes/theme-options/header/offcanvas_button.php:71
+msgid "Off-canvas button color"
+msgstr "خارج قماش لون الزر"
+
+#: src/learts/includes/theme-options/logo/_logo.php:5
+msgid "Logo"
+msgstr "شعار"
+
+#: src/learts/includes/theme-options/logo/_logo.php:13, 
+#: src/learts/includes/theme-options/logo/_logo.php:33, 
+#: src/learts/includes/theme-options/logo/_logo.php:43, 
+#: src/learts/includes/theme-options/logo/_logo.php:52
+msgid "Upload image: png, jpg or gif file"
+msgstr "تحميل الصور: png, jpg أو gif الملف"
+
+#: src/learts/includes/theme-options/logo/_logo.php:22
+msgid "Upload image: png, jpg or gif file, display as logo retina"
+msgstr "تحميل الصور: png, jpg أو gif ملف عرض شعار الشبكية"
+
+#: src/learts/includes/theme-options/logo/_logo.php:34
+msgid "Alternative Logo Image "
+msgstr "البديل صورة الشعار "
+
+#: src/learts/includes/theme-options/logo/_logo.php:51
+msgid "Alternative logo in mobile devices"
+msgstr "البديل الشعار في الأجهزة المحمولة"
+
+#: src/learts/includes/theme-options/logo/_logo.php:60
+msgid "Logo width"
+msgstr "عرض الشعار"
+
+#: src/learts/includes/theme-options/logo/_logo.php:61
+msgid "Set width for logo area in the header (in %)"
+msgstr "تعيين عرض منطقة الشعار في رأس (في المائة)"
+
+#: src/learts/includes/theme-options/logo/_logo.php:77
+msgid "Favicon (Site Icon)"
+msgstr "فافيكون (الموقع أيقونة)"
+
+#: src/learts/includes/theme-options/logo/_logo.php:78
+msgid ""
+"Note: From WordPress 4.3, you can set favicon in your site in <b>Appearance >"
+"> Customize >> Site Identify >> Site Icon</b><br/><img src=\"https://codex."
+"wordpress.org/images/3/3b/customizer-siteicon.jpg\"/>"
+msgstr ""
+
+#: src/learts/includes/theme-options/menu/_menu.php:4
+msgid "Navigation"
+msgstr "الملاحة"
+
+#: src/learts/includes/theme-options/menu/mobile_menu.php:11
+msgid "Social in the mobile menu"
+msgstr "الاجتماعية في القائمة النقالة"
+
+#: src/learts/includes/theme-options/menu/mobile_menu.php:12
+msgid "Enable / Disable social in the mobile menu"
+msgstr "تمكين / تعطيل الاجتماعية في القائمة النقالة"
+
+#: src/learts/includes/theme-options/menu/mobile_menu.php:19
+msgid "Mobile Menu button color"
+msgstr "المحمول على زر القائمة اللون"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:5
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:13
+msgid "Main menu align"
+msgstr "القائمة الرئيسية align"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:14
+msgid "Set the text align for the main menu of your site"
+msgstr "تعيين محاذاة النص على القائمة الرئيسية لموقع الويب الخاص بك"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:17
+msgid "Center"
+msgstr "مركز"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:29
+msgid "Menu Style"
+msgstr "على غرار القائمة"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:32
+msgid "Base"
+msgstr "قاعدة"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:36
+msgid "With separator"
+msgstr "مع فاصل"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:49
+msgid "Menu Item Color"
+msgstr "عنصر القائمة اللون"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:50
+msgid "Pick color for the menu items"
+msgstr "اختيار اللون للحصول على عناصر القائمة"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:63
+msgid "Menu Sub Item Color"
+msgstr "القائمة الفرعية البند اللون"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:64
+msgid "Pick color for the menu sub items"
+msgstr "اختيار لون القائمة الفرعية البنود"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:77
+msgid "Menu Background Color"
+msgstr "لون خلفية القائمة"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:78, 
+#: src/learts/includes/theme-options/menu/site_menu.php:92
+msgid "Only works with Menu Bottom Header"
+msgstr "يعمل فقط مع القائمة أسفل رأس"
+
+#: src/learts/includes/theme-options/menu/site_menu.php:91
+msgid "Menu Border Color"
+msgstr "القائمة لون الحدود"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:14
+msgid "Enabling this option will display the page title area."
+msgstr "تمكين هذا الخيار سيتم عرض عنوان الصفحة المنطقة."
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:22
+msgid "Turn on to display post meta on pages (only works in pages)"
+msgstr "أنتقل إلى عرض آخر ميتا على صفحات (يعمل فقط في الصفحات)"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:30
+msgid "Disable Parallax effect"
+msgstr "تعطيل تأثير المنظر"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:37
+msgid "Remove whitespace"
+msgstr "إزالة المسافة البيضاء"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:38
+msgid ""
+"Remove the whitespace below the header when the Page Title is turned off"
+msgstr "إزالة المسافة البيضاء تحت رأس عند عنوان الصفحة هو إيقاف"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:51, 
+#: src/learts/includes/theme-options/style/_style.php:4
+msgid "Style"
+msgstr "نمط"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:54, 
+#: src/learts/includes/theme-options/page-title/_page-title.php:120
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:62
+msgid "Page Title Height (in pixels)"
+msgstr "عنوان الصفحة الارتفاع (بكسل)"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:82
+msgid "Subtitle Color"
+msgstr "لون الترجمة"
+
+#: src/learts/includes/theme-options/page-title/_page-title.php:104
+msgid "Overlay Color"
+msgstr "تراكب اللون"
+
+#: src/learts/includes/theme-options/pages/_pages.php:5
+msgid "Pages"
+msgstr "صفحات"
+
+#: src/learts/includes/theme-options/pages/_pages.php:13
+msgid "Page Sidebar Position"
+msgstr "الصفحة موقف الشريط الجانبي"
+
+#: src/learts/includes/theme-options/pages/_pages.php:14
+msgid "Controls the position of sidebars for page."
+msgstr "ضوابط موقف الجانبية على الصفحة."
+
+#: src/learts/includes/theme-options/pages/_pages.php:36
+msgid "Search Sidebar Position"
+msgstr "البحث موقف الشريط الجانبي"
+
+#: src/learts/includes/theme-options/pages/_pages.php:37
+msgid "Controls the position of sidebars for search result page."
+msgstr "ضوابط موقف الجانبية على صفحة نتائج البحث."
+
+#: src/learts/includes/theme-options/pages/_pages.php:58
+msgid "Search Sidebar"
+msgstr "البحث في الشريط الجانبي"
+
+#: src/learts/includes/theme-options/pages/_pages.php:59
+msgid "Choose the sidebar for search result page."
+msgstr "اختيار الشريط الجانبي لكل صفحة نتائج البحث."
+
+#: src/learts/includes/theme-options/pages/_pages.php:70
+msgid "404 Background"
+msgstr "404 الخلفية"
+
+#: src/learts/includes/theme-options/pages/_pages.php:71
+msgid "Set background image or color for 404 page."
+msgstr "تعيين صورة الخلفية أو لون الصفحة 404."
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:14
+msgid "Archive Portfolio Style"
+msgstr "أرشيف نمط المحفظة"
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:15
+msgid "Select the display style."
+msgstr "حدد نمط العرض."
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:18
+msgid "Basic Portfolio"
+msgstr "المحفظة الأساسية"
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:22
+msgid "Inside Image"
+msgstr "داخل صورة"
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:33
+msgid "Portfolio columns"
+msgstr "محفظة الأعمدة"
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:34
+msgid "How many column you want to show per row on the portfolio page?"
+msgstr "كم عدد الأعمدة التي تريد أن تظهر في كل صف على محفظة الصفحة ؟ "
+
+#: src/learts/includes/theme-options/portfolio/_portfolio.php:48
+msgid ""
+"Select if you'd like to output the content or excerpt on portfolio pages."
+msgstr "حدد ما إذا كنت ترغب في انتاج المحتوى أو مقتطفات على صفحات المحفظة."
+
+#: src/learts/includes/theme-options/social/_social.php:4
+msgid "Social"
+msgstr "الاجتماعية"
+
+#: src/learts/includes/theme-options/social/_social.php:11
+msgid "Display tooltip"
+msgstr "عرض تلميح الأدوات"
+
+#: src/learts/includes/theme-options/social/_social.php:12
+msgid "Enabling tooltip for the social icons when hover."
+msgstr "تمكين تلميح عن الرموز الاجتماعية عندما تحوم."
+
+#: src/learts/includes/theme-options/social/_social.php:19
+msgid "Open link in new tab"
+msgstr "فتح الرابط في علامة تبويب جديدة"
+
+#: src/learts/includes/theme-options/social/_social.php:27
+msgid "Social Items"
+msgstr "البنود الاجتماعية"
+
+#: src/learts/includes/theme-options/social/_social.php:28
+msgid "Items"
+msgstr "البنود"
+
+#: src/learts/includes/theme-options/social/_social.php:34
+msgid "Icon"
+msgstr "رمز"
+
+#: src/learts/includes/theme-options/social/_social.php:36
+msgid "Select a social network to automatically add its icon"
+msgstr "حدد الشبكة الاجتماعية تلقائيا إضافة أيقونة"
+
+#: src/learts/includes/theme-options/social/_social.php:43
+msgid "Custom Icon"
+msgstr "رمز مخصص"
+
+#: src/learts/includes/theme-options/social/_social.php:45
+msgid "Font Awesome Class"
+msgstr "الخط ممتاز الدرجة"
+
+#: src/learts/includes/theme-options/social/_social.php:46
+msgid ""
+"Use your custom icon. You can find Font Awesome icon class <a "
+"target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: src/learts/includes/theme-options/social/_social.php:57
+msgid "Link (URL)"
+msgstr "رابط (URL)"
+
+#: src/learts/includes/theme-options/social/_social.php:58
+msgid "https://"
+msgstr "https://"
+
+#: src/learts/includes/theme-options/social/_social.php:59
+msgid "Add an URL to your social network"
+msgstr "إضافة رابط على الشبكة الاجتماعية الخاصة بك"
+
+#: src/learts/includes/theme-options/social/_social.php:67
+msgid "Insert your custom title here"
+msgstr "أدخل عنوان مخصص هنا"
+
+#: src/learts/includes/theme-options/social/_social.php:72
+msgid "Custom CSS class"
+msgstr "CSS مخصص الدرجة"
+
+#: src/learts/includes/theme-options/social/_social.php:74
+msgid "Insert your custom CSS class here"
+msgstr "إدراج الخاص بك مخصص CSS class هنا"
+
+#: src/learts/includes/theme-options/style/style_colors.php:4
+msgid "Colors"
+msgstr "الألوان"
+
+#: src/learts/includes/theme-options/style/style_colors.php:13
+msgid "IMPORTANT NOTE"
+msgstr "ملاحظة هامة"
+
+#: src/learts/includes/theme-options/style/style_colors.php:15
+msgid ""
+"This tab contains general color options. Additional color options for "
+"specific areas, can be found within other tabs. Example: For menu color "
+"options go to the menu tab."
+msgstr ""
+"تحتوي علامة التبويب هذه على العامة من خيارات الألوان. إضافية خيارات الألوان "
+"على مجالات محددة يمكن العثور عليها في علامات التبويب الأخرى. مثال: للحصول "
+"على قائمة خيارات الألوان انتقل إلى علامة التبويب القائمة."
+
+#: src/learts/includes/theme-options/style/style_colors.php:22
+msgid "Primary Color"
+msgstr "اللون الأساسي"
+
+#: src/learts/includes/theme-options/style/style_colors.php:32
+msgid "Secondary Color"
+msgstr "اللون الثانوي"
+
+#: src/learts/includes/theme-options/style/style_colors.php:42
+msgid "Tertiary Color"
+msgstr "العالي اللون"
+
+#: src/learts/includes/theme-options/style/style_colors.php:52
+msgid "Links Color"
+msgstr "روابط اللون"
+
+#: src/learts/includes/theme-options/style/style_colors.php:53
+msgid "Controls the color of all text links."
+msgstr "ضوابط اللون من جميع وصلات النص."
+
+#: src/learts/includes/theme-options/style/style_colors.php:62
+msgid "Links Hover Color"
+msgstr "الروابط تحوم اللون"
+
+#: src/learts/includes/theme-options/style/style_colors.php:63
+msgid "Controls the color of all text links when hover."
+msgstr "ضوابط اللون من جميع وصلات النص عندما تحوم."
+
+#: src/learts/includes/theme-options/style/style_colors.php:72
+msgid "Background Color Menu Full Screen"
+msgstr "لون خلفية القائمة على كامل الشاشة"
+
+#: src/learts/includes/theme-options/style/style_colors.php:73
+msgid "Controls the background color of menu-full-screen"
+msgstr "ضوابط لون خلفية القائمة-على كامل الشاشة"
+
+#: src/learts/includes/theme-options/style/style_typo.php:5
+msgid "Typography"
+msgstr "الطباعة"
+
+#: src/learts/includes/theme-options/style/style_typo.php:13
+msgid "Primary Font"
+msgstr "الخط الأساسي"
+
+#: src/learts/includes/theme-options/style/style_typo.php:19
+msgid "These settings control the typography for all body text."
+msgstr "تتحكم هذه الإعدادات في الطباعة على جميع الجسم النص."
+
+#: src/learts/includes/theme-options/style/style_typo.php:34
+msgid "Secondary Font"
+msgstr "الثانوية الخط"
+
+#: src/learts/includes/theme-options/style/style_typo.php:56
+msgid "Tertiary Font"
+msgstr "العالي الخط"
+
+#: src/learts/includes/theme-options/style/style_typo.php:78
+msgid "Heading Font"
+msgstr "يتجه الخط"
+
+#: src/learts/includes/theme-options/style/style_typo.php:79
+msgid "Set you typography options for titles (From h1 to h6 HTML tags)"
+msgstr "تعيين خيارات الطباعة من أجل الألقاب (من h1 إلى h6 علامات HTML)"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:12
+msgid "Product Item Style"
+msgstr "البند المنتج نمط"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:13
+msgid "Select product item style"
+msgstr "حدد المنتج نمط البند"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:20
+msgid "Button Hover"
+msgstr "زر التحويم"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:31
+msgid "Badge"
+msgstr "شارة"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:39
+msgid "Show \"New\" badge"
+msgstr "تظهر شارة \"الجديد\" "
+
+#: src/learts/includes/theme-options/woo/woo_general.php:46
+msgid "New Product with how many days?"
+msgstr "المنتج الجديد مع كم عدد الأيام ؟ "
+
+#: src/learts/includes/theme-options/woo/woo_general.php:56
+msgid "Show \"Hot\" badge"
+msgstr "عرض \"الساخنة\" شارة"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:63
+msgid "Show \"Sale\" badge"
+msgstr "عرض \"بيع\" شارة"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:70
+msgid "Show saved sale price percentage"
+msgstr "تظهر حفظ سعر البيع مئوية"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:71
+msgid ""
+"Show percentage instead of text on \"Sale\" label. Only available with "
+"Simple & External/Affiliate product type. You can see <a href=\"%s\" "
+"target=\"_blank\">here</a> for more information about product type."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:105
+msgid "Animated Quick View"
+msgstr "الرسوم المتحركة عرض سريع"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:126
+msgid "Buttons"
+msgstr "أزرار"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:134, 
+#: src/learts/includes/theme-options/woo/woo_product.php:146
+msgid "Show \"Compare\" button"
+msgstr "عرض زر \"قارن\" "
+
+#: src/learts/includes/theme-options/woo/woo_general.php:135, 
+#: src/learts/includes/theme-options/woo/woo_product.php:147
+msgid ""
+"This feature requires <a href=\"%s\" target=\"_blank\">YITH WooCommerce "
+"Compare</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:147, 
+#: src/learts/includes/theme-options/woo/woo_product.php:130
+msgid "Show \"Wishlist\" button"
+msgstr "تظهر \"قائمة الامنيات\" زر"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:148, 
+#: src/learts/includes/theme-options/woo/woo_general.php:205, 
+#: src/learts/includes/theme-options/woo/woo_product.php:131
+msgid ""
+"This feature requires <a href=\"%s\" target=\"_blank\">YITH WooCommerce "
+"Wishlist</a> plugin."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_general.php:160
+msgid "Animated \"Wishlist\" button"
+msgstr "الرسوم المتحركة \"قائمة الامنيات\" زر"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:181
+msgid "Notification"
+msgstr "إعلام"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:189
+msgid "Enable \"Add to cart\" notification on favicon"
+msgstr "تمكين \"إضافة إلى عربة\" الإعلام على فافيكون"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:190
+msgid "Allows you to show number of cart item via favicon like Facebook"
+msgstr "يسمح لك لإظهار عدد من عربة البند عبر فافيكون مثل Facebook"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:197
+msgid "Enable \"Add to cart\" notification"
+msgstr "تمكين \"إضافة إلى عربة\" إعلام"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:204
+msgid "Enable \"Add to wishlist\" notification"
+msgstr "تمكين \"إضافة مفضلة\" إعلام"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:225
+msgid "'Hot' tag"
+msgstr "'ساخنة' الوسم"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:232, 
+#: src/learts/includes/theme-options/woo/woo_general.php:267, 
+#: src/learts/includes/theme-options/woo/woo_general.php:302
+msgid "Color"
+msgstr "اللون"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:233
+msgid "Pick color for the 'Hot' tag items"
+msgstr "اختيار اللون للحصول على 'ساخنة' الوسم البنود"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:246
+msgid "Pick background color for the 'Hot' tag items"
+msgstr "اختيار لون الخلفية 'ساخنة' الوسم البنود"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:260
+msgid "'New' tag"
+msgstr "'الجديد' الوسم"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:268
+msgid "Pick color for the 'New' tag items"
+msgstr "اختيار اللون للحصول على \"الجديد\" الوسم البنود"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:281
+msgid "Pick background color for the 'New' tag items"
+msgstr "اختيار لون الخلفية \"الجديد\" الوسم البنود"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:295
+msgid "'Sale' tag"
+msgstr "'بيع' الوسم"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:303
+msgid "Pick color for the 'Sale' tag items"
+msgstr "اختيار اللون للحصول على 'بيع' الوسم البنود"
+
+#: src/learts/includes/theme-options/woo/woo_general.php:316
+msgid "Pick background color for the 'Sale' tag items"
+msgstr "اختيار لون الخلفية 'بيع' الوسم البنود"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:4
+msgid "Single Product Page"
+msgstr "الصفحة منتج واحد"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:11
+msgid "Single Product Page Sidebar Position"
+msgstr "صفحة المنتج واحدة موقف الشريط الجانبي"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:12
+msgid "Controls the position of sidebars for the product pages."
+msgstr "ضوابط موقف الجانبية على صفحات المنتج."
+
+#: src/learts/includes/theme-options/woo/woo_product.php:33
+msgid "Single Product Page Sidebar"
+msgstr "الصفحة منتج واحد الشريط الجانبي"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:34
+msgid "Choose the sidebar for single product pages."
+msgstr "اختيار الشريط الجانبي على صفحات منتج واحد."
+
+#: src/learts/includes/theme-options/woo/woo_product.php:45
+msgid "Enable AJAX add to cart on single product page"
+msgstr "تمكين اياكس إضافة إلى السلة على صفحة المنتج واحدة"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:54
+msgid "Show only featured images"
+msgstr "تظهر فقط صور مميزة"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:61
+msgid "Thumbnails Position"
+msgstr "موقف المصغرة"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:75
+msgid "Product Page Layout"
+msgstr "تخطيط صفحة المنتج"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:77, 
+#: src/learts/includes/theme-options/woo/woo_shop.php:51
+msgid "Basic"
+msgstr "الأساسية"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:78
+msgid "Fullwidth"
+msgstr "مكتملة العرض"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:79
+msgid "Sticky Details"
+msgstr "مثبت التفاصيل"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:80
+msgid "Sticky Details (Full-width)"
+msgstr "مثبت التفاصيل (ذات العرض الكامل)"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:81
+msgid "With Background"
+msgstr "مع الخلفية"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:82
+msgid "With Background (Full-width)"
+msgstr "مع الخلفية (ذات العرض الكامل)"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:103
+msgid "Enable zoom for product image"
+msgstr "تمكين تكبير صورة المنتج"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:104
+msgid ""
+"You have to use images larger than the size of the Single Product Image "
+"configured  <a href=\"%s\" target=\"_blank\">here</a>. If you use Product "
+"Page Layout as full width, you should use images of 1000px or more in width. "
+"Otherwise, this function will not work.  Also, this function does not work "
+"with External / Affiliate product."
+msgstr ""
+
+#: src/learts/includes/theme-options/woo/woo_product.php:119
+msgid "Show \"Zoom image\" button"
+msgstr "عرض \"تكبير الصورة\" زر"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:120
+msgid "Click to open image in popup and swipe to zoom"
+msgstr "انقر فوق فتح الصورة في نافذة منبثقة وانتقد للتكبير"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:170
+msgid "Share the product on "
+msgstr "حصة المنتج على "
+
+#: src/learts/includes/theme-options/woo/woo_product.php:195
+msgid "Up-Sells"
+msgstr "يصل تبيع"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:196
+msgid ""
+"Up-sells are products which you recommend instead of the currently viewed "
+"product."
+msgstr "يصل تبيع المنتجات التي تنصح بدلا من المعروضة حاليا المنتج."
+
+#: src/learts/includes/theme-options/woo/woo_product.php:198
+msgid "Also looks great with..."
+msgstr "أيضا تبدو كبيرة مع..."
+
+#: src/learts/includes/theme-options/woo/woo_product.php:204
+msgid "Related Products"
+msgstr "المنتجات ذات الصلة"
+
+#: src/learts/includes/theme-options/woo/woo_product.php:205
+msgid ""
+"Related products is a section on some templates that pulls other products "
+"from your store that share the same tags or categories as the current "
+"product. Set 0 to hide this section."
+msgstr ""
+"المنتجات ذات المقطع على بعض القوالب التي تسحب غيرها من المنتجات من المتجر "
+"الخاص بك التي تشترك في نفس فئة أو فئات المنتج الحالي. مجموعة من 0 إلى إخفاء "
+"هذا القسم."
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:5, 
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:13
+msgid "Shop Toolbar"
+msgstr "متجر الأدوات"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:14
+msgid "Enable shop toolbar on the top of shop pages"
+msgstr "تمكين متجر الأدوات في الجزء العلوي من صفحات متجر"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:21
+msgid "Product Tabs"
+msgstr "علامات المنتج"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:22
+msgid "Enable products tabs on the left"
+msgstr "تمكين المنتجات علامات التبويب على اليسار"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:32
+msgid "Product Tabs Type"
+msgstr "علامات المنتج نوع"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:33
+msgid "Select how to group products in tabs"
+msgstr "تحديد كيفية تجميع المنتجات في علامات التبويب"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:35
+msgid "Groups"
+msgstr "المجموعات"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:49
+msgid "Product Tabs Groups"
+msgstr "علامات المنتج المجموعات"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:53
+msgid "Sale Products"
+msgstr "بيع المنتجات"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:71
+msgid ""
+"Enter category names, separate by commas. Leave empty to get all categories. "
+"Enter a number to get limit number of top categories."
+msgstr ""
+"أدخل أسماء فئة منفصلة بفواصل. تترك فارغة للحصول على جميع الفئات. أدخل عدد "
+"على الحد من عدد من الفئات العليا."
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:85
+msgid "Enter tag names. Separate by commas."
+msgstr "أدخل أسماء العلامات. منفصلة بفواصل."
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:97
+msgid "Product Filter"
+msgstr "فلتر المنتج"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:98
+msgid "Show filter widgets"
+msgstr "عرض تصفية الحاجيات"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:108
+msgid "Product Sort"
+msgstr "نوع المنتج"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:109
+msgid "Show the sort options instead of product count"
+msgstr "تظهر خيارات الفرز بدلا من العد المنتج"
+
+#: src/learts/includes/theme-options/woo/woo_shop_toolbar.php:119
+msgid "Show column switcher"
+msgstr "عرض العمود الجلاد"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:5
+msgid "Shop Page"
+msgstr "صفحة متجر"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:13
+msgid "Shop sidebar position"
+msgstr "متجر موقف الشريط الجانبي"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:14
+msgid "Controls the position of sidebars for the shop pages."
+msgstr "ضوابط موقف الجانبية على صفحات متجر."
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:35
+msgid "Shop Sidebar"
+msgstr "متجر الشريط الجانبي"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:48
+msgid "Shop Layout"
+msgstr "تخطيط متجر"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:49
+msgid "Set the layout for shop"
+msgstr "تعيين تخطيط المحل"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:53
+msgid "Full width and no space"
+msgstr "العرض الكامل و لا الفضاء"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:61
+msgid "Product columns"
+msgstr "الأعمدة المنتج"
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:62
+msgid "How many products you want to show per row on the shop page?"
+msgstr "كيف العديد من المنتجات التي تريد أن تظهر في صف واحد على متجر الصفحة ؟ "
+
+#: src/learts/includes/theme-options/woo/woo_shop.php:75
+msgid "Enable AJAX functionality on shop"
+msgstr "تمكين وظائف اياكس على المحل"
+
+#: src/learts/searchform.php:3
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: src/learts/woocommerce/add-to-wishlist-button.php:42, 
+#: src/learts/woocommerce/add-to-wishlist.php:22
+msgid "Add to wishlist"
+msgstr "إضافة إلى مفضلة"
+
+#: src/learts/woocommerce/cart/cart.php:34, 
+#: src/learts/woocommerce/cart/cart.php:103
+msgid "Price"
+msgstr "السعر"
+
+#: src/learts/woocommerce/cart/cart.php:36, 
+#: src/learts/woocommerce/cart/cart.php:133
+msgid "Total"
+msgstr "مجموع"
+
+#: src/learts/woocommerce/cart/cart.php:98
+msgid "Available on backorder"
+msgstr "المتاحة على المؤجل"
+
+#: src/learts/woocommerce/cart/cart.php:147, 
+#: src/learts/woocommerce/cart/mini-cart.php:85
+msgid "Remove this item"
+msgstr "إزالة هذا البند"
+
+#: src/learts/woocommerce/cart/cart.php:169
+msgid "Coupon:"
+msgstr "القسيمة:"
+
+#: src/learts/woocommerce/cart/cart.php:182
+msgid "Continue Shopping"
+msgstr "مواصلة التسوق"
+
+#: src/learts/woocommerce/cart/cart.php:184
+msgid "Update Cart"
+msgstr "تحديث عربة"
+
+#: src/learts/woocommerce/cart/cross-sells.php:37
+msgid "You may be interested in&hellip;"
+msgstr "كنت قد تكون مهتمة في..."
+
+#: src/learts/woocommerce/cart/mini-cart.php:40
+msgid "No products in the cart."
+msgstr "لا توجد منتجات في عربة التسوق."
+
+#: src/learts/woocommerce/cart/mini-cart.php:139
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+#: src/learts/woocommerce/cart/mini-cart.php:148
+msgid "Checkout"
+msgstr "الخروج"
+
+#: src/learts/woocommerce/compare.php:24
+msgid "Compare products"
+msgstr "مقارنة المنتجات"
+
+#: src/learts/woocommerce/compare.php:76
+msgid "Product Comparison"
+msgstr "مقارنة المنتج"
+
+#: src/learts/woocommerce/compare.php:318
+msgid "Close window [X]"
+msgstr ""
+
+#: src/learts/woocommerce/content-product.php:146
+msgid "Sold: "
+msgstr "تباع: "
+
+#: src/learts/woocommerce/content-product.php:149
+msgid "Available: "
+msgstr "المتاحة: "
+
+#: src/learts/woocommerce/loop/add-to-cart.php:32
+msgid "Select options"
+msgstr "اختر الخيارات"
+
+#: src/learts/woocommerce/loop/add-to-cart.php:35
+msgid "Add to cart"
+msgstr "إضافة إلى السلة"
+
+#: src/learts/woocommerce/loop/add-to-cart.php:39
+msgid "View External Product"
+msgstr "عرض المنتجات الخارجية"
+
+#: src/learts/woocommerce/loop/add-to-cart.php:43
+msgid "View Product"
+msgstr "عرض المنتج"
+
+#: src/learts/woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "تظهر نتيجة واحدة"
+msgstr[1] "عرض كافة %d النتائج"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/woocommerce/loop/result-count.php:34
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "<span>%d products</span>"
+msgstr[0] "تظهر نتيجة واحدة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/woocommerce/myaccount/form-login.php:36
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: src/learts/woocommerce/myaccount/form-login.php:38
+msgid "Great to have you back!"
+msgstr "عظيم أن يكون لك مرة أخرى!"
+
+#: src/learts/woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr "اسم المستخدم أو عنوان البريد الإلكتروني"
+
+#: src/learts/woocommerce/myaccount/form-login.php:51, 
+#: src/learts/woocommerce/myaccount/form-login.php:102
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: src/learts/woocommerce/myaccount/form-login.php:60
+msgid "Remember me"
+msgstr "تذكر لي"
+
+#: src/learts/woocommerce/myaccount/form-login.php:64
+msgid "Lost your password?"
+msgstr "فقدت كلمة المرور الخاصة بك ؟ "
+
+#: src/learts/woocommerce/myaccount/form-login.php:77, 
+#: src/learts/woocommerce/myaccount/form-login.php:113, 
+#: src/learts/woocommerce/myaccount/form-login.php:113
+msgid "Register"
+msgstr "تسجيل"
+
+#: src/learts/woocommerce/myaccount/form-login.php:79
+msgid "If you don’t have an account, register now!"
+msgstr "إذا لم يكن لديك حساب سجل الآن!"
+
+#: src/learts/woocommerce/myaccount/form-login.php:88
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: src/learts/woocommerce/myaccount/form-login.php:95
+msgid "Email address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: src/learts/woocommerce/quick-view.php:77
+msgid "Placeholder"
+msgstr "نائبا"
+
+#: src/learts/woocommerce/quick-view.php:102
+msgid "Please select a rating"
+msgstr "يرجى تحديد تصنيف"
+
+#: src/learts/woocommerce/quick-view.php:117
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+"آسف, لا توجد منتجات مطابقة التحديد الخاص بك. يرجى اختيار مجموعة مختلفة."
+
+#: src/learts/woocommerce/quick-view.php:119
+msgid "Select product options before adding this product to your cart."
+msgstr "حدد خيارات المنتج قبل إضافة هذا المنتج إلى سلة التسوق الخاصة بك."
+
+#: src/learts/woocommerce/quick-view.php:121
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "آسف, هذا المنتج غير متوفر. يرجى اختيار مجموعة مختلفة."
+
+#: src/learts/woocommerce/single-product-reviews.php:34
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s استعراض %2$s"
+msgstr[1] "%1$s استعراض %2$s"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr "استعراض"
+
+#: src/learts/woocommerce/single-product-reviews.php:62
+msgid "There are no reviews yet."
+msgstr "لا توجد بعد استعراض."
+
+#: src/learts/woocommerce/single-product-reviews.php:78
+msgid "Add a review"
+msgstr "إضافة إلى استعراض"
+
+#: src/learts/woocommerce/single-product-reviews.php:78
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "كن أول من يكتب مشاركة \"%s\""
+
+#: src/learts/woocommerce/single-product-reviews.php:80
+msgid "Leave a Reply to %s"
+msgstr "ترك الرد إلى %s"
+
+#: src/learts/woocommerce/single-product-reviews.php:85
+msgid "Name *"
+msgstr "الاسم *"
+
+#: src/learts/woocommerce/single-product-reviews.php:87
+msgid "Email *"
+msgstr "البريد الإلكتروني *"
+
+#: src/learts/woocommerce/single-product-reviews.php:98
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "يجب أن تكون %1$أنها في%2$s إلى ما بعد الاستعراض."
+
+#: src/learts/woocommerce/single-product-reviews.php:102
+msgid "Your rating"
+msgstr "تقييمك"
+
+#: src/learts/woocommerce/single-product-reviews.php:104
+msgid "Rate&hellip;"
+msgstr "معدل..."
+
+#: src/learts/woocommerce/single-product-reviews.php:105
+msgid "Perfect"
+msgstr "مثالية"
+
+#: src/learts/woocommerce/single-product-reviews.php:106
+msgid "Good"
+msgstr "جيد"
+
+#: src/learts/woocommerce/single-product-reviews.php:107
+msgid "Average"
+msgstr "متوسط"
+
+#: src/learts/woocommerce/single-product-reviews.php:108
+msgid "Not that bad"
+msgstr "ليس بهذا السوء"
+
+#: src/learts/woocommerce/single-product-reviews.php:109
+msgid "Very poor"
+msgstr "ضعيف جدا"
+
+#: src/learts/woocommerce/single-product-reviews.php:113
+msgid "Your review *"
+msgstr "الاستعراض الخاص بك *"
+
+#: src/learts/woocommerce/single-product-reviews.php:123
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "تسجيل فقط في العملاء الذين قاموا بشراء هذا المنتج قد ترك الاستعراض."
+
+#: src/learts/woocommerce/single-product/meta.php:50
+msgid "N/A"
+msgstr "N/A"
+
+#: src/learts/woocommerce/single-product/meta.php:55
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "الفئة"
+msgstr[1] "فئات"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/woocommerce/single-product/meta.php:57
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] "الوسم"
+msgstr[1] "Tags"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: src/learts/woocommerce/single-product/product-image.php:127, 
+#: src/learts/woocommerce/single-product/product-image.php:128
+msgid "Click to enlarge"
+msgstr "اضغط للتكبير"
+
+#: src/learts/woocommerce/single-product/product-image.php:136
+msgid "Click to see video"
+msgstr "انقر لرؤية الفيديو"
+
+#: src/learts/woocommerce/single-product/product-image.php:142
+msgid "360 product"
+msgstr "360 المنتج"
+
+#: src/learts/woocommerce/single-product/product-image.php:167
+msgid "Awaiting product image"
+msgstr "في انتظار صورة المنتج"
+
+#: src/learts/woocommerce/single-product/related.php:31
+msgid "You Might Also Like"
+msgstr "قد ترغب أيضا"
+
+#: src/learts/woocommerce/single-product/share.php:35
+msgid "Share on"
+msgstr "حصة على"
+
+#: src/learts/woocommerce/wishlist-view.php:32
+msgid "Edit title"
+msgstr "تحرير العنوان"
+
+#: src/learts/woocommerce/wishlist-view.php:41
+msgid "Save"
+msgstr "حفظ"
+
+#: src/learts/woocommerce/wishlist-view.php:73
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+#: src/learts/woocommerce/wishlist-view.php:80
+msgid "Unit Price"
+msgstr "سعر الوحدة"
+
+#: src/learts/woocommerce/wishlist-view.php:93
+msgid "Stock Status"
+msgstr "وضع المخزون"
+
+#: src/learts/woocommerce/wishlist-view.php:160
+msgid "Free!"
+msgstr "مجانا!"
+
+#: src/learts/woocommerce/wishlist-view.php:166
+msgid "Out of Stock"
+msgstr "من المخزون"
+
+#: src/learts/woocommerce/wishlist-view.php:166
+msgid "In Stock"
+msgstr "في الأوراق المالية"
+
+#: src/learts/woocommerce/wishlist-view.php:175
+msgid "Added on : %s"
+msgstr "وأضاف على : %s"
+
+#: src/learts/woocommerce/wishlist-view.php:199
+msgid "Shared"
+msgstr "مشترك"
+
+#: src/learts/woocommerce/wishlist-view.php:202
+msgid "Private"
+msgstr "خاصة"
+
+#: src/learts/woocommerce/wishlist-view.php:205
+msgid "Public"
+msgstr "العامة"
+
+#: src/learts/woocommerce/wishlist-view.php:232
+msgid "No products were added to the wishlist"
+msgstr "لا توجد منتجات تم إضافتها إلى قائمة الأمنيات"
+
+#: src/learts/woocommerce/wishlist-view.php:249
+msgid "Add the selected products to the cart"
+msgstr "إضافة اختيار المنتجات إلى عربة"
+
+#: src/learts/woocommerce/wishlist-view.php:257, 
+#: src/learts/woocommerce/wishlist-view.php:297
+msgid "Ask for an estimate"
+msgstr "أطلب تقدير"
+
+#: src/learts/woocommerce/wishlist-view.php:279
+msgid "Continue shoping"
+msgstr "مواصلة الوسام"
+
+#: src/learts/woocommerce/wishlist-view.php:287
+msgid "Your email"
+msgstr "البريد الإلكتروني الخاص بك"

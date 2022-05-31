@@ -1,0 +1,23 @@
+.rtl {
+	.woocommerce-pagination {
+		.page-numbers {
+			a {
+				.ion-ios-arrow-thin-left {
+					&:before {
+						content: "\f3d6";
+						font-size: 20px;
+						line-height: 23px;
+					}
+				}
+
+				.ion-ios-arrow-thin-right {
+					&:before {
+						content: "\f3d5";
+						font-size: 20px;
+						line-height: 23px;
+					}
+				}
+			}
+		}
+	}
+}

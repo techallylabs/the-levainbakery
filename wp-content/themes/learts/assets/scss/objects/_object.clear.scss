@@ -1,0 +1,16 @@
+/* Clear float */
+.clear:before,
+.clear:after,
+.entry-content:before,
+.entry-content:after,
+.page-content:before,
+.page-content:after {
+	content: '';
+	display: table;
+}
+
+.clear:after,
+.entry-content:after,
+.page-content:after {
+	clear: both;
+}

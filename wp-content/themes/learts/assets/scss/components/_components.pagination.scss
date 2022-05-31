@@ -1,0 +1,110 @@
+.learts-pagination {
+	margin-bottom: 100px;
+
+	&.woocommerce-pagination {
+		margin-bottom: 30px;
+	}
+}
+
+.learts-pagination ul.page-numbers {
+	font-size: 0;
+	text-align: center;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.learts-pagination ul.page-numbers {
+	a {
+		color: #ababab;
+		font-weight: 500;
+	}
+}
+
+.learts-pagination ul li {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	font-size: 14px;
+	line-height: 1.7;
+	border-radius: 100%;
+	margin: 0 10px;
+}
+
+.learts-pagination ul li span {
+	display: block;
+	width: 15px;
+	line-height: 1.7;
+}
+
+.learts-pagination .current,
+.learts-pagination ul li a {
+	&:after {
+		position: absolute;
+		display: block;
+		content: '';
+		width: 100%;
+		height: 1px;
+		top: 100%;
+		left: 0;
+		margin-top: -3px;
+		background-color: rgba(51, 51, 51, 0.2);
+	}
+}
+
+.learts-pagination .current {
+	position: relative;
+	color: #333333;
+	font-weight: 500;
+}
+
+.learts-pagination ul li a {
+	position: relative;
+	display: block;
+	width: 15px;
+	line-height: 1.7;
+
+	&:after {
+		opacity: 0;
+		visibility: hidden;
+
+		@extend %transit;
+	}
+
+	&:hover {
+		color: #333333;
+
+		@include transit;
+
+		&:after {
+			opacity: 1;
+			visibility: visible;
+		}
+	}
+}
+
+.learts-pagination .prev,
+.learts-pagination .next {
+	width: 100%;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+
+	&:after {
+		display: none;
+	}
+
+	i {
+		font-size: 20px;
+		line-height: 23px;
+	}
+}
+
+.woocommerce-pagination {
+	margin-top: 30px;
+
+	.shop-full-width-no-space & {
+		margin-top: 80px;
+	}
+
+	@extend .learts-pagination;
+}

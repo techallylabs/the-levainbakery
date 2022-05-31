@@ -1,0 +1,49 @@
+.rtl .ps__scrollbar-y-rail {
+  right: auto !important;
+  left: 0;
+}
+
+.rtl .single-nav-wrapper .single-nav__prev-item a i:before {
+  content: '\f3d6';
+}
+
+.rtl .single-nav-wrapper .single-nav__next-item a i:before {
+  content: '\f3d5';
+}
+
+.rtl button.slick-arrow.slick-prev:before,
+.rtl .slick-arrow.slick-prev.learts-button:before {
+  content: '\f054';
+}
+
+.rtl button.slick-arrow.slick-next:before,
+.rtl .slick-arrow.slick-next.learts-button:before {
+  content: '\f053';
+}
+
+.rtl .site-menu .menu > ul > li .children li.page_item.page_item_has_children:after,
+.rtl .site-menu .menu > ul > li .children li.page_item.menu-item-has-children:after,
+.rtl .site-menu .menu > li .sub-menu li.menu-item.page_item_has_children:after,
+.rtl .site-menu .menu > li .sub-menu li.menu-item.menu-item-has-children:after {
+  content: '\f053';
+  font-size: 10px;
+}
+
+.rtl .woocommerce-pagination .page-numbers a .ion-ios-arrow-thin-left:before {
+  content: "\f3d6";
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.rtl .woocommerce-pagination .page-numbers a .ion-ios-arrow-thin-right:before {
+  content: "\f3d5";
+  font-size: 20px;
+  line-height: 23px;
+}
+
+@media (min-width: 1200px) {
+
+  .rtl .site-menu .menu > li.mega-menu .vc_row {
+    left: auto !important;
+  }
+}

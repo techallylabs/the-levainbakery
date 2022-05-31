@@ -1,0 +1,32 @@
+.learts-megamenu .block-list {
+	li {
+		position: relative;
+	}
+
+	li > img {
+		position: absolute;
+		top: -80%;
+		left: 30%;
+		width: 250px;
+		height: auto;
+		border-radius: 5px;
+		box-shadow: 0 10px 25px rgba(0, 0, 0, .2);
+		opacity: 0;
+		visibility: hidden;
+		z-index: 99;
+
+		@extend %transit;
+	}
+
+	li:hover img {
+		opacity: 1;
+		visibility: visible;
+		top: -100%;
+	}
+
+	li:first-child {
+		@include media-breakpoint-down(sm) {
+			margin: 10px 0;
+		}
+	}
+}

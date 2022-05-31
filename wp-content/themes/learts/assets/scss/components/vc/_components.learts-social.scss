@@ -1,0 +1,58 @@
+.learts-social {
+
+	&.shape-circle .social-links li i {
+		border-radius: 100%;
+		border: 1px solid #cccccc;
+	}
+
+	&.shape-square .social-links li i,
+	&.shape-circle .social-links li i {
+		height: 2.5em;
+		width: 2.5em;
+		line-height: 2.5;
+	}
+
+	&.display-name-social {
+		.title {
+			display: none;
+		}
+	}
+
+	&.shape-none li i {
+		background-color: transparent !important;
+	}
+
+	@include media-breakpoint-up(sm) {
+		&.social-align-left {
+			text-align: left;
+		}
+
+		&.social-align-right {
+			text-align: right;
+		}
+
+		&.social-align-center {
+			text-align: center;
+		}
+	}
+}
+
+.learts-social .social-links li {
+	display: inline-block;
+
+	@include media-breakpoint-up(md) {
+		display: inline-block;
+	}
+}
+
+.learts-social .social-links li:last-child {
+	margin-right: 0 !important;
+}
+
+.learts-social .social-links li i {
+	position: relative;
+	z-index: 2;
+
+	@extend %transit;
+}
+
